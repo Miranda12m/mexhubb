@@ -162,7 +162,7 @@ function Navbar({ currentPage, height = 100 }) {
             </nav>
 
             <a
-              href="https://www.instagram.com/vivalavidaexperiences/"
+              href="#"
               target="_blank"
               className="get-started-btn"
               style={{textShadow: '2px 2px 4px rgba(0, 0, 0, 1)'}}

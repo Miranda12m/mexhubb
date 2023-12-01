@@ -20,7 +20,7 @@ export default function Team() {
         }
         
         .team h2 span {
-            color: #ff9100;
+            color: #eb3d90;
         }
         
         .team p {
@@ -51,7 +51,7 @@ export default function Team() {
             position: absolute;
             width: 100%;
             height: 100%;
-            background: linear-gradient(135deg, #ff9100 1%,#56dc1 100%);
+            background: linear-gradient(135deg, #eb3d90 1%,#56dc1 100%);
             top: 0;
             opacity: 0;
             transition: all 0.5s ease-in-out;
@@ -78,7 +78,7 @@ export default function Team() {
         .team .box .image .social-icons i {
             font-size: 18px;
             padding: 0 7px;
-            color: #ff9100;
+            color: #eb3d90;
         }
         
         .team .box:hover .overlay {
