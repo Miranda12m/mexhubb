@@ -86,7 +86,7 @@ function HomeScreen() {
             <Col>
               <div style={{ flex: 1, order: 1, position: 'relative', marginLeft: '10%', marginTop: '5%' }} data-aos="fade-up">
                 <img
-                  src="https://images.unsplash.com/photo-1580934738416-ad531f2920f7?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                  src="https://images.unsplash.com/photo-1521216774850-01bc1c5fe0da?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
                   alt="About Us"
                   style={{ maxWidth: '87%', minWidth: '300px', height: 'auto', borderRadius: '2%', boxShadow:' 0px 0px 15px rgba(0, 0, 0, 0.3)' }}
                 />
@@ -97,7 +97,7 @@ function HomeScreen() {
           </Row>
           <br></br><br></br><br></br><br></br>   
         </div>
-        <br></br><br></br>
+        <br></br>
       </Container>
       <div style={{ backgroundColor: 'white' }}>
       

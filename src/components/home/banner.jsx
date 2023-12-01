@@ -56,7 +56,7 @@ export default function App() {
             <br></br>
             <p>
               <Link to="/services">
-              <button type="button" className="btn btn-success">Book your adventure now!</button>
+              <button type="button" className="btn btn-primary">Book your adventure now!</button>
               </Link>
             </p>
           </div>

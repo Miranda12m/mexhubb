@@ -80,7 +80,7 @@ export default function Services() {
                                 <MDBCard className="mdb-card" style={{ minWidth: '300px', marginLeft: '5%', marginRight: '5%', marginBottom: '5%' }} >
                                     <MDBCardImage src='https://images.unsplash.com/photo-1518638150340-f706e86654de?q=80&w=2067&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D' position='top' style={{ borderRadius: "1.2%" }} alt='...' />
                                     <MDBCardBody>
-                                        <MDBCardTitle><strong>Custom Tour Experience</strong></MDBCardTitle>
+                                        <MDBCardTitle><strong>Do you have any question?</strong></MDBCardTitle>
                                         <MDBCardText>
                                             Some quick example text to build on the card title and make up the bulk of the card's content.
                                         </MDBCardText>
