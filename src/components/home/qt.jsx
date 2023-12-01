@@ -40,7 +40,7 @@ function Qt() {
                             <p className="lead" >
                                 " Discover a new Adventure! "
                             </p>
-                            <span className="lead"> -Viva la vida</span>
+                            <span className="lead"> -Mexhubb</span>
                         </div>
                     </div>
                 </div>

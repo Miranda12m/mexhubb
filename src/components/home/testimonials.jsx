@@ -59,7 +59,7 @@ export default function Testimonials() {
                       />
                     </div>
                     <h5 className="mb-3">Anna Deynah</h5>
-                    <h6 className="text-primary mb-3">Frida Khalo Tour</h6>
+                    <h6 className="text-primary mb-3">Houses</h6>
                     <p className="px-xl-3" style={{ color: 'black' }}>
                       <MDBIcon fas icon="quote-left" className="pe-2" style={{ color: 'black' }} />
                       Lorem ipsum dolor sit amet, consectetur adipisicing elit.
@@ -108,7 +108,7 @@ export default function Testimonials() {
                       />
                     </div>
                     <h5 className="mb-3">John Doe</h5>
-                    <h6 className="text-primary mb-3">Xochimilco Tour</h6>
+                    <h6 className="text-primary mb-3">Tours</h6>
                     <p className="px-xl-3" style={{ color: 'black' }}>
                       <MDBIcon fas icon="quote-left" className="pe-2" />
                       Ut enim ad minima veniam, quis nostrum exercitationem ullam
@@ -156,7 +156,7 @@ export default function Testimonials() {
                       />
                     </div>
                     <h5 className="mb-3">Maria Kate</h5>
-                    <h6 className="text-primary mb-3">Museums Free Walk</h6>
+                    <h6 className="text-primary mb-3">Services</h6>
                     <p className="px-xl-3" style={{ color: 'black' }}>
                       <MDBIcon fas icon="quote-left" className="pe-2" />
                       At vero eos et accusamus et iusto odio dignissimos ducimus
@@ -210,7 +210,7 @@ export default function Testimonials() {
                       />
                     </div>
                     <h5 className="mb-3">John Doe</h5>
-                    <h6 className="text-primary mb-3">Frida Khalo Tour</h6>
+                    <h6 className="text-primary mb-3">Houses</h6>
                     <p className="px-xl-3" style={{ color: 'black' }}>
                       <MDBIcon fas icon="quote-left" className="pe-2" />
                       Lorem ipsum dolor sit amet, consectetur adipisicing elit.
@@ -259,7 +259,7 @@ export default function Testimonials() {
                       />
                     </div>
                     <h5 className="mb-3">Alex Rey</h5>
-                    <h6 className="text-primary mb-3">Xochimilco Tour</h6>
+                    <h6 className="text-primary mb-3">Tours</h6>
                     <p className="px-xl-3" style={{ color: 'black' }}>
                       <MDBIcon fas icon="quote-left" className="pe-2" />
                       Ut enim ad minima veniam, quis nostrum exercitationem ullam
@@ -307,7 +307,7 @@ export default function Testimonials() {
                       />
                     </div>
                     <h5 className="mb-3">Maria Kate</h5>
-                    <h6 className="text-primary mb-3">Museums Free Walk</h6>
+                    <h6 className="text-primary mb-3">Services</h6>
                     <p className="px-xl-3" style={{ color: 'black' }}>
                       <MDBIcon fas icon="quote-left" className="pe-2" />
                       At vero eos et accusamus et iusto odio dignissimos ducimus
@@ -361,7 +361,7 @@ export default function Testimonials() {
                       />
                     </div>
                     <h5 className="mb-3">Anna Deynah</h5>
-                    <h6 className="text-primary mb-3">Frida Khalo Tour</h6>
+                    <h6 className="text-primary mb-3">Houses</h6>
                     <p className="px-xl-3" style={{ color: 'black' }}>
                       <MDBIcon fas icon="quote-left" className="pe-2" style={{ color: 'black' }} />
                       Lorem ipsum dolor sit amet, consectetur adipisicing elit.
@@ -411,7 +411,7 @@ export default function Testimonials() {
                       />
                     </div>
                     <h5 className="mb-3">John Doe</h5>
-                    <h6 className="text-primary mb-3">Xochimilco Tour</h6>
+                    <h6 className="text-primary mb-3">Tours</h6>
                     <p className="px-xl-3" style={{ color: 'black' }}>
                       <MDBIcon fas icon="quote-left" className="pe-2" />
                       Ut enim ad minima veniam, quis nostrum exercitationem ullam
@@ -459,7 +459,7 @@ export default function Testimonials() {
                       />
                     </div>
                     <h5 className="mb-3">Maria Kate</h5>
-                    <h6 className="text-primary mb-3">Museums Free Walk</h6>
+                    <h6 className="text-primary mb-3">Services</h6>
                     <p className="px-xl-3" style={{ color: 'black' }}>
                       <MDBIcon fas icon="quote-left" className="pe-2" />
                       At vero eos et accusamus et iusto odio dignissimos ducimus

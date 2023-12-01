@@ -90,11 +90,14 @@ function HomeScreen() {
                   alt="About Us"
                   style={{ maxWidth: '87%', minWidth: '300px', height: 'auto', borderRadius: '2%', boxShadow:' 0px 0px 15px rgba(0, 0, 0, 0.3)' }}
                 />
+                
               </div>
             </Col>
+            
           </Row>
-
+          <br></br><br></br><br></br><br></br>   
         </div>
+        <br></br><br></br>
       </Container>
       <div style={{ backgroundColor: 'white' }}>
       

@@ -13,8 +13,7 @@ function ContactScreen() {
         <br />
         <br />
         <br />
-        <br />
-        <h3 data-aos="fade-right" style={{ fontSize: '12px', textAlign: 'center', marginLeft: '20%', marginRight: '20%' }}>Interested in travel with us? Have an idea for us you can’t wait to share? We’d love to hear from you. Let us know how we can help you, and i'll promise to get back to you as soon as possible!</h3>
+        <h3 data-aos="fade-right" style={{ fontSize: '18px', textAlign: 'center', marginLeft: '20%', marginRight: '20%' }}>Interested in travel with us? Have an idea for us you can’t wait to share? We’d love to hear from you. Let us know how we can help you, and i'll promise to get back to you as soon as possible!</h3>
         <br></br>
         <br></br>
         <br></br>

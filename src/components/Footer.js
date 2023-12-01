@@ -10,7 +10,7 @@ function Footer() {
                     <div class="container">
                         <div class="row">
                             <div class="col-lg-6 col-12">
-                                <h2 class="Titulos text-white mb-lg-0">VIVA LA VIDA</h2>
+                                <h2 class="Titulos text-white mb-lg-0">Mexhubb</h2>
                             </div>
 
                             <div class="col-lg-6 col-12 d-flex justify-content-lg-end align-items-center">
@@ -29,7 +29,7 @@ function Footer() {
 
                                     <li class="social-icon-item">
                                         <a href="#" class="social-icon-link">
-                                            <FaEvernote size={20} style={{ marginRight: '10px', color: 'white' }} />
+                                            <FaTwitter size={20} style={{ marginRight: '10px', color: 'white' }} />
                                         </a>
                                     </li>
                                 </ul>

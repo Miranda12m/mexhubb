@@ -54,7 +54,7 @@ function Wapp() {
               </div>
             </div>
             <div className="header-info">
-              <div className="whatsapp-name"><b>VIVA LA VIDA</b></div>
+              <div className="whatsapp-name"><b>Mexhubb</b></div>
               <div className="whatsapp-reply-time">
                 Usually replies in a few minutes
               </div>
@@ -67,7 +67,7 @@ function Wapp() {
               </div>
               <div className="whatsapp-message-wrapper">
                 <div className="chat-body-wrapper">
-                  <div className="whatsapp-chat-name">VIVA LA VIDA</div>
+                  <div className="whatsapp-chat-name">Mexhubb</div>
                   <div className="whatsapp-chat-message">
                     <p>Hey there 👋</p>
                     <br />
