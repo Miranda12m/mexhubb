@@ -135,7 +135,7 @@ function Navbar({ currentPage, height = 100 }) {
         <header id="header" className="fixed-top desktop-menu menu-top-w">
           <div className="container d-flex align-items-center justify-content-lg-between">
             <h1 className="me-auto me-lg-0" style={{textShadow: '2px 2px 4px rgba(0, 0, 0, .7)'}}>
-              <Link to="/home">VIVA LA VIDA</Link>
+              <Link to="/home">Mexhubb</Link>
             </h1>
             <nav id="navbar" className="navbar order-last order-lg-0">
               <ul>
