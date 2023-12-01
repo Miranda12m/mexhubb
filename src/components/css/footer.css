@@ -13,7 +13,7 @@ ul {
   }
   
   .single-cta i {
-    color: #cf6a00;
+    color: #eb3d90;
     font-size: 30px;
     float: left;
     margin-top: 8px;
@@ -115,7 +115,7 @@ ul {
     bottom: -15px;
     height: 2px;
     width: 50px;
-    background: #cf6a00;
+    background: #eb3d90;
   }
   
   .footer-widget ul li {
@@ -126,7 +126,7 @@ ul {
   }
   
   .footer-widget ul li a:hover {
-    color: #cf6a00;
+    color: #eb3d90;
   }
   
   .footer-widget ul li a {
@@ -150,9 +150,9 @@ ul {
   .subscribe-form button {
     position: absolute;
     right: 0;
-    background: #cf6a00;
+    background: #eb3d90;
     padding: 13px 20px;
-    border: 1px solid #cf6a00;
+    border: 1px solid #eb3d90;
     top: 0;
   }
   
@@ -174,7 +174,7 @@ ul {
   }
   
   .copyright-text p a {
-    color: #cf6a00;
+    color: #eb3d90;
   }
   
   .footer-menu li {
@@ -183,7 +183,7 @@ ul {
   }
   
   .footer-menu li:hover a {
-    color: #cf6a00;
+    color: #eb3d90;
   }
   
   .footer-menu li a {
@@ -201,7 +201,7 @@ ul {
 
   /* Estilos para la sección superior del pie de página del sitio */
 .site-footer-top {
-  background-color: #cf6a00;
+  background-color: #eb3d90;
   background-repeat: no-repeat;
 
   padding-top: 30px;
