@@ -19,7 +19,7 @@ export default function App() {
         <MDBCarouselItem itemId={1}>
           <div className="overlay"></div>
           <img
-            src='https://images.pexels.com/photos/1438072/pexels-photo-1438072.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
+            src='https://images.pexels.com/photos/1015568/pexels-photo-1015568.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
             className='d-block vw-100'
             alt='...'
           />
@@ -27,7 +27,7 @@ export default function App() {
         <MDBCarouselItem itemId={2}>
           <div className="overlay"></div>
           <img
-            src='https://images.pexels.com/photos/7414931/pexels-photo-7414931.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
+            src='https://images.pexels.com/photos/3856027/pexels-photo-3856027.jpeg'
             className='d-block vw-100'
             alt='...'
           />
@@ -35,7 +35,7 @@ export default function App() {
         <MDBCarouselItem itemId={3}>
           <div className="overlay"></div>
           <img
-            src='https://images.pexels.com/photos/1573471/pexels-photo-1573471.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
+            src='https://images.pexels.com/photos/13100888/pexels-photo-13100888.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
             className='d-block vw-100'
             alt='...'
           />
