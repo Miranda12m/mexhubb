@@ -11,17 +11,6 @@ import Team from '../components/home/team';
 function HomeScreen() {
   return (
     <>
-
-      <Carousel />
-      <Alianzas />
-      <Services />
-      <div style={{ backgroundColor: 'white' }}>
-      
-
-      <Testimonials />
-      </div>
-      <Qt />
-      <br></br>
       <style>
         {`
                   .button-hover:hover {
@@ -31,6 +20,8 @@ function HomeScreen() {
                   }
                 `}
       </style>
+      <Carousel />
+      <Alianzas />
       <Container>
         <div
           style={{
@@ -42,7 +33,7 @@ function HomeScreen() {
           }}
         >
           <Row >
-            
+
             <Col>
               <div data-aos="fade-right"
                 style={{
@@ -50,7 +41,7 @@ function HomeScreen() {
                   order: 2,
                 }}
               >
-                <h2 style={{ marginTop: '4%' }}><strong>About <span style={{color: '#eb3d90'}}> Us</span></strong></h2>
+                <h2 style={{ marginTop: '4%' }}><strong>About <span style={{ color: '#eb3d90' }}> Us</span></strong></h2>
                 <p style={{ marginTop: '4%' }}>
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
                 </p>
@@ -61,7 +52,7 @@ function HomeScreen() {
                   <button onClick={() => window.location.href = '/#/contact'} className="btn btn-primary button-hover" style={{ verticalAlign: 'center', margin: 'auto', alignSelf: 'center' }}>Contact Us</button>
 
                 </div> */}
-               
+
                 <Row className="mt-5" style={{ alignItems: 'center', display: 'flex', justifyContent: 'center', marginBottom: '10%' }}>
                   <Col>
                     <button className='m-1 btn btn-primary button-hover' style={{ backgroundColor: '#3b5998' }} onClick={() => window.open('#', '_blank')}>
@@ -76,7 +67,7 @@ function HomeScreen() {
                   </Col>
                   <Col style={{ alignItems: 'center', display: 'flex', justifyContent: 'center' }}>
                     <button className='m-1 btn btn-primary button-hover' style={{ backgroundColor: '#1da0f1' }} onClick={() => window.open('#', '_blank')}>
-                      <FaTwitter size={20} style={{ marginRight: '10px' }} />Twitter 
+                      <FaTwitter size={20} style={{ marginRight: '10px' }} />Twitter
                     </button>
                   </Col>
                 </Row>
@@ -88,23 +79,32 @@ function HomeScreen() {
                 <img
                   src="https://images.pexels.com/photos/2467506/pexels-photo-2467506.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
                   alt="About Us"
-                  style={{ maxWidth: '87%', minWidth: '300px', height: 'auto', borderRadius: '2%', boxShadow:' 0px 0px 15px rgba(0, 0, 0, 0.3)' }}
+                  style={{ maxWidth: '87%', minWidth: '300px', height: 'auto', borderRadius: '2%', boxShadow: ' 0px 0px 15px rgba(0, 0, 0, 0.3)' }}
                 />
-                
+
               </div>
             </Col>
-            
+
           </Row>
-          <br></br><br></br><br></br><br></br>   
+
         </div>
-        <br></br>
+
       </Container>
       <div style={{ backgroundColor: 'white' }}>
-      
-
-      <Team />
+        <br></br>
+        <Services />
+        <Qt />
       </div>
-  
+
+
+      <Testimonials />
+
+      <div style={{ backgroundColor: 'white' }}>
+
+
+        <Team />
+      </div>
+
 
     </>
 
