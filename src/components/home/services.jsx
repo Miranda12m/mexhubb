@@ -42,7 +42,8 @@ export default function Services() {
                         <Col style={{ marginBottom: '4%' }}>
                             <Link to='/services'>
                                 <MDBCard className="mdb-card" style={{ minWidth: '300px', marginLeft: '5%', marginRight: '5%', marginBottom: '5%' }}>
-                                    <MDBCardImage src='https://images.unsplash.com/photo-1518105779142-d975f22f1b0a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D' position='top' style={{ borderRadius: "1.2%" }} alt='...' />
+                                    <MDBCardImage src='https://images.pexels.com/photos/1438072/pexels-photo-1438072.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1' 
+                                    position='top' style={{ borderRadius: "1.2%" }} alt='...' />
                                     <MDBCardBody>
                                         <MDBCardTitle><strong>Know about our Services</strong></MDBCardTitle>
                                         <MDBCardText>
@@ -60,9 +61,10 @@ export default function Services() {
                         <Col style={{ marginBottom: '4%' }}>
                             <Link to='/services'>
                                 <MDBCard className="mdb-card" style={{ minWidth: '300px', marginLeft: '5%', marginRight: '5%', marginBottom: '5%' }}>
-                                    <MDBCardImage src='https://images.unsplash.com/photo-1601652589234-c282487ec97e?q=80&w=2056&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D' position='top' style={{ borderRadius: "1.2%" }} alt='...' />
+                                    <MDBCardImage src='https://images.pexels.com/photos/697243/pexels-photo-697243.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1' 
+                                    position='top' style={{ borderRadius: "1.2%" }} alt='...' />
                                     <MDBCardBody>
-                                        <MDBCardTitle><strong>Mexico City Tours</strong></MDBCardTitle>
+                                        <MDBCardTitle><strong>Mexhubb Experience</strong></MDBCardTitle>
                                         <MDBCardText>
                                             Some quick example text to build on the card title and make up the bulk of the card's content.
                                         </MDBCardText>
@@ -78,9 +80,10 @@ export default function Services() {
                         <Col style={{ marginBottom: '4%' }}>
                             <Link to='/contact'>
                                 <MDBCard className="mdb-card" style={{ minWidth: '300px', marginLeft: '5%', marginRight: '5%', marginBottom: '5%' }} >
-                                    <MDBCardImage src='https://images.unsplash.com/photo-1518638150340-f706e86654de?q=80&w=2067&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D' position='top' style={{ borderRadius: "1.2%" }} alt='...' />
+                                    <MDBCardImage src='https://images.pexels.com/photos/789822/pexels-photo-789822.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
+                                    position='top' style={{ borderRadius: "1.2%" }} alt='...' />
                                     <MDBCardBody>
-                                        <MDBCardTitle><strong>Do you have any question?</strong></MDBCardTitle>
+                                        <MDBCardTitle><strong>Contact Us</strong></MDBCardTitle>
                                         <MDBCardText>
                                             Some quick example text to build on the card title and make up the bulk of the card's content.
                                         </MDBCardText>

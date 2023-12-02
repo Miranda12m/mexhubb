@@ -37,7 +37,7 @@ function App() {
           />
           <Route path="/home" element={<HomeScreen />} />
           <Route path="/contact" element={<ContactScreen />} />
-          <Route path="/services" element={<ServicesScreen />} />
+          {/* <Route path="/services" element={<ServicesScreen />} /> */}
           <Route path="/coworking" element={<CoworkingsScreen />} />
           <Route path="/hotels" element={<HotelsScreen />} />
           <Route path="/local-consume" element={<LocalConsumesScreen /> } />
