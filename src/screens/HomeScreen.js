@@ -50,7 +50,7 @@ function HomeScreen() {
                   order: 2,
                 }}
               >
-                <h2 style={{ marginTop: '4%' }}><strong>About Us</strong></h2>
+                <h2 style={{ marginTop: '4%' }}><strong>About <span style={{color: '#eb3d90'}}> Us</span></strong></h2>
                 <p style={{ marginTop: '4%' }}>
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
                 </p>
