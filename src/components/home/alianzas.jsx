@@ -83,9 +83,8 @@ function Alianzas() {
             <div data-aos="fade-right">
                 <div class="site-footer-top-top">
                     <div class="container">
-                        <div class="row" style={{ alignItems: 'center', display: 'flex', justifyContent: 'center' }}>
-
-                            <Col style={{ alignItems: 'center', display: 'flex', justifyContent: 'center' }}>Coca Cola</Col>
+                        <div class="row" style={{ alignItems: 'center', display: 'flex', justifyContent: 'center', fontSize: '18px'}}>
+                            <Col style={{ alignItems: 'center', display: 'flex', justifyContent: 'center' }}>Alianza01</Col>
                             <Col style={{ alignItems: 'center', display: 'flex', justifyContent: 'center' }}>Trivago</Col>
                             <Col style={{ alignItems: 'center', display: 'flex', justifyContent: 'center' }}>Webless</Col>
                         </div>

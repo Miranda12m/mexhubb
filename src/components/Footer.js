@@ -75,7 +75,7 @@ function Footer() {
                                         </li>
                                         <li>
                                             <Link to="/contact">
-                                                About Us
+                                                Contact Us
                                             </Link>
                                         </li>
                                         <li>
@@ -89,13 +89,13 @@ function Footer() {
                                             </Link>
                                         </li>
                                         <li>
-                                            <Link to="/restaurants">
-                                                Restaurants
+                                            <Link to="/">
+                                                houses
                                             </Link>
                                         </li>
                                         <li>
                                             <Link to="/hotels">
-                                                Hotels
+                                                Service01
                                             </Link>
                                         </li>
 
