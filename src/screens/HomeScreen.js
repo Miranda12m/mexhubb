@@ -8,6 +8,7 @@ import Alianzas from '../components/home/alianzas';
 import Testimonials from '../components/home/testimonials';
 import Qt from '../components/home/qt';
 import Team from '../components/home/team';
+import FAQ from '../components/home/faq';
 function HomeScreen() {
   return (
     <>
@@ -105,6 +106,7 @@ function HomeScreen() {
         <Team />
       </div>
 
+      <FAQ />
 
     </>
 
