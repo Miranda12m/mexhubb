@@ -4,6 +4,8 @@ import Tour from '../../components/services/Tour';
 import { Container, Row, Col } from 'react-bootstrap';
 import BannerTour from '../../components/services/bannerservices/bannertour';
 import Navbars from '../../components/services/navbars';
+import BodyBag01 from '../../components/services/housing/bodybag1';
+import BodyBag02 from '../../components/services/housing/bodybag2';
 function TourScreen() {
   const [tours, setTours] = useState([]);
 
@@ -28,8 +30,9 @@ function TourScreen() {
 
 
       <h1 data-aos="fade-right" style={{ borderBottom: '1px solid #2f2f2f', marginBottom: '15px' }}><strong>Housing</strong></h1>
-      <br></br>
-      
+  
+      <BodyBag01 />
+      <BodyBag02 />
     </Container>
     </>
   );
