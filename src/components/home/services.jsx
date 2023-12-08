@@ -30,10 +30,10 @@ export default function Services() {
 
                 `}
             </style>
-
+                
             <h1 style={{ textAlign: 'center', marginBottom: '2%', marginTop: '5%' }}><strong>Services</strong></h1>
 
-
+                <br></br><br></br>
             <div data-aos="zoom-in-down">
 
 
@@ -96,6 +96,26 @@ export default function Services() {
                                 </MDBCard>
                             </Link>
                         </Col>
+                        <Col style={{ marginBottom: '4%' }}>
+                            <Link to='/contact'>
+                                <MDBCard className="mdb-card" style={{ minWidth: '300px', marginLeft: '5%', marginRight: '5%', marginBottom: '5%' }} >
+                                    <MDBCardImage src='https://images.pexels.com/photos/789822/pexels-photo-789822.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
+                                    position='top' style={{ borderRadius: "1.2%" }} alt='...' />
+                                    <MDBCardBody>
+                                        <MDBCardTitle><strong>Contact Us</strong></MDBCardTitle>
+                                        <MDBCardText>
+                                            Some quick example text to build on the card title and make up the bulk of the card's content.
+                                        </MDBCardText>
+                                        <div style={{ alignItems: 'center', display: 'flex', justifyContent: 'center' }}>
+                                            <Link to='/contact'>
+                                                <button className="btn btn-primary button-hover" type="button" style={{ verticalAlign: 'center', margin: 'auto', alignSelf: 'center' }}>See more</button>
+                                            </Link>
+                                        </div>
+                                    </MDBCardBody>
+                                </MDBCard>
+                            </Link>
+                        </Col>
+                        
                     </Row>
                 </Container>
             </div>
