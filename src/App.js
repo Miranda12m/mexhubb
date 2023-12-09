@@ -9,10 +9,10 @@ import Footer from "./components/Footer";
 import HomeScreen from "./screens/HomeScreen";
 import ContactScreen from "./screens/ContactScreen";
 import ServicesScreen from "./screens/ServicesScreen"
-import CoworkingsScreen from "./screens/services/CoworkingsScreen"; 
-import HotelsScreen from "./screens/services/HotelsScreen";
-import LocalConsumesScreen from "./screens/services/LocalConsumesScreen";
-import RestaurantScreen from "./screens/services/RestaurantsScreen";
+import LegalScreen from "./screens/services/LegalScreen"; 
+import EventsScreen from "./screens/services/EventsScreen";
+import SpecializedScreen from "./screens/services/SpecializedScreen";
+import ToursScreen from "./screens/services/ToursScreen";
 import HousingScreen from "./screens/services/HousingScreen";
 //
 import AOS from "aos";
@@ -39,10 +39,10 @@ function App() {
           <Route path="/home" element={<HomeScreen />} />
           <Route path="/contact" element={<ContactScreen />} />
           <Route path="/services" element={<ServicesScreen />} />
-          <Route path="/coworking" element={<CoworkingsScreen />} />
-          <Route path="/hotels" element={<HotelsScreen />} />
-          <Route path="/local-consume" element={<LocalConsumesScreen /> } />
-          <Route path="/restaurants" element={<RestaurantScreen />} />
+          <Route path="/legal" element={<LegalScreen />} />
+          <Route path="/events" element={<EventsScreen />} />
+          <Route path="/specialized" element={<SpecializedScreen /> } />
+          <Route path="/tours" element={<ToursScreen />} />
           <Route path="/housing" element={<HousingScreen />} />
         </Routes>
 
