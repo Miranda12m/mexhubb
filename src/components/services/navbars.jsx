@@ -16,7 +16,7 @@ function Navbars() {
 .site-footer-top-top {
   background-color: #2f2f2f;
   background-repeat: no-repeat;
-  margin-bottom: 70px;
+  margin-bottom: 50px;
   padding-top: 30px;
   padding-bottom: 30px;
 }
