@@ -88,11 +88,10 @@ export default function BodyBag01() {
                         <div class="col-lg-6" data-aos="fade-right">
                             <div class="about_header_main mt-3">
                                 <div class="about_icon_box">
-                                    <p class="text_custom font-weight-bold">Lorem Ipsum is simply dummy text</p>
+                                    <p class="text_custom font-weight-bold">Our Home, Your Way</p>
                                 </div>
-                                <h4 class="about_heading text-capitalize font-weight-bold mt-4">Lorem Ipsum is simply dummy text of the printing industry.</h4>
-                                <p class="text-muted mt-3">Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.</p>
-
+                                <h4 class="about_heading text-capitalize font-weight-bold mt-4">Housing Services with Ease</h4>
+                                <p class="text-muted mt-3">Welcome to Mexhubb's Housing Services, where finding your ideal home in Mexico City is not just a process—it's an experience. Our approach is designed to make the entire journey easygoing, aligning our requirements with the documents typically held by foreigners. We understand the unique needs of our clients, and our array of housing options in the most popular districts of Mexico City ensures that you find the perfect fit.</p>
                                 <p class="text-muted mt-3"> Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage.</p>
                             </div>
                         </div>

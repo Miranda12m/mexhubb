@@ -281,37 +281,32 @@ export default function AboutUs() {
             <Container>
 
 
-                <section class="about-section">
+                <div class="about-section">
                     <div class="container">
                         <div class="row">
                             <div class="content-column col-lg-6 col-md-12 col-sm-12 order-2" data-aos="fade-left">
                                 <div class="inner-column">
                                     <div class="sec-title">
                                         <span class="title">About Our Company</span>
-                                        <h2>We are leader in <br />Industrial market Since 2023</h2>
+                                        <h2>Mexico Awaits, <br />Mexhubb Opens the Door</h2>
                                     </div>
-                                    <div class="text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                                        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                                        quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                                        consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-                                        cillum dolore eu fugiat nulla pariatur.Duis aute irure dolor in reprehenderit in voluptate velit esse
-                                        cillum dolore eu fugiat nulla pariatur.</div>
+                                    <div class="text">Welcome to Mexhubb, your premier consulting agency dedicated to providing round-up solutions for foreigners visiting or living in Mexico. At Mexhubb, we are driven by a singular goal: to build trust, reliability, professionalism, and efficiency by offering a comprehensive array of services. As a young and dynamic company, we specialize in catering to the unique needs of digital nomads, expats, tourists, residents, and nationals, serving as a steadfast ally in their everyday life situations.</div>
                                     <ul class="list-style-one">
                                         <li>
                                             <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-check-circle-fill" viewBox="0 0 16 16" style={{ marginRight: '9px', color: '#eb3d90' }}>
                                                 <path d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0m-3.97-3.03a.75.75 0 0 0-1.08.022L7.477 9.417 5.384 7.323a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-.01-1.05z" />
                                             </svg>
-                                            Lorem Ipsum is simply dummy tex</li>
+                                            Unique Approach</li>
                                         <li>
                                             <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-check-circle-fill" viewBox="0 0 16 16" style={{ marginRight: '9px', color: '#eb3d90' }}>
                                                 <path d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0m-3.97-3.03a.75.75 0 0 0-1.08.022L7.477 9.417 5.384 7.323a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-.01-1.05z" />
                                             </svg>
-                                            Consectetur adipisicing elit</li>
+                                            Expertise and Support</li>
                                         <li>
                                             <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-check-circle-fill" viewBox="0 0 16 16" style={{ marginRight: '9px', color: '#eb3d90' }}>
                                                 <path d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0m-3.97-3.03a.75.75 0 0 0-1.08.022L7.477 9.417 5.384 7.323a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-.01-1.05z" />
                                             </svg>
-                                            Sed do eiusmod tempor incididunt</li>
+                                            Community Impact</li>
                                     </ul>
                                     <div class="btn-box ">
                                         <a href="#" class="theme-btn btn-style-one button-hover">Know More About Us</a>
@@ -327,7 +322,7 @@ export default function AboutUs() {
                             </div>
                         </div>
                     </div>
-                </section>
+                </div>
 
 
             </Container>

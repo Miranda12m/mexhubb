@@ -7,10 +7,10 @@ export default function FAQ() {
             <Container>
                 <div>
                     <br></br><br></br><br></br>
-                    <h1 style={{ textAlign: 'center' }}> Frequently Asked Questions </h1>
+                    <h1 style={{ textAlign: 'center' }} data-aos="fade-right" > Frequently Asked Questions </h1>
                     <br></br>
                     <Accordion>
-                        <Accordion.Item eventKey="0">
+                        <Accordion.Item eventKey="0" data-aos="fade-up">
                             <Accordion.Header>Question #1</Accordion.Header>
                             <Accordion.Body>
                                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
@@ -22,7 +22,7 @@ export default function FAQ() {
                                 culpa qui officia deserunt mollit anim id est laborum.
                             </Accordion.Body>
                         </Accordion.Item>
-                        <Accordion.Item eventKey="1">
+                        <Accordion.Item eventKey="1" data-aos="fade-up">
                             <Accordion.Header>Question #2</Accordion.Header>
                             <Accordion.Body>
                                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
@@ -34,7 +34,7 @@ export default function FAQ() {
                                 culpa qui officia deserunt mollit anim id est laborum.
                             </Accordion.Body>
                         </Accordion.Item>
-                        <Accordion.Item eventKey="2">
+                        <Accordion.Item eventKey="2" data-aos="fade-up">
                             <Accordion.Header>Question #3</Accordion.Header>
                             <Accordion.Body>
                                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
@@ -46,7 +46,7 @@ export default function FAQ() {
                                 culpa qui officia deserunt mollit anim id est laborum.
                             </Accordion.Body>
                         </Accordion.Item>
-                        <Accordion.Item eventKey="3">
+                        <Accordion.Item eventKey="3" data-aos="fade-up">
                             <Accordion.Header>Question #4</Accordion.Header>
                             <Accordion.Body>
                                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
@@ -58,7 +58,7 @@ export default function FAQ() {
                                 culpa qui officia deserunt mollit anim id est laborum.
                             </Accordion.Body>
                         </Accordion.Item>
-                        <Accordion.Item eventKey="4">
+                        <Accordion.Item eventKey="4" data-aos="fade-up">
                             <Accordion.Header>Question #5</Accordion.Header>
                             <Accordion.Body>
                                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do

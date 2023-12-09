@@ -120,7 +120,7 @@ export default function Team() {
             `}
             </style>
             <div>
-                <section class="team" id="team">
+                <div class="team" id="team">
                     <div class="container text-center" >
                         <h2 data-aos="fade-right">Meet Our
                             <span> Team</span></h2>
@@ -193,7 +193,7 @@ export default function Team() {
                             </div>
                         </div>
                     </div>
-                </section>
+                </div>
                 <br></br><br></br>
             </div>
 

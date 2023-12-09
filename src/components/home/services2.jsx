@@ -1,14 +1,14 @@
 import React from 'react';
-
+import { Link } from 'react-router-dom';
 import { Container } from 'react-bootstrap';
 import AOS from 'aos';
 import 'aos/dist/aos.css';
 export default function Services2() {
-    AOS.init();
-    return (
-        <>
-            <style>
-                {`
+  AOS.init();
+  return (
+    <>
+      <style>
+        {`
 section {
     padding: 60px 0;
     min-height: 100vh;
@@ -106,7 +106,7 @@ ul {
   color: #ffffff;
   font-size: 40px;
   height: 80px;
-  line-height: 80px;
+  line-height: 70px;
   position: relative;
   text-align: center;
   width: 80px;
@@ -262,102 +262,111 @@ ul {
 }
 
                 `}
-            </style>
-            <Container>
-                <section class="we-offer-area text-center ">
-                    <div class="container">
-                        <div class="row">
-                            <div class="col-md-12">
-                                <div class="site-heading text-center">
-                                    <h2>What we <span>Offer</span></h2>
-                                    <h4>Lorem Ipsum is simply dummy text</h4>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="row our-offer-items less-carousel">
-                            <div class="col-md-4 col-sm-6 equal-height">
-                                <div class="item">
-                                    <i> <svg xmlns="http://www.w3.org/2000/svg" width="42" height="42" fill="currentColor" class="bi bi-bank" viewBox="0 0 16 16" style={{ alignItems: 'center', verticalAlign: 'center' }}>
-                                        <path d="m8 0 6.61 3h.89a.5.5 0 0 1 .5.5v2a.5.5 0 0 1-.5.5H15v7a.5.5 0 0 1 .485.38l.5 2a.498.498 0 0 1-.485.62H.5a.498.498 0 0 1-.485-.62l.5-2A.501.501 0 0 1 1 13V6H.5a.5.5 0 0 1-.5-.5v-2A.5.5 0 0 1 .5 3h.89zM3.777 3h8.447L8 1zM2 6v7h1V6zm2 0v7h2.5V6zm3.5 0v7h1V6zm2 0v7H12V6zM13 6v7h1V6zm2-1V4H1v1zm-.39 9H1.39l-.25 1h13.72l-.25-1Z" />
-                                    </svg></i>
-                                    <h4>Service</h4>
-                                    <p>
-                                        Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-                                    </p>
-                                </div>
-                            </div>
+      </style>
+      <Container>
+        <section class="we-offer-area text-center">
+          <div class="container" >
+            <div class="row">
+              <div class="col-md-12">
+                <div class="site-heading text-center" data-aos="fade-right">
+                  <h2>What we <span>Offer</span></h2>
+                  <h4>Simplifying life, Tailoring Solutions</h4>
+                </div>
+              </div>
+            </div>
+            <div class="row our-offer-items less-carousel">
+              <div class="col-md-4 col-sm-6 equal-height">
+                <Link to="/housing" style={{ color: 'black' }}>
+                  <div class="item" data-aos="fade-right">
+                    <i> <svg xmlns="http://www.w3.org/2000/svg" width="42" height="42" fill="currentColor" class="bi bi-house-check-fill" viewBox="0 0 16 16" >
+                      <path d="M8.707 1.5a1 1 0 0 0-1.414 0L.646 8.146a.5.5 0 0 0 .708.708L8 2.207l6.646 6.647a.5.5 0 0 0 .708-.708L13 5.793V2.5a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5v1.293z" />
+                      <path d="m8 3.293 4.712 4.712A4.5 4.5 0 0 0 8.758 15H3.5A1.5 1.5 0 0 1 2 13.5V9.293l6-6Z" />
+                      <path d="M12.5 16a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7m1.679-4.493-1.335 2.226a.75.75 0 0 1-1.174.144l-.774-.773a.5.5 0 0 1 .708-.707l.547.547 1.17-1.951a.5.5 0 1 1 .858.514Z" />
+                    </svg></i>
+                    <h4>Housing Services</h4>
+                    <p>
+                      Mexhubb's Housing Services, where finding your ideal home in Mexico City is not just a process, it's an experience.
+                    </p>
+                  </div>
+                </Link>
+              </div>
 
-                            <div class="col-md-4 col-sm-6 equal-height">
-                                <div class="item">
-                                    <i><svg xmlns="http://www.w3.org/2000/svg" width="42" height="42" fill="currentColor" class="bi bi-briefcase-fill" viewBox="0 0 16 16" style={{ alignItems: 'center', verticalAlign: 'center' }}>
-                                        <path d="M6.5 1A1.5 1.5 0 0 0 5 2.5V3H1.5A1.5 1.5 0 0 0 0 4.5v1.384l7.614 2.03a1.5 1.5 0 0 0 .772 0L16 5.884V4.5A1.5 1.5 0 0 0 14.5 3H11v-.5A1.5 1.5 0 0 0 9.5 1zm0 1h3a.5.5 0 0 1 .5.5V3H6v-.5a.5.5 0 0 1 .5-.5" />
-                                        <path d="M0 12.5A1.5 1.5 0 0 0 1.5 14h13a1.5 1.5 0 0 0 1.5-1.5V6.85L8.129 8.947a.5.5 0 0 1-.258 0L0 6.85z" />
-                                    </svg></i>
-                                    <h4>Service</h4>
-                                    <p>
-                                        Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-                                    </p>
-                                </div>
-                            </div>
+              <div class="col-md-4 col-sm-6 equal-height">
+                <Link to="" style={{ color: 'black' }}>
+                  <div class="item" data-aos="fade-up">
+                    <i><svg xmlns="http://www.w3.org/2000/svg" width="42" height="42" fill="currentColor" class="bi bi-compass-fill" viewBox="0 0 16 16">
+                      <path d="M15.5 8.516a7.5 7.5 0 1 1-9.462-7.24A1 1 0 0 1 7 0h2a1 1 0 0 1 .962 1.276 7.503 7.503 0 0 1 5.538 7.24m-3.61-3.905L6.94 7.439 4.11 12.39l4.95-2.828 2.828-4.95z" />
+                    </svg></i>
+                    <h4>Mexhubb Tours</h4>
+                    <p>
+                      Mexhubb Tours, where every journey is an exploration and an enriching experience that delve deep into the cultural essence.
+                    </p>
+                  </div>
+                </Link>
+              </div>
 
-                            <div class="col-md-4 col-sm-6 equal-height">
-                                <div class="item">
-                                    <i><svg xmlns="http://www.w3.org/2000/svg" width="42" height="42" fill="currentColor" class="bi bi-list-task" viewBox="0 0 16 16" style={{ alignItems: 'center', verticalAlign: 'center' }}>
-                                        <path fill-rule="evenodd" d="M2 2.5a.5.5 0 0 0-.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5V3a.5.5 0 0 0-.5-.5zM3 3H2v1h1z" />
-                                        <path d="M5 3.5a.5.5 0 0 1 .5-.5h9a.5.5 0 0 1 0 1h-9a.5.5 0 0 1-.5-.5M5.5 7a.5.5 0 0 0 0 1h9a.5.5 0 0 0 0-1zm0 4a.5.5 0 0 0 0 1h9a.5.5 0 0 0 0-1z" />
-                                        <path fill-rule="evenodd" d="M1.5 7a.5.5 0 0 1 .5-.5h1a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5H2a.5.5 0 0 1-.5-.5zM2 7h1v1H2zm0 3.5a.5.5 0 0 0-.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5zm1 .5H2v1h1z" />
-                                    </svg></i>
-                                    <h4>Service</h4>
-                                    <p>
-                                        Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-                                    </p>
-                                </div>
-                            </div>
+              <div class="col-md-4 col-sm-6 equal-height">
+                <Link to='' style={{ color: 'black' }}>
+                  <div class="item" data-aos="fade-left">
+                    <i><svg xmlns="http://www.w3.org/2000/svg" width="42" height="42" fill="currentColor" class="bi bi-calendar-event-fill" viewBox="0 0 16 16">
+                      <path d="M4 .5a.5.5 0 0 0-1 0V1H2a2 2 0 0 0-2 2v1h16V3a2 2 0 0 0-2-2h-1V.5a.5.5 0 0 0-1 0V1H4zM16 14V5H0v9a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2m-3.5-7h1a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-1a.5.5 0 0 1-.5-.5v-1a.5.5 0 0 1 .5-.5" />
+                    </svg></i>
+                    <h4>Mexhubb Events</h4>
+                    <p>
+                      Born out of a passion for sharing our experiences with the world, we offer access to exclusive places and special activities.
+                    </p>
+                  </div>
+                </Link>
+              </div>
 
-                            <div class="col-md-4 col-sm-6 equal-height">
-                                <div class="item">
-                                    <i><svg xmlns="http://www.w3.org/2000/svg" width="42" height="42" fill="currentColor" class="bi bi-heart-pulse-fill" viewBox="0 0 16 16" style={{ alignItems: 'center', verticalAlign: 'center' }}>
-                                        <path d="M1.475 9C2.702 10.84 4.779 12.871 8 15c3.221-2.129 5.298-4.16 6.525-6H12a.5.5 0 0 1-.464-.314l-1.457-3.642-1.598 5.593a.5.5 0 0 1-.945.049L5.889 6.568l-1.473 2.21A.5.5 0 0 1 4 9z" />
-                                        <path d="M.88 8C-2.427 1.68 4.41-2 7.823 1.143c.06.055.119.112.176.171a3.12 3.12 0 0 1 .176-.17C11.59-2 18.426 1.68 15.12 8h-2.783l-1.874-4.686a.5.5 0 0 0-.945.049L7.921 8.956 6.464 5.314a.5.5 0 0 0-.88-.091L3.732 8H.88Z" />
-                                    </svg></i>
-                                    <h4>Service</h4>
-                                    <p>
-                                        Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-                                    </p>
-                                </div>
-                            </div>
+              <div class="col-md-4 col-sm-6 equal-height">
+                <Link to='' style={{ color: 'black' }}>
+                  <div class="item" data-aos="fade-right">
+                    <i><svg xmlns="http://www.w3.org/2000/svg" width="42" height="42" fill="currentColor" class="bi bi-briefcase-fill" viewBox="0 0 16 16">
+                      <path d="M6.5 1A1.5 1.5 0 0 0 5 2.5V3H1.5A1.5 1.5 0 0 0 0 4.5v1.384l7.614 2.03a1.5 1.5 0 0 0 .772 0L16 5.884V4.5A1.5 1.5 0 0 0 14.5 3H11v-.5A1.5 1.5 0 0 0 9.5 1zm0 1h3a.5.5 0 0 1 .5.5V3H6v-.5a.5.5 0 0 1 .5-.5" />
+                      <path d="M0 12.5A1.5 1.5 0 0 0 1.5 14h13a1.5 1.5 0 0 0 1.5-1.5V6.85L8.129 8.947a.5.5 0 0 1-.258 0L0 6.85z" />
+                    </svg></i>
+                    <h4>Legal Services</h4>
+                    <p>
+                      Our collaborative approach ensures that you receive expert guidance and support in various legal matters.
+                    </p>
+                  </div>
+                </Link>
+              </div>
 
-                            <div class="col-md-4 col-sm-6 equal-height">
-                                <div class="item">
-                                    <i><svg xmlns="http://www.w3.org/2000/svg" width="42" height="42" fill="currentColor" class="bi bi-house-check-fill" viewBox="0 0 16 16" style={{ alignItems: 'center', verticalAlign: 'center' }}>
-                                        <path d="M8.707 1.5a1 1 0 0 0-1.414 0L.646 8.146a.5.5 0 0 0 .708.708L8 2.207l6.646 6.647a.5.5 0 0 0 .708-.708L13 5.793V2.5a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5v1.293z" />
-                                        <path d="m8 3.293 4.712 4.712A4.5 4.5 0 0 0 8.758 15H3.5A1.5 1.5 0 0 1 2 13.5V9.293l6-6Z" />
-                                        <path d="M12.5 16a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7m1.679-4.493-1.335 2.226a.75.75 0 0 1-1.174.144l-.774-.773a.5.5 0 0 1 .708-.707l.547.547 1.17-1.951a.5.5 0 1 1 .858.514Z" />
-                                    </svg></i>
-                                    <h4>Service</h4>
-                                    <p>
-                                        Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-                                    </p>
-                                </div>
-                            </div>
+              <div class="col-md-4 col-sm-6 equal-height">
+                <Link to="" style={{ color: 'black' }}>
+                  <div class="item" data-aos="fade-up">
+                    <i><svg xmlns="http://www.w3.org/2000/svg" width="42" height="42" fill="currentColor" class="bi bi-person-fill" viewBox="0 0 16 16">
+                      <path d="M3 14s-1 0-1-1 1-4 6-4 6 3 6 4-1 1-1 1zm5-6a3 3 0 1 0 0-6 3 3 0 0 0 0 6" />
+                    </svg></i>
+                    <h4>Specialized Services</h4>
+                    <p>
+                      We understand that your needs are unique, and we're here to offer a wide array of specialized services.
+                    </p>
+                  </div>
+                </Link>
+              </div>
 
-                            <div class="col-md-4 col-sm-6 equal-height">
-                                <div class="item">
-                                    <i><svg xmlns="http://www.w3.org/2000/svg" width="42" height="42" fill="currentColor" class="bi bi-headset" viewBox="0 0 16 16" style={{ alignItems: 'center', verticalAlign: 'center' }}>
-                                        <path d="M8 1a5 5 0 0 0-5 5v1h1a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1V6a6 6 0 1 1 12 0v6a2.5 2.5 0 0 1-2.5 2.5H9.366a1 1 0 0 1-.866.5h-1a1 1 0 1 1 0-2h1a1 1 0 0 1 .866.5H11.5A1.5 1.5 0 0 0 13 12h-1a1 1 0 0 1-1-1V8a1 1 0 0 1 1-1h1V6a5 5 0 0 0-5-5" />
-                                    </svg></i>
-                                    <h4>Service</h4>
-                                    <p>
-                                        Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </section>
+              <div class="col-md-4 col-sm-6 equal-height">
+                <Link to="/services" style={{ color: 'black' }}>
+                  <div class="item" data-aos="fade-left">
+                    <i><svg xmlns="http://www.w3.org/2000/svg" width="42" height="42" fill="currentColor" class="bi bi-headset" viewBox="0 0 16 16" style={{ alignItems: 'center', verticalAlign: 'center' }}>
+                      <path d="M8 1a5 5 0 0 0-5 5v1h1a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1V6a6 6 0 1 1 12 0v6a2.5 2.5 0 0 1-2.5 2.5H9.366a1 1 0 0 1-.866.5h-1a1 1 0 1 1 0-2h1a1 1 0 0 1 .866.5H11.5A1.5 1.5 0 0 0 13 12h-1a1 1 0 0 1-1-1V8a1 1 0 0 1 1-1h1V6a5 5 0 0 0-5-5" />
+                    </svg></i>
+                    <h4>Contact Us</h4>
+                    <p>
+                      No matter how specific your request, Mexhubb is dedicated to going the extra mile to assist you.
+                    </p>
+                  </div>
+                </Link>
+              </div>
+            </div>
+          </div>
+        </section>
 
-            </Container>
+      </Container>
 
-        </>
-    );
+    </>
+  );
 }
