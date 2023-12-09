@@ -13,13 +13,14 @@ import CoworkingsScreen from "./screens/services/CoworkingsScreen";
 import HotelsScreen from "./screens/services/HotelsScreen";
 import LocalConsumesScreen from "./screens/services/LocalConsumesScreen";
 import RestaurantScreen from "./screens/services/RestaurantsScreen";
-import TourScreen from "./screens/services/ToursScreen";
+import HousingScreen from "./screens/services/HousingScreen";
 //
 import AOS from "aos";
 import "aos/dist/aos.css";
 import { useEffect } from "react";
 import "./App.css"
 import Wapp from './components/wapp'
+
 function App() {
   useEffect(() => {
     AOS.init();
@@ -42,7 +43,7 @@ function App() {
           <Route path="/hotels" element={<HotelsScreen />} />
           <Route path="/local-consume" element={<LocalConsumesScreen /> } />
           <Route path="/restaurants" element={<RestaurantScreen />} />
-          <Route path="/housing" element={<TourScreen />} />
+          <Route path="/housing" element={<HousingScreen />} />
         </Routes>
 
       </main>

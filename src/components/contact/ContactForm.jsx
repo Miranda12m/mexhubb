@@ -55,7 +55,7 @@ function ContactForm() {
           }
         `}
       </style>
-      <div className='card' style={{borderBlockStartColor:'#eb3d90', borderBlockStartWidth: '5px', borderRadius:'1.2%',transform: 'translate(0%, -10%)', boxShadow:' 0px 0px 15px rgba(0, 0, 0, 0.3)' }}>
+      <div className='card' style={{borderBlockStartColor:'#FF3B19', borderBlockStartWidth: '5px', borderRadius:'1.2%',transform: 'translate(0%, -10%)', boxShadow:' 0px 0px 15px rgba(0, 0, 0, 0.3)' }}>
         <form onSubmit={handleSubmit} style={{ maxWidth: '1200px', marginLeft:'45px', marginRight:'45px' }}>
           <br></br><br></br>
           <div className="row mb-3">

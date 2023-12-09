@@ -23,7 +23,7 @@ export default function AboutUs() {
             a,
             a:active,
             a:focus {
-                color: #6f6f6f;
+                color: #FF3B19;
                 text-decoration: none;
                 transition-timing-function: ease-in-out;
                 -ms-transition-timing-function: ease-in-out;
@@ -61,7 +61,7 @@ export default function AboutUs() {
       display: block;
       font-size: 18px;
       line-height: 24px;
-      color: #eb3d90;
+      color: #FF3B19;
       font-weight: 500;
       margin-bottom: 15px;
     }
@@ -126,7 +126,7 @@ export default function AboutUs() {
         display: block;
         font-size: 18px;
         padding: 0px;
-        color: #eb3d90;
+        color: #FF3B19;
         font-weight: 600;
         -moz-font-smoothing: grayscale;
         -webkit-font-smoothing: antialiased;
@@ -150,7 +150,7 @@ export default function AboutUs() {
       font-weight: 600;
       overflow: hidden;
       letter-spacing: 0.02em;
-      background-color: #eb3d90;
+      background-color: #FF3B19;
     }
     
     .btn-style-one:hover{
@@ -293,17 +293,17 @@ export default function AboutUs() {
                                     <div class="text">Welcome to Mexhubb, your premier consulting agency dedicated to providing round-up solutions for foreigners visiting or living in Mexico. At Mexhubb, we are driven by a singular goal: to build trust, reliability, professionalism, and efficiency by offering a comprehensive array of services. As a young and dynamic company, we specialize in catering to the unique needs of digital nomads, expats, tourists, residents, and nationals, serving as a steadfast ally in their everyday life situations.</div>
                                     <ul class="list-style-one">
                                         <li>
-                                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-check-circle-fill" viewBox="0 0 16 16" style={{ marginRight: '9px', color: '#eb3d90' }}>
+                                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-check-circle-fill" viewBox="0 0 16 16" style={{ marginRight: '9px', color: '#FF3B19' }}>
                                                 <path d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0m-3.97-3.03a.75.75 0 0 0-1.08.022L7.477 9.417 5.384 7.323a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-.01-1.05z" />
                                             </svg>
                                             Unique Approach</li>
                                         <li>
-                                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-check-circle-fill" viewBox="0 0 16 16" style={{ marginRight: '9px', color: '#eb3d90' }}>
+                                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-check-circle-fill" viewBox="0 0 16 16" style={{ marginRight: '9px', color: '#FF3B19' }}>
                                                 <path d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0m-3.97-3.03a.75.75 0 0 0-1.08.022L7.477 9.417 5.384 7.323a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-.01-1.05z" />
                                             </svg>
                                             Expertise and Support</li>
                                         <li>
-                                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-check-circle-fill" viewBox="0 0 16 16" style={{ marginRight: '9px', color: '#eb3d90' }}>
+                                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-check-circle-fill" viewBox="0 0 16 16" style={{ marginRight: '9px', color: '#FF3B19' }}>
                                                 <path d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0m-3.97-3.03a.75.75 0 0 0-1.08.022L7.477 9.417 5.384 7.323a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-.01-1.05z" />
                                             </svg>
                                             Community Impact</li>

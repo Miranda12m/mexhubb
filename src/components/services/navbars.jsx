@@ -98,18 +98,18 @@ function Navbars() {
                             </Col>
 
                             <Col style={{ alignItems: 'center', display: 'flex', justifyContent: 'center' }}>
-                                <Link to='/restaurants' className="linksns">Service</Link>
+                                <Link to='/restaurants' className="linksns">Tours</Link>
                             </Col>
 
                             <Col style={{ alignItems: 'center', display: 'flex', justifyContent: 'center' }}>
-                                <Link to='/hotels' className="linksns">Service</Link>
+                                <Link to='/hotels' className="linksns">Events</Link>
                             </Col>
                             
                             <Col style={{ alignItems: 'center', display: 'flex', justifyContent: 'center' }}>
-                                <Link to='/coworking' className="linksns">Service</Link>
+                                <Link to='/coworking' className="linksns">Legal</Link>
                             </Col>
                             <Col style={{ alignItems: 'center', display: 'flex', justifyContent: 'center' }}>
-                                <Link to='/local-consume' className="linksns">Service</Link>
+                                <Link to='/local-consume' className="linksns">Specialized</Link>
                             </Col>
                         </div>
                     </div>

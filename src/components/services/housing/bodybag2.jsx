@@ -20,7 +20,7 @@ export default function BodyBag02() {
     }
     
     .about .heading h2 span {
-        color: #eb3d90;
+        color: #FF3B19;
     }
     
     .about .heading p {

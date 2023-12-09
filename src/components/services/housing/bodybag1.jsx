@@ -47,7 +47,7 @@ export default function BodyBag01() {
             width: 100px;
         }
         .text_custom {
-            color: #eb3d90;
+            color: #FF3B19;
         }
         
         .about_icon i {

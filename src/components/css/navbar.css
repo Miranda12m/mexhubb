@@ -1,6 +1,6 @@
 
 a {
-  color: #eb3d90;
+  color: #FF3B19;
   text-decoration: none;
 }
 
@@ -10,7 +10,7 @@ a:hover {
 }
 
 .active {
-  color: #eb3d90 !important;
+  color: #FF3B19 !important;
 }
 
 
@@ -51,7 +51,7 @@ a:hover {
 }
 
 #header.header-scrolled #navbar a:hover {
-  color: #eb3d90;
+  color: #FF3B19;
 }
 
 #header .logo {
@@ -65,7 +65,7 @@ a:hover {
 }
 
 #header .logo a span {
-  color: #eb3d90;
+  color: #FF3B19;
 }
 
 #header .logo img {
@@ -79,12 +79,12 @@ a:hover {
   transition: 0.3s;
   font-size: 18px;
   display: inline-block;
-  border: 2px solid #eb3d90;
+  border: 2px solid #FF3B19;
   font-weight: bold;
 }
 
 .get-started-btn:hover {
-  background: #eb3d90;
+  background: #FF3B19;
   color: white;
 }
 
@@ -137,7 +137,7 @@ a:hover {
 .navbar .active,
 .navbar .active:focus,
 .navbar li:hover > a {
-  color: #eb3d90;
+  color: #FF3B19;
 }
 
 .navbar .dropdown ul {
@@ -174,7 +174,7 @@ a:hover {
 .navbar .dropdown ul a:hover,
 .navbar .dropdown ul .active:hover,
 .navbar .dropdown ul li:hover > a {
-  background-color: #eb3d90;
+  background-color: #FF3B19;
 }
 
 .navbar .dropdown:hover > ul {
@@ -290,7 +290,7 @@ a:hover {
 .navbar-mobile .active,
 .navbar-mobile li:hover > a {
   color: #151515 !important;
-  background-color: #eb3d90;
+  background-color: #FF3B19;
 }
 
 .navbar-mobile .getstarted,
@@ -329,7 +329,7 @@ a:hover {
 .navbar-mobile .dropdown ul a:hover,
 .navbar-mobile .dropdown ul .active:hover,
 .navbar-mobile .dropdown ul li:hover > a {
-  background-color: #eb3d90;
+  background-color: #FF3B19;
 }
 
 .navbar-mobile .dropdown > .dropdown-active {
