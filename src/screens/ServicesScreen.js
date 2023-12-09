@@ -1,14 +1,11 @@
 import React, { useState, useEffect } from "react";
-import axios from "axios";
-import Tour from "../components/services/Tour";
 import { Container, Row, Col, Card, Button } from "react-bootstrap";
 import BannerServices from "../components/services/banners";
 import Recomendation from "../components/Recomendation";
-import { Link } from "react-router-dom";
 import Navbars from "../components/services/navbars";
 
 function ServicesScreen() {
-  const [tours, setTours] = useState([]);
+ 
 
   return (
     <>
