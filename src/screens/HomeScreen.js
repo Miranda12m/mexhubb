@@ -32,12 +32,9 @@ function HomeScreen() {
       </div>
 
 
-      <Testimonials />
-
       <div style={{ backgroundColor: 'white' }}>
 
-
-        <Team />
+      <Testimonials />
       </div>
 
       <FAQ />

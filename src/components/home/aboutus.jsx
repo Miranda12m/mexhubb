@@ -220,8 +220,8 @@ export default function AboutUs() {
       position: absolute;
       left: -75px;
       top: 65px;
-      height: 520px;
-      width: 520px;
+      height: 100%;
+      width: 100%;
       background-image:url(https://i.ibb.co/fxJ1jtC/about-circle-1.png);
       content: "";
     }
