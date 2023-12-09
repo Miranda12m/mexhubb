@@ -1,9 +1,9 @@
-import React, { useState, useEffect } from "react";
-import { Container, Row, Col, Card, Button } from "react-bootstrap";
+import React from "react";
+import { Container } from "react-bootstrap";
 import BannerServices from "../components/services/banners";
 import Recomendation from "../components/Recomendation";
 import Navbars from "../components/services/navbars";
-
+import ServicesOp from "../components/services/services";
 function ServicesScreen() {
  
 
@@ -23,8 +23,7 @@ function ServicesScreen() {
         </h1>
         <br />
        
-        <br />
-        <Recomendation />
+        <ServicesOp />
         <br />
       </Container>
     </>
