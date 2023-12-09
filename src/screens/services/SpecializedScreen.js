@@ -1,6 +1,6 @@
 import React from 'react';
 import { Container, Row, Col } from 'react-bootstrap';
-import BannerLoc from '../../components/services/bannerservices/bannerloc';
+import Specialized from '../../components/services/specialized/bannerspecialized';
 import Navbars from '../../components/services/navbars';
 
 
@@ -8,7 +8,7 @@ export default function SpecializedScreen() {
  
   return (
     <>
-    <BannerLoc />
+    <Specialized />
     <Navbars />
 
     <Container>

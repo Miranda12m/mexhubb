@@ -1,6 +1,6 @@
 import React from 'react';
 import { Container, Row, Col } from 'react-bootstrap';
-import BannerTour from '../../components/services/bannerservices/bannertour';
+import BannerHousing from '../../components/services/housing/bannerhousing';
 import Navbars from '../../components/services/navbars';
 import BodyBag01 from '../../components/services/housing/bodybag1';
 import BodyBag02 from '../../components/services/housing/bodybag2';
@@ -9,7 +9,7 @@ export default function HousingScreen() {
 
   return (
     <>
-    <BannerTour />
+    <BannerHousing />
     <Navbars />
     <Container>
 

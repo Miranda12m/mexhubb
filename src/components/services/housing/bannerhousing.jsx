@@ -1,7 +1,7 @@
 import React from 'react';
 import { MDBCarousel, MDBCarouselItem } from 'mdb-react-ui-kit';
 
-function BannerTour() {
+export default function BannerHousing() {
   return (
     <>
       <style>
@@ -56,4 +56,3 @@ function BannerTour() {
     </>
   );
 }
-export default BannerTour;

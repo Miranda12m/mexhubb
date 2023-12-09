@@ -1,7 +1,7 @@
 import React from "react";
 import { Container, Row, Col, Card } from "react-bootstrap";
 import Navbars from "../../components/services/navbars";
-import BannerHot from "../../components/services/bannerservices/bannerhot";
+import BannerEvents from "../../components/services/events/bannerevents";
 import { Link } from "react-router-dom";
 
 export default function EventsScreen() {
@@ -23,7 +23,7 @@ export default function EventsScreen() {
 
                 `}
             </style>
-      <BannerHot />
+      <BannerEvents />
       <Navbars />
       <Container>
         <h1

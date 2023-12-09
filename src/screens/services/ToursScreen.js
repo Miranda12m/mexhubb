@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { Container, Row, Col } from 'react-bootstrap';
-import BannerRes from '../../components/services/bannerservices/bannerres';
+import BannerTours from '../../components/services/tours/bannertours';
 import Navbars from '../../components/services/navbars';
 
 
@@ -9,7 +9,7 @@ export default function ToursScreenScreen() {
 
   return (
     <>
-      <BannerRes />
+      <BannerTours />
       <Navbars />
       <Container>
 
