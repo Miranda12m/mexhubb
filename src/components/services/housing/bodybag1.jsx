@@ -21,7 +21,7 @@ export default function BodyBag01() {
         .section_all {
             position: relative;
         
-            padding-bottom: 80px;
+            padding-bottom: 50px;
         }
         .section-title {
             font-weight: 700;
@@ -87,12 +87,10 @@ export default function BodyBag01() {
                     <div class="row vertical_content_manage mt-5">
                         <div class="col-lg-6" data-aos="fade-right">
                             <div class="about_header_main mt-3">
-                                <div class="about_icon_box">
-                                    <p class="text_custom font-weight-bold">Our Home, Your Way</p>
-                                </div>
+                                
                                 <h4 class="about_heading text-capitalize font-weight-bold mt-4">Housing Services with Ease</h4>
-                                <p class="text-muted mt-3">Welcome to Mexhubb's Housing Services, where finding your ideal home in Mexico City is not just a process—it's an experience. Our approach is designed to make the entire journey easygoing, aligning our requirements with the documents typically held by foreigners. We understand the unique needs of our clients, and our array of housing options in the most popular districts of Mexico City ensures that you find the perfect fit.</p>
-                                <p class="text-muted mt-3"> Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage.</p>
+                                <p class="text-muted mt-3">Welcome to Mexhubb's Housing Services, where discovering your ideal home in Mexico City is not just a transaction—it's an immersive experience. Our approach is crafted to simplify the entire journey, aligning our requirements with the documentation typically sought by foreigners. We recognize the distinct needs of our clients, and our diverse range of housing options in the most sought-after districts of Mexico City ensures that you discover the perfect fit.</p>
+                                <p class="text-muted mt-3">At Mexhubb, we go beyond merely providing housing solutions; we curate an environment where each client feels supported and understood throughout the entire process.</p>
                             </div>
                         </div>
                         <div class="col-lg-6" data-aos="fade-up">

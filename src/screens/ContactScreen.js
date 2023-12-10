@@ -13,7 +13,7 @@ function ContactScreen() {
         <br />
         <br />
         <br />
-        <h3 data-aos="fade-right" style={{ fontSize: '18px', textAlign: 'center', marginLeft: '20%', marginRight: '20%' }}>Interested in travel with us? Have an idea for us you can’t wait to share? We’d love to hear from you. Let us know how we can help you, and i'll promise to get back to you as soon as possible!</h3>
+        <h3 data-aos="fade-right" style={{ fontSize: '18px', textAlign: 'center', marginLeft: '20%', marginRight: '20%' }}>We understand that each individual's journey is distinct, and our commitment is to tailor our services to aid them in any situation that may arise during their time in Mexico.</h3>
         <br></br>
         <br></br>
         <br></br>
@@ -39,11 +39,12 @@ function ContactScreen() {
             </Col>
             <Col md={7}>
               <Card.Body >
-                <h3>Stay in touch with us</h3>
-                <p>
-                  Bolas lorem, Gabus en este card hay que agregar socials y algun boton mamalon para que el usuario no tenga que utilizar el forms
+                <h3 style={{marginBottom:'3%'}}>Expertise and Support</h3>
+                <p style={{marginBottom:'3.5%'}}>
+                Our team at Mexhubb comprises individuals with the experience, knowledge, and contacts needed to guide our clients through their everyday life situations. We don't just see problems; we see opportunities to grow and learn. Mexhubb is here for you, ready to turn challenges into positive experiences.
                 </p>
-                <Row className="mt-5" style={{ alignItems: 'center', display: 'flex', justifyContent: 'center', marginBottom: '10%' }}>
+                
+                <Row  style={{ alignItems: 'center', display: 'flex', justifyContent: 'center', marginBottom: '3%' }}>
                   <Col>
                     <button className='m-1 btn btn-primary button-hover' style={{ backgroundColor: '#3b5998' }} onClick={() => window.open('#', '_blank')}>
                       <FaFacebook size={20} style={{ marginRight: '10px' }} /> Facebook

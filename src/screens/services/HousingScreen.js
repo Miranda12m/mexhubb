@@ -10,17 +10,32 @@ export default function HousingScreen() {
 
   return (
     <>
-    <BannerHousing />
-    <Navbars />
-    <Container>
+      <BannerHousing />
+      <Navbars />
+      <Container>
 
 
-      <h1 data-aos="fade-right" style={{ borderBottom: '1px solid #2f2f2f', marginBottom: '15px' }}><strong>Housing</strong></h1>
-  
-      <BodyBag01 />
-      <Imah />
-      <BodyBag02 />
-    </Container>
+        <h1 data-aos="fade-right" style={{ borderBottom: '1px solid #2f2f2f', marginBottom: '15px' }}><strong>Housing</strong></h1>
+
+        <BodyBag01 />
+        <br></br>
+      </Container>
+      <div style={{ backgroundColor: 'white' }}>
+        <br></br>
+        <br></br>
+        <Container>
+          <h2 style={{ color: 'black', margin: '3%', textAlign: 'center' }} data-aos="fade-right" >Why Choose Mexhubb for <span style={{ color: '#ff3b19' }}>Housing</span>?</h2>
+          <Imah />
+
+        </Container>
+        <br></br><br></br><br></br><br></br>
+      </div>
+      <Container>
+        <br></br><br></br>
+        <BodyBag02 />
+        <br></br><br></br>
+      </Container>
+
     </>
   );
 }

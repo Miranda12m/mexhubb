@@ -37,7 +37,7 @@ export default function Imah() {
           }
           .Ttext{
             position:absolute;
-            top:40%;
+            top:45%;
             left:50%;
             color:#ffff;
             text-align:center;
@@ -63,7 +63,7 @@ export default function Imah() {
           .box:hover .Stext{
             opacity:1;
             bottom:0%;
-            top:55%;  
+            top:60%;  
             transition:all .5s ease;
           }
           
@@ -80,32 +80,32 @@ export default function Imah() {
             <Container>
 
                 <div class="section">
-                    <div class="box mdb-card">
+                    <div class="box mdb-card" data-aos="fade-up">
                         <img src="https://images.pexels.com/photos/1003864/pexels-photo-1003864.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" class="image" alt='...' />
                             <div class="overlay">
-                                <h3 class="Ttext">Flight</h3>
-                                <p class="Stext"> This is ease booking for flights. Don't miss the best offers. Hurry Up !</p>
+                                <h3 class="Ttext">Seamless Process</h3>
+                                <p class="Stext"> We've streamlined our housing service to ensure a hassle-free experience.</p>
                             </div>
                     </div>
-                    <div class="box mdb-card">
+                    <div class="box mdb-card" data-aos="fade-up">
                         <img src="https://images.pexels.com/photos/45923/pexels-photo-45923.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" class="image" alt='...' />
                             <div class="overlay">
-                                <h3 class="Ttext">Bus</h3>
-                                <p class="Stext"> This is ease booking for flights. Don't miss the best offers. Hurry Up !</p>
+                                <h3 class="Ttext">Diverse Options</h3>
+                                <p class="Stext"> Explore a range of housing options in the most sought-after districts of Mexico City.</p>
                             </div>
                     </div>
-                    <div class="box mdb-card">
+                    <div class="box mdb-card" data-aos="fade-up">
                         <img src="https://images.pexels.com/photos/2029698/pexels-photo-2029698.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" class="image" alt='...' />
                             <div class="overlay">
-                                <h3 class="Ttext">Hotel</h3>
-                                <p class="Stext"> This is ease booking for flights. Don't miss the best offers. Hurry Up !</p>
+                                <h3 class="Ttext">Transparent Transactions</h3>
+                                <p class="Stext"> We handle everything, ensuring a transparent and secure transaction.</p>
                             </div>
                     </div>
-                    <div class="box mdb-card">
+                    <div class="box mdb-card" data-aos="fade-up">
                         <img src="https://images.pexels.com/photos/4526430/pexels-photo-4526430.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" class="image" alt='...' />
                             <div class="overlay">
-                                <h3 class="Ttext">Recharge</h3>
-                                <p class="Stext"> This is ease booking for flights. Don't miss the best offers. Hurry Up !</p>
+                                <h3 class="Ttext">Tailored Contracts</h3>
+                                <p class="Stext"> Our rental contracts are designed for foreigners or individuals with flexibility in mind. </p>
                             </div>
                     </div>
                 </div>

@@ -27,8 +27,7 @@ export default function BodyBag02() {
         font-size: 15px;
         font-weight: 400;
         line-height: 1.7;
-        color: #999999;
-        margin: 20px 0 60px;
+        color: black;
         padding: 0;
     }
     
@@ -43,7 +42,7 @@ export default function BodyBag02() {
         font-size: 15px;
         font-weight: 400;
         line-height: 1.7;
-        color: #999999;
+        color: black;
         margin: 20px 0 15px;
         padding: 0;
     }
@@ -65,52 +64,59 @@ export default function BodyBag02() {
 
 
                 <section class="about" id="about">
-                    <div class="container">
-                        <div class="heading text-center">
-                            <h2>Section
-                                <span> 2</span></h2>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                <br />
-                                    incididunt ut labore et dolore magna aliqua.
-                            </p>
-                        </div>
+                    <div class="container" >
+
                         <div class="row">
-                            <div class="col-lg-6">
+                            <div class="col-lg-6" data-aos='fade-right'>
                                 <img src="https://i.ibb.co/qpz1hvM/About-us.jpg" alt="about" class="img-fluid" width="100%" />
                             </div>
-                            <div class="col-lg-6">
-                                <h3>Lorem ipsum dolor sit amet, consectetur </h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-                                    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                                    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                                    consequat.</p>
+                            <div class="col-lg-6" data-aos='fade-up'>
+                                <div class="heading ">
+                                    <h2>Our Home,
+                                        <span> Your Way</span></h2>
+                                    <p>Ready to find your perfect home? Explore our housing options now.
+                                    </p>
+                                </div>
+                                <p>At Mexhubb, we believe that finding the right home should be an enjoyable experience. Our housing services are not just about rentals; they're about creating a comfortable and secure space that aligns with your lifestyle. Choose Mexhubb for housing, where ease, transparency, and flexibility come together to make your stay in Mexico City unforgettable.</p>
                                 <div class="row">
                                     <div class="col-md-6">
                                         <h4>
-                                            <i class="far fa-star"></i>Awesome Design</h4>
+                                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-caret-right-fill" viewBox="0 0 16 16" style={{ marginRight: '5px', color: '#FF3B19' }}>
+                                                <path d="m12.14 8.753-5.482 4.796c-.646.566-1.658.106-1.658-.753V3.204a1 1 0 0 1 1.659-.753l5.48 4.796a1 1 0 0 1 0 1.506z" />
+                                            </svg> Comfortable and secure spaces</h4>
                                     </div>
                                     <div class="col-md-6">
                                         <h4>
-                                            <i class="far fa-star"></i>
-                                            Creative Design</h4>
+                                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-caret-right-fill" viewBox="0 0 16 16" style={{ marginRight: '5px', color: '#FF3B19' }}>
+                                                <path d="m12.14 8.753-5.482 4.796c-.646.566-1.658.106-1.658-.753V3.204a1 1 0 0 1 1.659-.753l5.48 4.796a1 1 0 0 1 0 1.506z" />
+                                            </svg>
+                                            Ease, transparency, and flexibility</h4>
                                     </div>
                                     <div class="col-md-6">
                                         <h4>
-                                            <i class="far fa-star"></i>Better Client Service</h4>
+                                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-caret-right-fill" viewBox="0 0 16 16" style={{ marginRight: '5px', color: '#FF3B19' }}>
+                                                <path d="m12.14 8.753-5.482 4.796c-.646.566-1.658.106-1.658-.753V3.204a1 1 0 0 1 1.659-.753l5.48 4.796a1 1 0 0 1 0 1.506z" />
+                                            </svg>Adaptable contracts</h4>
                                     </div>
                                     <div class="col-md-6">
                                         <h4>
-                                            <i class="far fa-star"></i>
-                                            Digital Marketing & Branding</h4>
+                                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-caret-right-fill" viewBox="0 0 16 16" style={{ marginRight: '5px', color: '#FF3B19' }}>
+                                                <path d="m12.14 8.753-5.482 4.796c-.646.566-1.658.106-1.658-.753V3.204a1 1 0 0 1 1.659-.753l5.48 4.796a1 1 0 0 1 0 1.506z" />
+                                            </svg>
+                                            Seamless transition</h4>
                                     </div>
                                     <div class="col-md-6">
                                         <h4>
-                                            <i class="far fa-star"></i>Creative Design</h4>
+                                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-caret-right-fill" viewBox="0 0 16 16" style={{ marginRight: '5px', color: '#FF3B19' }}>
+                                                <path d="m12.14 8.753-5.482 4.796c-.646.566-1.658.106-1.658-.753V3.204a1 1 0 0 1 1.659-.753l5.48 4.796a1 1 0 0 1 0 1.506z" />
+                                            </svg>Smooth and worry-free stay</h4>
                                     </div>
                                     <div class="col-md-6">
                                         <h4>
-                                            <i class="far fa-star"></i>
-                                            Speed And Flexibility</h4>
+                                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-caret-right-fill" viewBox="0 0 16 16" style={{ marginRight: '5px', color: '#FF3B19' }}>
+                                                <path d="m12.14 8.753-5.482 4.796c-.646.566-1.658.106-1.658-.753V3.204a1 1 0 0 1 1.659-.753l5.48 4.796a1 1 0 0 1 0 1.506z" />
+                                            </svg>
+                                            Streamlined housing service</h4>
                                     </div>
                                 </div>
                             </div>
