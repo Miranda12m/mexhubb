@@ -67,34 +67,41 @@ export default function Imah() {
             transition:all .5s ease;
           }
           
+          .mdb-card:hover {
+            box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.3);
+            transform: scale(1.02);
+            transition: all 0.3s ease-in-out;
+        }
+
+
         `}
             </style>
 
             <Container>
 
                 <div class="section">
-                    <div class="box">
+                    <div class="box mdb-card">
                         <img src="https://images.pexels.com/photos/1003864/pexels-photo-1003864.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" class="image" alt='...' />
                             <div class="overlay">
                                 <h3 class="Ttext">Flight</h3>
                                 <p class="Stext"> This is ease booking for flights. Don't miss the best offers. Hurry Up !</p>
                             </div>
                     </div>
-                    <div class="box">
+                    <div class="box mdb-card">
                         <img src="https://images.pexels.com/photos/45923/pexels-photo-45923.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" class="image" alt='...' />
                             <div class="overlay">
                                 <h3 class="Ttext">Bus</h3>
                                 <p class="Stext"> This is ease booking for flights. Don't miss the best offers. Hurry Up !</p>
                             </div>
                     </div>
-                    <div class="box">
+                    <div class="box mdb-card">
                         <img src="https://images.pexels.com/photos/2029698/pexels-photo-2029698.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" class="image" alt='...' />
                             <div class="overlay">
                                 <h3 class="Ttext">Hotel</h3>
                                 <p class="Stext"> This is ease booking for flights. Don't miss the best offers. Hurry Up !</p>
                             </div>
                     </div>
-                    <div class="box">
+                    <div class="box mdb-card">
                         <img src="https://images.pexels.com/photos/4526430/pexels-photo-4526430.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" class="image" alt='...' />
                             <div class="overlay">
                                 <h3 class="Ttext">Recharge</h3>

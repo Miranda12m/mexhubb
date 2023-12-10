@@ -59,13 +59,10 @@ export default function Testimonials() {
                       />
                     </div>
                     <h5 className="mb-3">Anna Deynah</h5>
-                    <h6 className="text-primary mb-3">Houses</h6>
+                    <h6 className="text-primary mb-3">Housing</h6>
                     <p className="px-xl-3" style={{ color: 'black' }}>
                       <MDBIcon fas icon="quote-left" className="pe-2" style={{ color: 'black' }} />
-                      Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                      Quod eos id officiis hic tenetur quae quaerat ad velit ab
-                      hic tenetur.
-                    </p>
+                      Their efficiency and attention to detail were remarkable, providing a hassle-free experience that significantly eased the transition.                    </p>
                     <MDBTypography
                       listUnStyled
                       className="d-flex justify-content-center mb-0"
@@ -111,8 +108,7 @@ export default function Testimonials() {
                     <h6 className="text-primary mb-3">Tours</h6>
                     <p className="px-xl-3" style={{ color: 'black' }}>
                       <MDBIcon fas icon="quote-left" className="pe-2" />
-                      Ut enim ad minima veniam, quis nostrum exercitationem ullam
-                      corporis suscipit laboriosam, nisi ut aliquid commodi.
+                      Exploring Mexico with their knowledgeable guides was not only insightful but also a lot of fun. It added a wonderful dimension to my experience.
                     </p>
                     <MDBTypography
                       listUnStyled
@@ -159,8 +155,7 @@ export default function Testimonials() {
                     <h6 className="text-primary mb-3">Services</h6>
                     <p className="px-xl-3" style={{ color: 'black' }}>
                       <MDBIcon fas icon="quote-left" className="pe-2" />
-                      At vero eos et accusamus et iusto odio dignissimos ducimus
-                      qui blanditiis praesentium voluptatum deleniti.
+                      Mexhubb's service it's genuinely personalized.  I felt well-supported and understood throughout the entire journey.
                     </p>
                     <MDBTypography
                       listUnStyled
@@ -209,13 +204,11 @@ export default function Testimonials() {
                         height="150"
                       />
                     </div>
-                    <h5 className="mb-3">John Doe</h5>
-                    <h6 className="text-primary mb-3">Houses</h6>
+                    <h5 className="mb-3">Will Alister</h5>
+                    <h6 className="text-primary mb-3">Tours</h6>
                     <p className="px-xl-3" style={{ color: 'black' }}>
                       <MDBIcon fas icon="quote-left" className="pe-2" />
-                      Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                      Quod eos id officiis hic tenetur quae quaerat ad velit ab
-                      hic tenetur.
+                      The tours organized by Mexhubb were not just about sightseeing; they were immersive experiences that deepened my connection with Mexico.
                     </p>
                     <MDBTypography
                       listUnStyled
@@ -259,11 +252,10 @@ export default function Testimonials() {
                       />
                     </div>
                     <h5 className="mb-3">Alex Rey</h5>
-                    <h6 className="text-primary mb-3">Tours</h6>
+                    <h6 className="text-primary mb-3">Housing</h6>
                     <p className="px-xl-3" style={{ color: 'black' }}>
                       <MDBIcon fas icon="quote-left" className="pe-2" />
-                      Ut enim ad minima veniam, quis nostrum exercitationem ullam
-                      corporis suscipit laboriosam, nisi ut aliquid commodi.
+                      Their team was attuned to the emotional aspects of relocation, offering support and guidance that went beyond the call of duty. 
                     </p>
                     <MDBTypography
                       listUnStyled
@@ -306,12 +298,11 @@ export default function Testimonials() {
                         height="150"
                       />
                     </div>
-                    <h5 className="mb-3">Maria Kate</h5>
+                    <h5 className="mb-3">Jennifer Goya</h5>
                     <h6 className="text-primary mb-3">Services</h6>
                     <p className="px-xl-3" style={{ color: 'black' }}>
                       <MDBIcon fas icon="quote-left" className="pe-2" />
-                      At vero eos et accusamus et iusto odio dignissimos ducimus
-                      qui blanditiis praesentium voluptatum deleniti.
+                      Mexhubb has set a high standard for assistance services, and I am grateful for their dedication to ensuring a positive and seamless life transition.
                     </p>
                     <MDBTypography
                       listUnStyled
@@ -360,13 +351,11 @@ export default function Testimonials() {
                         height="150"
                       />
                     </div>
-                    <h5 className="mb-3">Anna Deynah</h5>
-                    <h6 className="text-primary mb-3">Houses</h6>
+                    <h5 className="mb-3">Andrea Martinez</h5>
+                    <h6 className="text-primary mb-3">Tours</h6>
                     <p className="px-xl-3" style={{ color: 'black' }}>
                       <MDBIcon fas icon="quote-left" className="pe-2" style={{ color: 'black' }} />
-                      Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                      Quod eos id officiis hic tenetur quae quaerat ad velit ab
-                      hic tenetur.
+                      The guides' passion for the country's history, culture, and traditions made each excursion enlightening.
                     </p>
                     <MDBTypography
                       listUnStyled
@@ -410,13 +399,11 @@ export default function Testimonials() {
                         alt=""
                       />
                     </div>
-                    <h5 className="mb-3">John Doe</h5>
-                    <h6 className="text-primary mb-3">Tours</h6>
+                    <h5 className="mb-3">Drake Davis</h5>
+                    <h6 className="text-primary mb-3">Housing</h6>
                     <p className="px-xl-3" style={{ color: 'black' }}>
                       <MDBIcon fas icon="quote-left" className="pe-2" />
-                      Ut enim ad minima veniam, quis nostrum exercitationem ullam
-                      corporis suscipit laboriosam, nisi ut aliquid commodi.
-                    </p>
+                      Mexhubb's assistance in finding and securing my residence showcased their commitment to going above and beyond.                    </p>
                     <MDBTypography
                       listUnStyled
                       className="d-flex justify-content-center mb-0"
@@ -458,12 +445,11 @@ export default function Testimonials() {
                         height="150"
                       />
                     </div>
-                    <h5 className="mb-3">Maria Kate</h5>
+                    <h5 className="mb-3">Karen Williams</h5>
                     <h6 className="text-primary mb-3">Services</h6>
                     <p className="px-xl-3" style={{ color: 'black' }}>
                       <MDBIcon fas icon="quote-left" className="pe-2" />
-                      At vero eos et accusamus et iusto odio dignissimos ducimus
-                      qui blanditiis praesentium voluptatum deleniti.
+                      They seamlessly integrated legal processes, tours, and residence acquisition, creating a cohesive and comprehensive experience.
                     </p>
                     <MDBTypography
                       listUnStyled

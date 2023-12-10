@@ -18,7 +18,7 @@ export default function BannerLegal() {
         <MDBCarouselItem itemId={1}>
           <div className="overlay"></div>
           <img
-            src='https://images.unsplash.com/photo-1527192491265-7e15c55b1ed2?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
+            src='https://images.unsplash.com/photo-1562564055-71e051d33c19?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
             className='d-block vw-100'
             alt='...'
           />
@@ -26,7 +26,7 @@ export default function BannerLegal() {
         <MDBCarouselItem itemId={2}>
           <div className="overlay"></div>
           <img
-            src='https://images.unsplash.com/photo-1523908511403-7fc7b25592f4?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
+            src='https://images.unsplash.com/photo-1573496782646-e8d943a4bdd1?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
             className='d-block vw-100'
             alt='...'
           />
@@ -34,7 +34,7 @@ export default function BannerLegal() {
         <MDBCarouselItem itemId={3}>
           <div className="overlay"></div>
           <img
-            src='https://images.unsplash.com/photo-1600765728673-7b4aa76cc3ce?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
+            src='https://images.unsplash.com/photo-1517048676732-d65bc937f952?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
             className='d-block vw-100'
             alt='...'
           />
@@ -45,7 +45,7 @@ export default function BannerLegal() {
         <div className="row">
           <div className="col-md-12 text-white text-center" data-aos="fade-right">
             <h1 className="m-b-20" >
-              <strong style={{textShadow: '2px 2px 4px rgba(0, 0, 0, 0.5)', fontSize: '1.8em', fontWeight:'bold', color: 'white'}}>Coworking</strong>
+              <strong style={{textShadow: '2px 2px 4px rgba(0, 0, 0, 0.5)', fontSize: '1.8em', fontWeight:'bold', color: 'white'}}>Legal Services</strong>
             </h1>
             <p className="m-b-40" style={{textShadow: '2px 2px 4px rgba(0, 0, 0, 0.5)', fontSize: '1.3em', fontWeight:'bold'}}>
               

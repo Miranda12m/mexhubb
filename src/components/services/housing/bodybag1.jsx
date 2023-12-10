@@ -95,7 +95,7 @@ export default function BodyBag01() {
                                 <p class="text-muted mt-3"> Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage.</p>
                             </div>
                         </div>
-                        <div class="col-lg-6" data-aos="fade-left">
+                        <div class="col-lg-6" data-aos="fade-up">
                             <div class="img_about mt-3">
                                 <img src="https://i.ibb.co/qpz1hvM/About-us.jpg" alt="" class="img-fluid mx-auto d-block" />
                             </div>

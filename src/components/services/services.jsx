@@ -28,7 +28,7 @@ export default function ServicesOp() {
           }
           
           .blog-card a:hover {
-            color: #5ad67d;
+            color: #ff3b19;
           }
           
           .blog-card:hover {
@@ -141,7 +141,7 @@ export default function ServicesOp() {
           }
           
           .blog-card .description .read-more a {
-            color: #5ad67d;
+            color: #ff3b19;
             display: inline-block;
             position: relative;
           }
@@ -173,7 +173,7 @@ export default function ServicesOp() {
             content: "";
             position: absolute;
             height: 5px;
-            background: #5ad67d;
+            background: #ff3b19;
             width: 35px;
             top: -0.75rem;
             border-radius: 3px;
