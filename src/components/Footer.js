@@ -89,16 +89,25 @@ function Footer() {
                                             </Link>
                                         </li>
                                         <li>
-                                            <Link to="/">
-                                                houses
+                                            <Link to="/housing">
+                                                Housing
                                             </Link>
                                         </li>
                                         <li>
-                                            <Link to="/hotels">
-                                                Service01
+                                            <Link to="/events">
+                                                Events
                                             </Link>
                                         </li>
-
+                                        <li>
+                                            <Link to="/legal">
+                                                Legal
+                                            </Link>
+                                        </li>
+                                        <li>
+                                            <Link to="/specialized">
+                                                Specialized
+                                            </Link>
+                                        </li>
                                     </ul>
                                 </div>
                             </div>
@@ -110,7 +119,7 @@ function Footer() {
                                     <div className="footer-text mb-25">
                                         <p>Don't miss to contact us if you had any question</p>
                                         <p>Phone: +52 81 8020 9327</p>
-                                        <p>Mail: contact@weblessproject.com</p>
+                                        <p>Mail: contact@mexhubb.com</p>
                                     </div>
 
                                 </div>

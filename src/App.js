@@ -14,6 +14,7 @@ import EventsScreen from "./screens/services/EventsScreen";
 import SpecializedScreen from "./screens/services/SpecializedScreen";
 import ToursScreen from "./screens/services/ToursScreen";
 import HousingScreen from "./screens/services/HousingScreen";
+import TermsScreen from "./screens/termsandconditions";
 //
 import AOS from "aos";
 import "aos/dist/aos.css";
@@ -44,6 +45,8 @@ function App() {
           <Route path="/specialized" element={<SpecializedScreen /> } />
           <Route path="/tours" element={<ToursScreen />} />
           <Route path="/housing" element={<HousingScreen />} />
+          <Route path='/terms-and-conditions' element={<TermsScreen />} />
+          Rout
         </Routes>
 
       </main>
