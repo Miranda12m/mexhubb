@@ -62,11 +62,11 @@ function Footer() {
                                     </div>
                                     <div className="footer-logo">
                                         <Link to="/">
-                                            <img src="./img/Weblesslogosbg.png" className="img-fluid" alt="logo"></img>
+                                            <img src="https://i.ibb.co/y8j60dJ/2-1-removebg-preview2.png" alt="2-1-removebg-preview" className="img-fluid" alt="logo"></img>
                                         </Link>
                                     </div>
                                     <div className="footer-text">
-                                        <p>We appreciate your trust in our company and our products. We will continue working hard to provide you with the best products and services.</p>
+                                        <p>We appreciate your trust in our company and our products. We will continue working hard to provide you with the best services.</p>
                                     </div>
 
                                 </div>
