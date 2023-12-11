@@ -25,19 +25,19 @@ function Footer() {
                             <div class="col-lg-6 col-12 d-flex justify-content-lg-end align-items-center">
                                 <ul class="social-icon d-flex justify-content-lg-end">
                                     <li class="social-icon-item">
-                                        <a href="#" class="social-icon-link">
+                                        <a href="https://www.facebook.com/profile.php?id=61554405899957" target='blank' class="social-icon-link">
                                             <FaFacebook size={20} style={{ marginRight: '10px', color: 'white' }} class='button-hover' />
                                         </a>
                                     </li>
 
                                     <li class="social-icon-item">
-                                        <a href="#" class="social-icon-link">
+                                        <a href="https://www.instagram.com/mexhubb/" target='blank'class="social-icon-link">
                                             <FaInstagram size={20} style={{ marginRight: '10px', color: 'white' }} class='button-hover' />
                                         </a>
                                     </li>
 
                                     <li class="social-icon-item">
-                                        <a href="#" class="social-icon-link">
+                                        <a href="#" class="socEstas ial-icon-link">
                                             <FaTwitter size={20} style={{ marginRight: '10px', color: 'white' }} class='button-hover'  />
                                         </a>
                                     </li>
