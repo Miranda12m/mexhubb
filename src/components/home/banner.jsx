@@ -13,6 +13,12 @@ export default function App() {
             object-fit: cover;
             filter: brightness(0.6);
           }
+          .button-hover:hover {
+            box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.3);
+            transform: scale(1.02);
+            transition: all 0.2s ease-in-out;
+            background-color: #ea2d0d;
+        }
         `}
       </style>
       <MDBCarousel style={{ position: 'relative', overflow: 'hidden', width: '100%', height: '100vh' }}>
@@ -47,7 +53,10 @@ export default function App() {
         <div className="row">
           <div className="col-md-12 text-white text-center" >
             <h1 className="m-b-20" >
-              <strong style={{textShadow: '2px 2px 4px rgba(0, 0, 0, 0.5)', fontSize: '2em', fontWeight:'bold', color: 'white'}}>Mexhubb<br /></strong>
+              <strong style={{textShadow: '2px 2px 4px rgba(0, 0, 0, 0.5)', fontSize: '2em', fontWeight:'bold', color: 'white'}}>
+              <img src="https://i.ibb.co/y8j60dJ/2-1-removebg-preview2.png" alt="2-1-removebg-preview" className="img-fluid" alt="logo" style={{marginBottom:'10px'}}></img>
+              <br />
+              </strong>
               <strong style={{textShadow: '2px 2px 4px rgba(0, 0, 0, 0.5)',fontWeight:'bold', color: 'white'}}>Your Partner in Mexico <br /></strong>
             </h1>
             <p className="m-b-40" style={{textShadow: '2px 2px 4px rgba(0, 0, 0, 0.5)', fontSize: '1.3em', fontWeight:'bold'}}>
@@ -56,7 +65,7 @@ export default function App() {
             <br></br>
             <p>
               <Link to="/services">
-              <button type="button" className="btn btn-primary">Book your adventure now!</button>
+              <button type="button" className="btn btn-primary button-hover">Book your adventure now!</button>
               </Link>
             </p>
           </div>
