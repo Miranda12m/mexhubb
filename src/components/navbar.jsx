@@ -135,7 +135,8 @@ function Navbar({ currentPage, height = 100 }) {
         <header id="header" className="fixed-top desktop-menu menu-top-w">
           <div className="container d-flex align-items-center justify-content-lg-between">
             <h1 className="me-auto me-lg-0" style={{textShadow: '2px 2px 4px rgba(0, 0, 0, .7)'}}>
-              <Link to="/home">Mexhubb</Link>
+              <Link to="/home">                                            <img src="https://i.ibb.co/y8j60dJ/2-1-removebg-preview2.png" alt="2-1-removebg-preview" className="img-fluid" alt="logo" style={{maxHeight:'40px'}}></img>
+</Link>
             </h1>
             <nav id="navbar" className="navbar order-last order-lg-0">
               <ul>

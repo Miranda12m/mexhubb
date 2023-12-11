@@ -54,8 +54,7 @@ export default function App() {
           <div className="col-md-12 text-white text-center" >
             <h1 className="m-b-20" >
               <strong style={{textShadow: '2px 2px 4px rgba(0, 0, 0, 0.5)', fontSize: '2em', fontWeight:'bold', color: 'white'}}>
-              <img src="https://i.ibb.co/y8j60dJ/2-1-removebg-preview2.png" alt="2-1-removebg-preview" className="img-fluid" alt="logo" style={{marginBottom:'10px'}}></img>
-              <br />
+Mexhubb              <br />
               </strong>
               <strong style={{textShadow: '2px 2px 4px rgba(0, 0, 0, 0.5)',fontWeight:'bold', color: 'white'}}>Your Partner in Mexico <br /></strong>
             </h1>
