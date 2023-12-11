@@ -69,7 +69,7 @@ export default function BodyBagl02() {
                     <div class="container" >
 
                         <div class="row">
-                            <div class="col-lg-6" data-aos='fade-right'>
+                            <div class="col-lg-6" data-aos='fade-right' style={{marginBottom:'20px'}}>
                                 <img src="https://images.unsplash.com/photo-1568992687947-868a62a9f521?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="about" class="img-fluid imagenbb" width="100%" />
                             </div>
                             <div class="col-lg-6" data-aos='fade-up'>

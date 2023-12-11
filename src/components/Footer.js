@@ -5,6 +5,15 @@ import { FaFacebook, FaTwitter, FaInstagram, FaEvernote } from 'react-icons/fa';
 function Footer() {
     return (
         <>
+            <style>
+                {`
+            .button-hover:hover {
+                box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.3);
+                transform: scale(1.02);
+                transition: all 0.2s ease-in-out;
+            }
+            `}
+            </style>
             <footer className="footer-section">
                 <div class="site-footer-top">
                     <div class="container">
@@ -17,19 +26,19 @@ function Footer() {
                                 <ul class="social-icon d-flex justify-content-lg-end">
                                     <li class="social-icon-item">
                                         <a href="#" class="social-icon-link">
-                                            <FaFacebook size={20} style={{ marginRight: '10px', color: 'white' }} />
+                                            <FaFacebook size={20} style={{ marginRight: '10px', color: 'white' }} class='button-hover' />
                                         </a>
                                     </li>
 
                                     <li class="social-icon-item">
                                         <a href="#" class="social-icon-link">
-                                            <FaInstagram size={20} style={{ marginRight: '10px', color: 'white' }} />
+                                            <FaInstagram size={20} style={{ marginRight: '10px', color: 'white' }} class='button-hover' />
                                         </a>
                                     </li>
 
                                     <li class="social-icon-item">
                                         <a href="#" class="social-icon-link">
-                                            <FaTwitter size={20} style={{ marginRight: '10px', color: 'white' }} />
+                                            <FaTwitter size={20} style={{ marginRight: '10px', color: 'white' }} class='button-hover'  />
                                         </a>
                                     </li>
                                 </ul>
@@ -132,7 +141,7 @@ function Footer() {
                         <div className="row">
                             <div className="col-xl-6 col-lg-6 text-center text-lg-left">
                                 <div className="copyright-text">
-                                    <p className="text-left" >Copyright &copy; 2023, All Right Reserved <a href="/">Webless Project</a></p>
+                                    <p className="text-left" >Copyright &copy; 2023, All Right Reserved <a href="https://weblessproject.com" target='blank'>Webless Project</a></p>
                                 </div>
                             </div>
                             <div className="col-xl-6 col-lg-6 d-none d-lg-block text-right">

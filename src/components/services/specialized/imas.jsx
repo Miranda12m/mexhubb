@@ -13,6 +13,7 @@ export default function Imas() {
           }
           .box{
             width: 48%;
+            min-width: 300px;
             height:270px;
             display:flex;
             position:relative;
