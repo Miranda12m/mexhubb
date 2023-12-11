@@ -37,7 +37,7 @@ function Footer() {
                                     </li>
 
                                     <li class="social-icon-item">
-                                        <a href="#" class="socEstas ial-icon-link">
+                                        <a href="#" class="social-icon-link" target='blank'>
                                             <FaTwitter size={20} style={{ marginRight: '10px', color: 'white' }} class='button-hover'  />
                                         </a>
                                     </li>
