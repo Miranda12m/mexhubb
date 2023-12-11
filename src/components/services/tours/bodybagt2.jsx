@@ -57,7 +57,9 @@ export default function BodyBagt02() {
         color: #F24259;
         margin-right: 10px;
     }
-
+    .imagenbb {
+        box-shadow: 0 30px 50px rgba(8,13,62,.15);
+    }
                  `}
             </style>
             <Container>
@@ -68,7 +70,7 @@ export default function BodyBagt02() {
 
                         <div class="row">
                             <div class="col-lg-6" data-aos='fade-right'>
-                                <img src="https://images.unsplash.com/photo-1575540203949-54ccd7a66d98?q=80&w=2139&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="about" class="img-fluid" width="100%" style={{maxHeight:'350px'}}/>
+                                <img src="https://images.unsplash.com/photo-1575540203949-54ccd7a66d98?q=80&w=2139&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="about" class="img-fluid imagenbb" width="100%" style={{maxHeight:'350px'}}/>
                             </div>
                             <div class="col-lg-6" data-aos='fade-up'>
                                 <div class="heading ">

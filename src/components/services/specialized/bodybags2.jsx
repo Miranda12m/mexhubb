@@ -1,7 +1,7 @@
 import React from 'react';
 import { Container } from 'react-bootstrap';
 
-export default function BodyBagl02() {
+export default function BodyBags02() {
 
     return (
         <>
@@ -70,17 +70,17 @@ export default function BodyBagl02() {
 
                         <div class="row">
                             <div class="col-lg-6" data-aos='fade-right'>
-                                <img src="https://images.unsplash.com/photo-1568992687947-868a62a9f521?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="about" class="img-fluid imagenbb" width="100%" />
+                                <img src="https://images.unsplash.com/photo-1600880292203-757bb62b4baf?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="about" class="img-fluid imagenbb" width="100%" style={{maxHeight:'350px'}} />
                             </div>
                             <div class="col-lg-6" data-aos='fade-up'>
                                 <div class="heading ">
-                                    <h2>Personalized Legal
-                                        <span> Assistance</span></h2>
-                                    <p>For more specific inquiries or personalized assistance, we encourage you to schedule a personal appointment with our legal team. Mexhubb is committed to ensuring that you never feel alone in navigating legal complexities. We have your back in any legal situation that may arise during your stay in Mexico.
+                                    <h2>Your Solutions,
+                                        <span> Not Problems</span></h2>
+                                    <p>Our goal is to offer solutions instead of problems. No matter how specific your request, Mexhubb is dedicated to going the extra mile to assist you. We want to ensure that your stay in Mexico is hassle-free, making your life easier and more enjoyable.
                                     </p>
                                 </div>
-                                <p>Our collaboration with trusted legal professionals aims to provide you with peace of mind, knowing that you have a reliable legal ally by your side. Whether it's visa matters, real estate transactions, or personal legal concerns, Mexhubb is here to assist you every step of the way.</p>
-                                <p>Schedule a consultation with us, and let Mexhubb be your guide through the legal landscape in Mexico.</p>
+                                <p>If there's a service you need, just name it, and we have it covered. Mexhubb is your one-stop destination for a diverse range of specialized services. Let us make your time in Mexico exceptional.</p>
+                                <p>Schedule a consultation with us, and let Mexhubb be your guide in Mexico.</p>
                                 
                             </div>
                         </div>

@@ -58,6 +58,9 @@ export default function BodyBag02() {
         margin-right: 10px;
     }
 
+    .imagenbb {
+        box-shadow: 0 30px 50px rgba(8,13,62,.15);
+    }
                  `}
             </style>
             <Container>
@@ -68,7 +71,7 @@ export default function BodyBag02() {
 
                         <div class="row">
                             <div class="col-lg-6" data-aos='fade-right'>
-                                <img src="https://images.unsplash.com/photo-1625255312232-be213007ec00?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="about" class="img-fluid" width="100%" />
+                                <img src="https://images.unsplash.com/photo-1625255312232-be213007ec00?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="about" class="img-fluid imagenbb" width="100%" />
                             </div>
                             <div class="col-lg-6" data-aos='fade-up'>
                                 <div class="heading ">

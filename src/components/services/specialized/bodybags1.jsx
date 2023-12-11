@@ -3,9 +3,9 @@ import { Container } from 'react-bootstrap';
 export default function BodyBags01() {
     return (
         <>
-            <style>
+          <style>
                 {`
-        h1, h2, h3, h4, h5, h6 {
+        h1, h2, h3, h4, h6 {
             color: #2c3145;
         }
         a, a:hover, a:focus, a:active {
@@ -75,6 +75,19 @@ export default function BodyBags01() {
         .about_content_box_all {
             padding: 28px;
         }
+        .point {
+            font-size: 15px;
+            font-weight: 500;
+            margin: 8px 0;
+        }
+        
+        .point h5 i {
+            color: #F24259;
+            margin-right: 10px;
+        }
+        .imagenbb {
+            box-shadow: 0 30px 50px rgba(8,13,62,.15);
+        }
         
         `}
 
@@ -88,19 +101,45 @@ export default function BodyBags01() {
                         <div class="col-lg-6" data-aos="fade-right">
                             <div class="about_header_main mt-3">
                                 
-                                <h4 class="about_heading text-capitalize font-weight-bold mt-4">Housing Services with Ease</h4>
-                                <p class="text-muted mt-3">Welcome to Mexhubb's Housing Services, where discovering your ideal home in Mexico City is not just a transaction—it's an immersive experience. Our approach is crafted to simplify the entire journey, aligning our requirements with the documentation typically sought by foreigners. We recognize the distinct needs of our clients, and our diverse range of housing options in the most sought-after districts of Mexico City ensures that you discover the perfect fit.</p>
-                                <p class="text-muted mt-3">At Mexhubb, we go beyond merely providing housing solutions; we curate an environment where each client feels supported and understood throughout the entire process.</p>
+                                <h4 class="about_heading text-capitalize font-weight-bold mt-4">Tailored Solutions for Every Need</h4>
+                                <p class="text-muted mt-3">At Mexhubb, we understand that your needs are unique, and we're here to offer a wide array of specialized services through our extensive network of partners and collaborators. Our commitment is to provide you with quality services that align with our high standards, ensuring a seamless experience. Explore our specialized service categories:</p>
+                                <div class="row">
+                                    <div class="col-md-6">
+                                        <h5 class='point'>
+                                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-caret-right-fill" viewBox="0 0 16 16" style={{ marginRight: '5px', color: '#FF3B19' }}>
+                                                <path d="m12.14 8.753-5.482 4.796c-.646.566-1.658.106-1.658-.753V3.204a1 1 0 0 1 1.659-.753l5.48 4.796a1 1 0 0 1 0 1.506z" />
+                                            </svg>Personnel Services</h5>
+                                    </div>
+                                    <div class="col-md-6">
+                                        <h4 class='point'>
+                                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-caret-right-fill" viewBox="0 0 16 16" style={{ marginRight: '5px', color: '#FF3B19' }}>
+                                                <path d="m12.14 8.753-5.482 4.796c-.646.566-1.658.106-1.658-.753V3.204a1 1 0 0 1 1.659-.753l5.48 4.796a1 1 0 0 1 0 1.506z" />
+                                            </svg>
+                                            Health Advisory Services</h4>
+                                    </div>
+                                    <div class="col-md-6">
+                                        <h4 class='point'>
+                                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-caret-right-fill" viewBox="0 0 16 16" style={{ marginRight: '5px', color: '#FF3B19' }}>
+                                                <path d="m12.14 8.753-5.482 4.796c-.646.566-1.658.106-1.658-.753V3.204a1 1 0 0 1 1.659-.753l5.48 4.796a1 1 0 0 1 0 1.506z" />
+                                            </svg>Daily Services</h4>
+                                    </div>
+                                    <div class="col-md-6">
+                                        <h4 class='point'>
+                                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-caret-right-fill" viewBox="0 0 16 16" style={{ marginRight: '5px', color: '#FF3B19' }}>
+                                                <path d="m12.14 8.753-5.482 4.796c-.646.566-1.658.106-1.658-.753V3.204a1 1 0 0 1 1.659-.753l5.48 4.796a1 1 0 0 1 0 1.506z" />
+                                            </svg>
+                                            Buying Advisory</h4>
+                                    </div>
+                                    
+                                </div>
                             </div>
                         </div>
                         <div class="col-lg-6" data-aos="fade-up">
                             <div class="img_about mt-3">
-                                <img src="https://images.unsplash.com/photo-1665096852979-988cf501d86f?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="" class="img-fluid mx-auto d-block" style={{maxHeight:'350px'}} />
+                                <img src="https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="" class="img-fluid mx-auto d-block imagenbb" style={{maxHeight:'350px'}} />
                             </div>
                         </div>
                     </div>
-
-                
                 </div>
             </section>
             </Container>

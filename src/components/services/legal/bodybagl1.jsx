@@ -85,7 +85,9 @@ export default function BodyBagl01() {
             color: #F24259;
             margin-right: 10px;
         }
-    
+        .imagenbb {
+            box-shadow: 0 30px 50px rgba(8,13,62,.15);
+        }
         
         `}
 
@@ -113,7 +115,7 @@ export default function BodyBagl01() {
                                             <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-caret-right-fill" viewBox="0 0 16 16" style={{ marginRight: '5px', color: '#FF3B19' }}>
                                                 <path d="m12.14 8.753-5.482 4.796c-.646.566-1.658.106-1.658-.753V3.204a1 1 0 0 1 1.659-.753l5.48 4.796a1 1 0 0 1 0 1.506z" />
                                             </svg>
-                                            Marriage and Divorces</h4>
+                                            Family and Personal Matters</h4>
                                     </div>
                                     <div class="col-md-6">
                                         <h4 class='point'>
@@ -132,7 +134,7 @@ export default function BodyBagl01() {
                                         <h4 class='point'>
                                             <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-caret-right-fill" viewBox="0 0 16 16" style={{ marginRight: '5px', color: '#FF3B19' }}>
                                                 <path d="m12.14 8.753-5.482 4.796c-.646.566-1.658.106-1.658-.753V3.204a1 1 0 0 1 1.659-.753l5.48 4.796a1 1 0 0 1 0 1.506z" />
-                                            </svg>Import and Export Services</h4>
+                                            </svg>International Affairs</h4>
                                     </div>
                                     <div class="col-md-6">
                                         <h4 class='point'>
@@ -146,7 +148,7 @@ export default function BodyBagl01() {
                         </div>
                         <div class="col-lg-6" data-aos="fade-up">
                             <div class="img_about mt-3">
-                                <img src="https://images.unsplash.com/photo-1665096852979-988cf501d86f?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="" class="img-fluid mx-auto d-block" style={{maxHeight:'350px'}} />
+                                <img src="https://images.unsplash.com/photo-1521791055366-0d553872125f?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="" class="img-fluid mx-auto d-block imagenbb" style={{maxHeight:'350px'}} />
                             </div>
                         </div>
                     </div>
