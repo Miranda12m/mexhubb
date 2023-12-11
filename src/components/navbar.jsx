@@ -160,7 +160,7 @@ function Navbar({ currentPage, height = 100 }) {
                 id="mobile-nav-toggle"
               ></i>
             </nav>
-
+            <Link to="/contact">
             <a
               href="#"
               target="_blank"
@@ -168,7 +168,7 @@ function Navbar({ currentPage, height = 100 }) {
               style={{textShadow: '2px 2px 4px rgba(0, 0, 0, 1)'}}
               >
               Find Us
-            </a>
+            </a></Link>
           </div>
         </header>
       </div>
