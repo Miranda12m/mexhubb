@@ -5,6 +5,15 @@ import { FaFacebook, FaTwitter, FaInstagram, FaEvernote } from 'react-icons/fa';
 function Footer() {
     return (
         <>
+            <style>
+                {`
+            .button-hover:hover {
+                box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.3);
+                transform: scale(1.02);
+                transition: all 0.2s ease-in-out;
+            }
+            `}
+            </style>
             <footer className="footer-section">
                 <div class="site-footer-top">
                     <div class="container">
@@ -16,20 +25,20 @@ function Footer() {
                             <div class="col-lg-6 col-12 d-flex justify-content-lg-end align-items-center">
                                 <ul class="social-icon d-flex justify-content-lg-end">
                                     <li class="social-icon-item">
-                                        <a href="#" class="social-icon-link">
-                                            <FaFacebook size={20} style={{ marginRight: '10px', color: 'white' }} />
+                                        <a href="https://www.facebook.com/profile.php?id=61554405899957" target='blank' class="social-icon-link">
+                                            <FaFacebook size={20} style={{ marginRight: '10px', color: 'white' }} class='button-hover' />
                                         </a>
                                     </li>
 
                                     <li class="social-icon-item">
-                                        <a href="#" class="social-icon-link">
-                                            <FaInstagram size={20} style={{ marginRight: '10px', color: 'white' }} />
+                                        <a href="https://www.instagram.com/mexhubb/" target='blank'class="social-icon-link">
+                                            <FaInstagram size={20} style={{ marginRight: '10px', color: 'white' }} class='button-hover' />
                                         </a>
                                     </li>
 
                                     <li class="social-icon-item">
-                                        <a href="#" class="social-icon-link">
-                                            <FaTwitter size={20} style={{ marginRight: '10px', color: 'white' }} />
+                                        <a href="#" class="social-icon-link" target='blank'>
+                                            <FaTwitter size={20} style={{ marginRight: '10px', color: 'white' }} class='button-hover'  />
                                         </a>
                                     </li>
                                 </ul>
@@ -53,11 +62,11 @@ function Footer() {
                                     </div>
                                     <div className="footer-logo">
                                         <Link to="/">
-                                            <img src="./img/Weblesslogosbg.png" className="img-fluid" alt="logo"></img>
+                                            <img src="https://i.ibb.co/y8j60dJ/2-1-removebg-preview2.png" alt="2-1-removebg-preview" className="img-fluid" alt="logo"></img>
                                         </Link>
                                     </div>
                                     <div className="footer-text">
-                                        <p>We appreciate your trust in our company and our products. We will continue working hard to provide you with the best products and services.</p>
+                                        <p>We appreciate your trust in our company and our products. We will continue working hard to provide you with the best services.</p>
                                     </div>
 
                                 </div>
@@ -132,7 +141,7 @@ function Footer() {
                         <div className="row">
                             <div className="col-xl-6 col-lg-6 text-center text-lg-left">
                                 <div className="copyright-text">
-                                    <p className="text-left" >Copyright &copy; 2023, All Right Reserved <a href="/">Webless Project</a></p>
+                                    <p className="text-left" >Copyright &copy; 2023, All Right Reserved <a href="https://weblessproject.com" target='blank'>Webless Project</a></p>
                                 </div>
                             </div>
                             <div className="col-xl-6 col-lg-6 d-none d-lg-block text-right">

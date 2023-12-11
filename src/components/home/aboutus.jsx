@@ -154,7 +154,7 @@ export default function AboutUs() {
     }
     
     .btn-style-one:hover{
-      background-color: #001e57;
+      background-color: #ea2d0d;
       color: #ffffff;
     }
     .about-section{
@@ -284,7 +284,7 @@ export default function AboutUs() {
                 <div class="about-section">
                     <div class="container">
                         <div class="row">
-                            <div class="content-column col-lg-6 col-md-12 col-sm-12 order-2" data-aos="fade-left">
+                            <div class="content-column col-lg-6 col-md-12 col-sm-12 order-2" data-aos="fade-up">
                                 <div class="inner-column">
                                     <div class="sec-title">
                                         <span class="title">About Our Company</span>

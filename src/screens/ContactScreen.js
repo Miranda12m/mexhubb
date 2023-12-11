@@ -46,12 +46,12 @@ function ContactScreen() {
                 
                 <Row  style={{ alignItems: 'center', display: 'flex', justifyContent: 'center', marginBottom: '3%' }}>
                   <Col>
-                    <button className='m-1 btn btn-primary button-hover' style={{ backgroundColor: '#3b5998' }} onClick={() => window.open('#', '_blank')}>
+                    <button className='m-1 btn btn-primary button-hover' style={{ backgroundColor: '#3b5998' }} onClick={() => window.open('https://www.facebook.com/profile.php?id=61554405899957', '_blank')}>
                       <FaFacebook size={20} style={{ marginRight: '10px' }} /> Facebook
                     </button>
                   </Col>
                   <Col>
-                    <button className='m-1 btn btn-primary button-hover' style={{ backgroundColor: '#ac2bac' }} onClick={() => window.open('#', '_blank')}>
+                    <button className='m-1 btn btn-primary button-hover' style={{ backgroundColor: '#ac2bac' }} onClick={() => window.open('https://www.instagram.com/mexhubb/', '_blank')}>
                       <FaInstagram size={20} style={{ marginRight: '10px' }} />Instagram
                     </button>
                   </Col>
