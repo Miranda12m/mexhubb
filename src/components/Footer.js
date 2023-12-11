@@ -118,7 +118,7 @@ function Footer() {
                                     </div>
                                     <div className="footer-text mb-25">
                                         <p>Don't miss to contact us if you had any question</p>
-                                        <p>Phone: +52 81 8020 9327</p>
+                                        <p>Phone: +52 00 0000 0000</p>
                                         <p>Mail: contact@mexhubb.com</p>
                                     </div>
 
