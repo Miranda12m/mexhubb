@@ -3,8 +3,8 @@ import { Container, Row, Col, Card } from "react-bootstrap";
 import Navbars from "../../components/services/navbars";
 import BannerEvents from "../../components/services/events/bannerevents";
 import BodyBage01 from "../../components/services/events/bodybage1";
-import Imae
-  from "../../components/services/events/imae";
+import Imae from "../../components/services/events/imae";
+
 export default function EventsScreen() {
   return (
     <>
