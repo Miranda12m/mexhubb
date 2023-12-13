@@ -4,6 +4,7 @@ import Navbars from "../../components/services/navbars";
 import BannerEvents from "../../components/services/events/bannerevents";
 import BodyBage01 from "../../components/services/events/bodybage1";
 import Imae from "../../components/services/events/imae";
+import BodyBage02 from "../../components/services/events/bodybage2";
 
 export default function EventsScreen() {
   return (
@@ -46,6 +47,9 @@ export default function EventsScreen() {
         </Container>
         <br></br><br></br><br></br><br></br>
       </div>
+      <br></br><br></br>
+      <BodyBage02 />
+      <br></br> <br></br>
     </>
   );
 }
