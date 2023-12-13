@@ -1,7 +1,6 @@
 import React from "react";
 import {
   MDBCarousel,
-  MDBCarouselInner,
   MDBCarouselItem,
   MDBCol,
   MDBIcon,
@@ -56,6 +55,7 @@ export default function Testimonials() {
                         style={{ width: '150px', height: '150px', display: 'block', margin: '0 auto' }}
                         width="150"
                         height="150"
+                        alt='user'
                       />
                     </div>
                     <h5 className="mb-3">Anna Deynah</h5>
@@ -102,6 +102,7 @@ export default function Testimonials() {
                         style={{ width: '150px', height: '150px', display: 'block', margin: '0 auto', filter: 'brightness(0.8)' }}
                         width="150"
                         height="150"
+                        alt='user'
                       />
                     </div>
                     <h5 className="mb-3">John Doe</h5>
@@ -149,6 +150,7 @@ export default function Testimonials() {
                         style={{ width: '150px', height: '150px', display: 'block', margin: '0 auto', filter: 'brightness(0.8)' }}
                         width="150"
                         height="150"
+                        alt='user'
                       />
                     </div>
                     <h5 className="mb-3">Maria Kate</h5>
@@ -202,6 +204,7 @@ export default function Testimonials() {
                         style={{ width: '150px', height: '150px', display: 'block', margin: '0 auto', filter: 'brightness(0.8)' }}
                         width="150"
                         height="150"
+                        alt='user'
                       />
                     </div>
                     <h5 className="mb-3">Will Alister</h5>
@@ -249,6 +252,7 @@ export default function Testimonials() {
                         style={{ width: '150px', height: '150px', display: 'block', margin: '0 auto', filter: 'brightness(0.8)' }}
                         width="150"
                         height="150"
+                        alt='user'
                       />
                     </div>
                     <h5 className="mb-3">Alex Rey</h5>
@@ -296,6 +300,7 @@ export default function Testimonials() {
                         style={{ width: '150px', height: '150px', display: 'block', margin: '0 auto', filter: 'brightness(0.8)' }}
                         width="150"
                         height="150"
+                        alt='user'
                       />
                     </div>
                     <h5 className="mb-3">Jennifer Goya</h5>
@@ -349,6 +354,7 @@ export default function Testimonials() {
                         style={{ width: '150px', height: '150px', display: 'block', margin: '0 auto', filter: 'brightness(0.8)' }}
                         width="150"
                         height="150"
+                        alt='user'
                       />
                     </div>
                     <h5 className="mb-3">Andrea Martinez</h5>
@@ -396,7 +402,7 @@ export default function Testimonials() {
                         style={{ width: '150px', height: '150px', display: 'block', margin: '0 auto', filter: 'brightness(0.8)' }}
                         width="150"
                         height="150"
-                        alt=""
+                        alt='user'
                       />
                     </div>
                     <h5 className="mb-3">Drake Davis</h5>
@@ -443,6 +449,7 @@ export default function Testimonials() {
                         style={{ width: '150px', height: '150px', display: 'block', margin: '0 auto', filter: 'brightness(0.8)' }}
                         width="150"
                         height="150"
+                        alt='user'
                       />
                     </div>
                     <h5 className="mb-3">Karen Williams</h5>

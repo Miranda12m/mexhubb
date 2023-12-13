@@ -1,6 +1,5 @@
 // Bootstrap Comp
 import React from "react";
-import { Container } from "react-bootstrap";
 import { Route, HashRouter as Router, Routes, Navigate } from "react-router-dom";
 //
 import Navbar from "./components/navbar";

@@ -1,7 +1,7 @@
 import React from 'react'
 import { Link } from "react-router-dom";
 import "./css/footer.css";
-import { FaFacebook, FaTwitter, FaInstagram, FaEvernote } from 'react-icons/fa';
+import { FaFacebook, FaTwitter, FaInstagram } from 'react-icons/fa';
 function Footer() {
     return (
         <>
@@ -37,7 +37,7 @@ function Footer() {
                                     </li>
 
                                     <li class="social-icon-item">
-                                        <a href="#" class="social-icon-link" target='blank'>
+                                        <a href="https://www.twitter.com/mexhubb/" class="social-icon-link" target='blank'>
                                             <FaTwitter size={20} style={{ marginRight: '10px', color: 'white' }} class='button-hover'  />
                                         </a>
                                     </li>
@@ -62,7 +62,7 @@ function Footer() {
                                     </div>
                                     <div className="footer-logo">
                                         <Link to="/">
-                                            <img src="https://i.ibb.co/y8j60dJ/2-1-removebg-preview2.png" alt="2-1-removebg-preview" className="img-fluid" alt="logo"></img>
+                                            <img src="https://i.ibb.co/y8j60dJ/2-1-removebg-preview2.png" alt="logo" className="img-fluid" ></img>
                                         </Link>
                                     </div>
                                     <div className="footer-text">

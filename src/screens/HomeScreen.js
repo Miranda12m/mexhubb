@@ -1,7 +1,6 @@
 import React from 'react';
 import Carousel from '../components/home/banner';
 import Services2 from '../components/home/services2';
-import Alianzas from '../components/home/alianzas';
 import Testimonials from '../components/home/testimonials';
 import Qt from '../components/home/qt';
 import FAQ from '../components/home/faq';

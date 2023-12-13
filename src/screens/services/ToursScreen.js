@@ -1,5 +1,5 @@
-import React, { useState, useEffect } from 'react';
-import { Container, Row, Col } from 'react-bootstrap';
+import React from 'react';
+import { Container } from 'react-bootstrap';
 import BannerTours from '../../components/services/tours/bannertours';
 import Navbars from '../../components/services/navbars';
 import BodyBagt01 from '../../components/services/tours/bodybagt1';

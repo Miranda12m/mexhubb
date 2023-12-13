@@ -1,4 +1,4 @@
-import { useEffect} from "react";
+import { useEffect } from "react";
 import { Link } from "react-router-dom";
 import "./css/navbar.css";
 import AOS from "aos";
@@ -18,7 +18,7 @@ function Navbar({ currentPage, height = 100 }) {
         return document.querySelector(el);
       }
     };
-    
+
 
     const on = (type, el, listener, all = false) => {
       let selectEl = select(el, all);
@@ -44,10 +44,10 @@ function Navbar({ currentPage, height = 100 }) {
         console.error("Element with ID 'header' not found.");
         return;
       }
-    
+
       let offset = header.offsetHeight;
       let elementPos = select(el)?.offsetTop;
-    
+
       if (elementPos !== undefined) {
         window.scrollTo({
           top: elementPos - offset,
@@ -55,7 +55,7 @@ function Navbar({ currentPage, height = 100 }) {
         });
       }
     };
-    
+
 
     /**
      * Toggle .header-scrolled class to #header when page is scrolled
@@ -134,23 +134,23 @@ function Navbar({ currentPage, height = 100 }) {
       <div className="all-wrapper " data-aos-easing='ease' data-aos-duration='400' data-aos-delay='0'>
         <header id="header" className="fixed-top desktop-menu menu-top-w">
           <div className="container d-flex align-items-center justify-content-lg-between">
-            <h1 className="me-auto me-lg-0" style={{textShadow: '2px 2px 4px rgba(0, 0, 0, .7)'}}>
-              <Link to="/home">                                            <img src="https://i.ibb.co/y8j60dJ/2-1-removebg-preview2.png" alt="2-1-removebg-preview" className="img-fluid" alt="logo" style={{maxHeight:'40px'}}></img>
-</Link>
+            <h1 className="me-auto me-lg-0" style={{ textShadow: '2px 2px 4px rgba(0, 0, 0, .7)' }}>
+              <Link to="/home">                                            <img src="https://i.ibb.co/y8j60dJ/2-1-removebg-preview2.png" alt="logo" className="img-fluid"  style={{ maxHeight: '40px' }}></img>
+              </Link>
             </h1>
             <nav id="navbar" className="navbar order-last order-lg-0">
               <ul>
-                <li style={{textShadow: '2px 2px 4px rgba(0, 0, 0, 1)'}}>
+                <li style={{ textShadow: '2px 2px 4px rgba(0, 0, 0, 1)' }}>
                   <Link id="home" to="/home">
                     Home
                   </Link>
                 </li>
-                <li style={{textShadow: '2px 2px 4px   rgba(0, 0, 0, 1)'}}>
+                <li style={{ textShadow: '2px 2px 4px   rgba(0, 0, 0, 1)' }}>
                   <Link id="tour" to="/services">
                     Services
                   </Link>
                 </li>
-                <li style={{textShadow: '2px 2px 4px  rgba(0, 0, 0, 1)'}}>
+                <li style={{ textShadow: '2px 2px 4px  rgba(0, 0, 0, 1)' }}>
                   <Link id="aboutus" to="/contact">
                     Contact
                   </Link>
@@ -162,14 +162,14 @@ function Navbar({ currentPage, height = 100 }) {
               ></i>
             </nav>
             <Link to="/contact">
-            <a
-              href="#"
-              target="_blank"
-              className="get-started-btn"
-              style={{textShadow: '2px 2px 4px rgba(0, 0, 0, 1)'}}
+              <a
+                href="/contact"
+                target="_blank"
+                className="get-started-btn"
+                style={{ textShadow: '2px 2px 4px rgba(0, 0, 0, 1)' }}
               >
-              Find Us
-            </a></Link>
+                Find Us
+              </a></Link>
           </div>
         </header>
       </div>

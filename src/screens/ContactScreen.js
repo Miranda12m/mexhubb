@@ -1,9 +1,8 @@
 import React from 'react'
 import { Container, Row, Col, Card, Image } from 'react-bootstrap';
 import ContactForm from '../components/contact/ContactForm';
-import { FaFacebook, FaTwitter, FaInstagram, FaEvernote } from 'react-icons/fa';
+import { FaFacebook, FaInstagram, FaEvernote } from 'react-icons/fa';
 import BannerContact from '../components/contact/bannerc';
-import Qt from '../components/home/qt';
 function ContactScreen() {
   return (
     <>

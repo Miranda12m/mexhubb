@@ -1,5 +1,5 @@
 import React from 'react';
-import { Container, Row, Col } from 'react-bootstrap';
+import { Container} from 'react-bootstrap';
 import BannerLegal from '../../components/services/legal/bannerlegal';
 import Navbars from '../../components/services/navbars';
 import BodyBagl01 from '../../components/services/legal/bodybagl1';

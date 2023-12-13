@@ -1,5 +1,5 @@
 import React from 'react';
-import { Container, Row, Col } from 'react-bootstrap';
+import { Container} from 'react-bootstrap';
 import Specialized from '../../components/services/specialized/bannerspecialized';
 import Navbars from '../../components/services/navbars';
 import BodyBags01 from '../../components/services/specialized/bodybags1';
