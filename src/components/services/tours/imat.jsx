@@ -14,12 +14,19 @@ export default function Imat() {
           .box{
             width: 48%;
             min-width: 300px;
-            height:270px;
+            height: 270px;
             display:flex;
             position:relative;
             border-radius:5px;
             margin:12px;
           }
+
+          @media only screen and (max-width: 767px) {
+            .box {
+              height: 420px;
+            }
+          }
+
           .image{
             width:100%;
             object-fit:cover;

@@ -20,6 +20,11 @@ export default function Imas() {
             border-radius:5px;
             margin:12px;
           }
+          @media only screen and (max-width: 767px) {
+            .box {
+              height: 330px;
+            }
+          }
           .image{
             width:100%;
             object-fit:cover;

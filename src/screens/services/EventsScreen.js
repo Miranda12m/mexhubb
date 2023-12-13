@@ -1,5 +1,5 @@
 import React from "react";
-import { Container, Row, Col, Card } from "react-bootstrap";
+import { Container } from "react-bootstrap";
 import Navbars from "../../components/services/navbars";
 import BannerEvents from "../../components/services/events/bannerevents";
 import BodyBage01 from "../../components/services/events/bodybage1";
