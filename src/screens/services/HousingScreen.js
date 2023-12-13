@@ -23,7 +23,7 @@ export default function HousingScreen() {
         <Container>
           <br></br>
           <h2 style={{ color: 'black', marginTop: '3%', textAlign: 'center' }} data-aos="fade-right" >See whats new in our <span style={{ color: '#ff3b19' }}>Housing</span></h2>
-          <p style={{ color: 'black', textAlign: 'center', fontSize:'13px' }}>*The dollar costs of the properties are approximate*</p>
+          <p style={{ color: 'black', textAlign: 'center', fontSize:'13px' }} data-aos="fade-right" >*The dollar costs of the properties are approximate*</p>
           <Houses />
           <br></br>
         </Container>
