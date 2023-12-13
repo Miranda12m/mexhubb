@@ -1,5 +1,6 @@
 import React from 'react';
 import { Container } from 'react-bootstrap';
+import { Link } from 'react-router-dom';
 export default function AboutUs() {
     return (
         <>
@@ -308,9 +309,12 @@ export default function AboutUs() {
                                             </svg>
                                             Community Impact</li>
                                     </ul>
+                                    <Link to='/services'>
+                                    
                                     <div class="btn-box ">
                                         <a href="/services" class="theme-btn btn-style-one button-hover">Know More About Us</a>
                                     </div>
+                                    </Link>
                                 </div>
                             </div>
 
