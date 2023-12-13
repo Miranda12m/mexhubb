@@ -16,9 +16,9 @@ function Counter() {
             background-image: -webkit-gradient(linear,
                     left top,
                     right top,
-                    from(#2f2f2f),
-                    to(#2f2f2f));
-            background-image: linear-gradient(to right, #2f2f2f, #2f2f2f);
+                    from(#ff3b19),
+                    to(#ff3b19));
+            background-image: linear-gradient(to right, #ff3b19, #ff3b19);
             position: relative;
         }
         
