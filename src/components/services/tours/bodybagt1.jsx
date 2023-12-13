@@ -1,5 +1,6 @@
 import React from 'react';
 import { Container } from 'react-bootstrap';
+import ContactButtom from '../../contactbutton';
 export default function BodyBagt01() {
     return (
         <>
@@ -96,11 +97,13 @@ export default function BodyBagt01() {
                                 <p class="text-muted mt-3">Welcome to Mexhubb Tours, where every journey is an exploration and an enriching experience. Our commitment goes beyond offering tours – we're dedicated to showcasing the true essence of Mexico in an unique way by showing not only Mexico's surface but diving deeper into understanding the culture itself and finding answers for every aspect of the country for anyone to ask. 
 </p>
                                 <p class="text-muted mt-3">All our tours offer a comprehensive package, ensuring a hassle-free and enjoyable experience for our guests. From pick-up and drop-off at your location to a comfortable vehicle, a private and experienced chauffeur, a knowledgeable tour guide, insurance during the trip, snacks, refreshments, and all tickets to attractions and museums – we take care of everything.</p>
+                                <br></br>
+                                <ContactButtom />
                             </div>
                         </div>
                         <div class="col-lg-6" data-aos="fade-up">
                             <div class="img_about mt-3">
-                                <img src="https://images.unsplash.com/photo-1551279880-03041531948f?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="" class="img-fluid mx-auto d-block imagenbb" style={{maxHeight:'350px'}} />
+                                <img src="https://images.unsplash.com/photo-1551279880-03041531948f?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="" class="img-fluid mx-auto d-block imagenbb" style={{maxHeight:'400px'}} />
                             </div>
                         </div>
                     </div>

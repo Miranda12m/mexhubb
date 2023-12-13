@@ -1,4 +1,5 @@
 import React from 'react';
+import ContactButtom from '../../contactbutton';
 import { Container } from 'react-bootstrap';
 export default function BodyBag01() {
     return (
@@ -94,11 +95,12 @@ export default function BodyBag01() {
                                 <h4 class="about_heading text-capitalize font-weight-bold mt-4">Housing Services with Ease</h4>
                                 <p class="text-muted mt-3">Welcome to Mexhubb's Housing Services, where discovering your ideal home in Mexico City is not just a transaction—it's an immersive experience. Our approach is crafted to simplify the entire journey, aligning our requirements with the documentation typically sought by foreigners. We recognize the distinct needs of our clients, and our diverse range of housing options in the most sought-after districts of Mexico City ensures that you discover the perfect fit.</p>
                                 <p class="text-muted mt-3">At Mexhubb, we go beyond merely providing housing solutions; we curate an environment where each client feels supported and understood throughout the entire process.</p>
+                                <ContactButtom />
                             </div>
                         </div>
                         <div class="col-lg-6" data-aos="fade-up">
                             <div class="img_about mt-3">
-                                <img src="https://images.unsplash.com/photo-1665096852979-988cf501d86f?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="" class="img-fluid mx-auto d-block imagenbb" style={{maxHeight:'350px'}} />
+                                <img src="https://images.unsplash.com/photo-1665096852979-988cf501d86f?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="" class="img-fluid mx-auto d-block imagenbb" style={{maxHeight:'370px'}} />
                             </div>
                         </div>
                     </div>

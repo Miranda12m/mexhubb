@@ -28,6 +28,7 @@ function HomeScreen() {
       <div style={{ backgroundColor: 'white' }}>
         <br></br>
         <Services2 />
+        <br></br><br></br>
         <Qt />
       </div>
 

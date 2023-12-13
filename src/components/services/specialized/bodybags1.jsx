@@ -1,5 +1,6 @@
 import React from 'react';
 import { Container } from 'react-bootstrap';
+import ContactButtom from '../../contactbutton';
 export default function BodyBags01() {
     return (
         <>
@@ -132,11 +133,13 @@ export default function BodyBags01() {
                                     </div>
                                     
                                 </div>
+                                <br></br>
+                                <ContactButtom />
                             </div>
                         </div>
                         <div class="col-lg-6" data-aos="fade-up">
                             <div class="img_about mt-3">
-                                <img src="https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="" class="img-fluid mx-auto d-block imagenbb" style={{maxHeight:'350px'}} />
+                                <img src="https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="" class="img-fluid mx-auto d-block imagenbb" style={{maxHeight:'370px'}} />
                             </div>
                         </div>
                     </div>
