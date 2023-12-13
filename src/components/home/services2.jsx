@@ -93,7 +93,6 @@ ul {
 }
 
 .we-offer-area.text-center .item {
-  background: #ffffff none repeat scroll 0 0;
   border: medium none;
   padding: 67px 40px 64px;
 }
@@ -261,6 +260,110 @@ ul {
   width: 120px;
 }
 
+ .fondo{
+ }
+
+ .we-offer-area.text-center .fondo {
+  background: url(https://images.unsplash.com/photo-1501183638710-841dd1904471?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D) no-repeat;
+  border: medium none;
+  background-size: cover; 
+  padding: 67px 40px 64px;
+}
+.we-offer-area.text-center .fondo::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.35);
+  z-index: -1; 
+}
+
+.we-offer-area.text-center .fondo2 {
+  background: url(https://images.unsplash.com/photo-1619523015505-09ff57046d46?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D) no-repeat;
+  border: medium none;
+  background-size: cover; 
+  padding: 67px 40px 64px;
+}
+.we-offer-area.text-center .fondo2::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.35);
+  z-index: -1; 
+}
+
+.we-offer-area.text-center .fondo3 {
+  background: url(https://images.unsplash.com/photo-1520098183066-2a5609904268?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D) no-repeat;
+  border: medium none;
+  background-size: cover; 
+  padding: 67px 40px 64px;
+}
+.we-offer-area.text-center .fondo3::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.35); 
+  z-index: -1;
+}
+
+.we-offer-area.text-center .fondo4 {
+  background: url(https://images.unsplash.com/photo-1603796846097-bee99e4a601f?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D) no-repeat;
+  border: medium none;
+  background-size: cover; 
+  padding: 67px 40px 64px;
+}
+.we-offer-area.text-center .fondo4::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.35);
+  z-index: -1; 
+}
+
+.we-offer-area.text-center .fondo5 {
+  background: url(https://images.unsplash.com/photo-1553877522-43269d4ea984?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D) no-repeat;
+  border: medium none;
+  background-size: cover; 
+  padding: 67px 40px 64px;
+}
+.we-offer-area.text-center .fondo5::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.35);
+  z-index: -1; 
+}
+
+.we-offer-area.text-center .fondo6 {
+  background: url(https://images.unsplash.com/photo-1423666639041-f56000c27a9a?q=80&w=2074&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D) no-repeat;
+  border: medium none;
+  background-size: cover; 
+  padding: 67px 40px 64px;
+}
+.we-offer-area.text-center .fondo6::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.35);
+  z-index: -1; 
+}
                 `}
       </style>
       <Container>
@@ -274,10 +377,10 @@ ul {
                 </div>
               </div>
             </div>
-            <div class="row our-offer-items less-carousel">
+            <div class="row our-offer-items less-carousel ">
               <div class="col-md-4 col-sm-6 equal-height">
-               <Link to="/housing" style={{ color: 'black' }} >
-                  <div class="item" data-aos="fade-up">
+               <Link to="/housing" style={{ color: 'white' }} >
+                  <div class="item fondo" data-aos="fade-up">
                     <i> <svg xmlns="http://www.w3.org/2000/svg" width="42" height="42" fill="currentColor" class="bi bi-house-check-fill" viewBox="0 0 16 16" >
                       <path d="M8.707 1.5a1 1 0 0 0-1.414 0L.646 8.146a.5.5 0 0 0 .708.708L8 2.207l6.646 6.647a.5.5 0 0 0 .708-.708L13 5.793V2.5a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5v1.293z" />
                       <path d="m8 3.293 4.712 4.712A4.5 4.5 0 0 0 8.758 15H3.5A1.5 1.5 0 0 1 2 13.5V9.293l6-6Z" />
@@ -292,8 +395,8 @@ ul {
               </div>
 
               <div class="col-md-4 col-sm-6 equal-height">
-                <Link to="/tours" style={{ color: 'black' }}>
-                  <div class="item" data-aos="fade-up">
+                <Link to="/tours" style={{ color: 'white' }}>
+                  <div class="item fondo2" data-aos="fade-up">
                     <i><svg xmlns="http://www.w3.org/2000/svg" width="42" height="42" fill="currentColor" class="bi bi-compass-fill" viewBox="0 0 16 16">
                       <path d="M15.5 8.516a7.5 7.5 0 1 1-9.462-7.24A1 1 0 0 1 7 0h2a1 1 0 0 1 .962 1.276 7.503 7.503 0 0 1 5.538 7.24m-3.61-3.905L6.94 7.439 4.11 12.39l4.95-2.828 2.828-4.95z" />
                     </svg></i>
@@ -306,8 +409,8 @@ ul {
               </div>
 
               <div class="col-md-4 col-sm-6 equal-height">
-                <Link to='/events' style={{ color: 'black' }}>
-                  <div class="item" data-aos="fade-up">
+                <Link to='/events' style={{ color: 'white' }}>
+                  <div class="item fondo3" data-aos="fade-up">
                     <i><svg xmlns="http://www.w3.org/2000/svg" width="42" height="42" fill="currentColor" class="bi bi-calendar-event-fill" viewBox="0 0 16 16">
                       <path d="M4 .5a.5.5 0 0 0-1 0V1H2a2 2 0 0 0-2 2v1h16V3a2 2 0 0 0-2-2h-1V.5a.5.5 0 0 0-1 0V1H4zM16 14V5H0v9a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2m-3.5-7h1a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-1a.5.5 0 0 1-.5-.5v-1a.5.5 0 0 1 .5-.5" />
                     </svg></i>
@@ -320,8 +423,8 @@ ul {
               </div>
 
               <div class="col-md-4 col-sm-6 equal-height">
-                <Link to='/legal' style={{ color: 'black' }}>
-                  <div class="item" data-aos="fade-up">
+                <Link to='/legal' style={{ color: 'white' }}>
+                  <div class="item fondo4" data-aos="fade-up">
                     <i><svg xmlns="http://www.w3.org/2000/svg" width="42" height="42" fill="currentColor" class="bi bi-briefcase-fill" viewBox="0 0 16 16">
                       <path d="M6.5 1A1.5 1.5 0 0 0 5 2.5V3H1.5A1.5 1.5 0 0 0 0 4.5v1.384l7.614 2.03a1.5 1.5 0 0 0 .772 0L16 5.884V4.5A1.5 1.5 0 0 0 14.5 3H11v-.5A1.5 1.5 0 0 0 9.5 1zm0 1h3a.5.5 0 0 1 .5.5V3H6v-.5a.5.5 0 0 1 .5-.5" />
                       <path d="M0 12.5A1.5 1.5 0 0 0 1.5 14h13a1.5 1.5 0 0 0 1.5-1.5V6.85L8.129 8.947a.5.5 0 0 1-.258 0L0 6.85z" />
@@ -335,8 +438,8 @@ ul {
               </div>
 
               <div class="col-md-4 col-sm-6 equal-height">
-                <Link to="/specialized" style={{ color: 'black' }}>
-                  <div class="item" data-aos="fade-up">
+                <Link to="/specialized" style={{ color: 'white' }}>
+                  <div class="item fondo5" data-aos="fade-up">
                     <i><svg xmlns="http://www.w3.org/2000/svg" width="42" height="42" fill="currentColor" class="bi bi-person-fill" viewBox="0 0 16 16">
                       <path d="M3 14s-1 0-1-1 1-4 6-4 6 3 6 4-1 1-1 1zm5-6a3 3 0 1 0 0-6 3 3 0 0 0 0 6" />
                     </svg></i>
@@ -349,8 +452,8 @@ ul {
               </div>
 
               <div class="col-md-4 col-sm-6 equal-height">
-                <Link to="/contact" style={{ color: 'black' }}>
-                  <div class="item" data-aos="fade-up">
+                <Link to="/contact" style={{ color: 'white' }}>
+                  <div class="item fondo6" data-aos="fade-up">
                     <i><svg xmlns="http://www.w3.org/2000/svg" width="42" height="42" fill="currentColor" class="bi bi-headset" viewBox="0 0 16 16" style={{ alignItems: 'center', verticalAlign: 'center' }}>
                       <path d="M8 1a5 5 0 0 0-5 5v1h1a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1V6a6 6 0 1 1 12 0v6a2.5 2.5 0 0 1-2.5 2.5H9.366a1 1 0 0 1-.866.5h-1a1 1 0 1 1 0-2h1a1 1 0 0 1 .866.5H11.5A1.5 1.5 0 0 0 13 12h-1a1 1 0 0 1-1-1V8a1 1 0 0 1 1-1h1V6a5 5 0 0 0-5-5" />
                     </svg></i>
