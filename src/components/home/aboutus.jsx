@@ -309,7 +309,7 @@ export default function AboutUs() {
                                             Community Impact</li>
                                     </ul>
                                     <div class="btn-box ">
-                                        <a href="#" class="theme-btn btn-style-one button-hover">Know More About Us</a>
+                                        <a href="/services" class="theme-btn btn-style-one button-hover">Know More About Us</a>
                                     </div>
                                 </div>
                             </div>

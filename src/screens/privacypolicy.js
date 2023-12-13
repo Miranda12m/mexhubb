@@ -88,7 +88,7 @@ export default function PrivacyScreen() {
             7. Contact
           </p>
           <p>
-          The User may contact the personnel of the Company at any time for any clarification, comment, question, and/or suggestion related to the Services and Content, the Portal, and/or these Privacy Policies. The Company provides the User with the email address contact@weblessproject.com as a means for the User to communicate with the Company. The User acknowledges that the Company will strive to respond to their request as promptly as possible and in accordance with the availability of resources and personnel of the Company.
+          The User may contact the personnel of the Company at any time for any clarification, comment, question, and/or suggestion related to the Services and Content, the Portal, and/or these Privacy Policies. The Company provides the User with the email address contact@mexhubb.com as a means for the User to communicate with the Company. The User acknowledges that the Company will strive to respond to their request as promptly as possible and in accordance with the availability of resources and personnel of the Company.
           </p>
         </div>
         <br></br> <br></br>
