@@ -3,6 +3,8 @@ import { FaBath, FaBed, FaVectorSquare } from "react-icons/fa";
 import { Link } from 'react-router-dom';
 import { Row, Col } from 'react-bootstrap';
 import ContactButton2 from '../../contactbutton2';
+import Carousel from 'react-bootstrap/Carousel';
+
 export default function Houses() {
 
     return (
@@ -212,14 +214,30 @@ export default function Houses() {
                 transform: scale(1.02);
                 transition: all 0.6s ease-in-out;
             }
+            .carousel-item img {
+                width: 100%;
+                object-fit: cover;
+                filter: brightness(0.9);
+            }
             `}
             </style>
 
             <div class="containerh" style={{ alignItems: 'center' }}>
                 <div class="tileh feautered mdb-card" style={{ marginBottom: '30px' }} data-aos='fade-up'>
                     <div class="headerh hot">
-                        <img src="https://img10.naventcdn.com/avisos/18/01/41/51/13/56/360x266/1132459570.jpg?isFirstImage=true" alt='...' />
-                        
+                        <Carousel style={{ height: '260px', opacity: '1' }}>
+                            <Carousel.Item style={{ height: '260px' }}>
+                                <img src="https://img10.naventcdn.com/avisos/18/01/41/51/13/56/360x266/1132459570.jpg?isFirstImage=true" alt='...' style={{ height: '260px' }} />
+                            </Carousel.Item>
+                            <Carousel.Item>
+                                <img src="https://img10.naventcdn.com/avisos/resize/18/01/41/51/13/56/1200x1200/1132459559.jpg" alt='...' style={{ height: '260px' }} />
+
+                            </Carousel.Item>
+                            <Carousel.Item>
+                                <img src="https://img10.naventcdn.com/avisos/resize/18/01/41/51/13/56/1200x1200/1132459551.jpg" alt='...' style={{ height: '260px' }} />
+                            </Carousel.Item>
+                        </Carousel>
+
                         <div class="header-icons">
                             <i class="fas fa-heart"></i>
                             <i class="fas fa-exchange-alt"></i>
@@ -250,8 +268,25 @@ export default function Houses() {
                 </div>
                 <div class="tileh mdb-card" style={{ marginBottom: '30px' }} data-aos='fade-up'>
                     <div class="headerh hot">
-                        <img src="https://img10.naventcdn.com/avisos/18/00/66/78/53/22/360x266/369046080.jpg?isFirstImage=true" alt='...' />
-                        
+                        <Carousel style={{ height: '260px', opacity: '1' }}>
+                            <Carousel.Item style={{ height: '260px' }}>
+                                <img src="https://img10.naventcdn.com/avisos/18/00/66/78/53/22/360x266/369046080.jpg?isFirstImage=true" alt='...' style={{ height: '260px' }} />
+                            </Carousel.Item>
+                            <Carousel.Item>
+                                <img src="https://img10.naventcdn.com/avisos/resize/18/00/66/78/53/22/1200x1200/368580178.jpg" alt='...' style={{ height: '260px' }} />
+
+                            </Carousel.Item>
+                            <Carousel.Item>
+                                <img src="https://img10.naventcdn.com/avisos/resize/18/00/66/78/53/22/1200x1200/369046065.jpg" alt='...' style={{ height: '260px' }} />
+                            </Carousel.Item>
+                            <Carousel.Item>
+                                <img src="https://img10.naventcdn.com/avisos/resize/18/00/66/78/53/22/1200x1200/369046066.jpg" alt='...' style={{ height: '260px' }} />
+                            </Carousel.Item>
+                            <Carousel.Item>
+                                <img src="https://img10.naventcdn.com/avisos/resize/18/00/66/78/53/22/1200x1200/369046067.jpg" alt='...' style={{ height: '260px' }} />
+                            </Carousel.Item>
+                        </Carousel>
+
                         <div class="header-icons">
                             <i class="fas fa-heart"></i>
                             <i class="fas fa-exchange-alt"></i>
@@ -281,8 +316,23 @@ export default function Houses() {
                 </div>
                 <div class="tileh mdb-card" style={{ marginBottom: '30px' }} data-aos='fade-up'>
                     <div class="headerh">
-                        <img src="https://img10.naventcdn.com/avisos/resize/18/01/41/92/72/79/1200x1200/1140112239.jpg?isFirstImage=true" alt='...' />
-                        
+
+                    <Carousel style={{ height: '260px', opacity: '1' }}>
+                            <Carousel.Item style={{ height: '260px' }}>
+                            <img src="https://img10.naventcdn.com/avisos/resize/18/01/41/92/72/79/1200x1200/1140112239.jpg?isFirstImage=true" alt='...' style={{ height: '260px' }} />
+                            </Carousel.Item>
+                            <Carousel.Item>
+                                <img src="https://img10.naventcdn.com/avisos/resize/18/01/41/92/72/79/1200x1200/1140112242.jpg" alt='...' style={{ height: '260px' }} />
+                            </Carousel.Item>
+                            <Carousel.Item>
+                                <img src="https://img10.naventcdn.com/avisos/resize/18/01/41/92/72/79/1200x1200/1140112248.jpg" alt='...' style={{ height: '260px' }} />
+                            </Carousel.Item>
+                            <Carousel.Item>
+                                <img src="https://img10.naventcdn.com/avisos/resize/18/01/41/92/72/79/1200x1200/1140112244.jpg" alt='...' style={{ height: '260px' }} />
+                            </Carousel.Item>
+                        </Carousel>
+
+
                         <div class="header-icons">
                             <i class="fas fa-heart"></i>
                             <i class="fas fa-exchange-alt"></i>
