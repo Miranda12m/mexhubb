@@ -1,6 +1,8 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 export default function ContactButtom() {
+
+
     return (
         <>
 
@@ -39,7 +41,7 @@ export default function ContactButtom() {
 
 
             <div class="btn-box">
-                <Link to="/contact">
+                <Link to="/contact" >
                 <a href="/contact" class="theme-btn btn-style-one button-hover">Contact for information</a>
                 </Link>
             </div>

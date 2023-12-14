@@ -290,7 +290,7 @@ export default function ServicesOp() {
         
         .btn-learn {
           .arrow {
-            background-color: salmon;
+            background-color: #ff3b19;
           }
           &:hover {
             .arrow {
