@@ -1,6 +1,6 @@
 // Bootstrap Comp
 import React from "react";
-import { Route, HashRouter as Router, Routes, Navigate } from "react-router-dom";
+import { Route, HashRouter as Router, Routes, Navigate, useNavigate } from "react-router-dom";
 //
 import Navbar from "./components/navbar";
 import Footer from "./components/Footer";
@@ -18,9 +18,21 @@ import PrivacyScreen from "./screens/privacypolicy";
 //
 import AOS from "aos";
 import "aos/dist/aos.css";
-import { useEffect } from "react";
+import { useEffect} from "react";
 import "./App.css"
 import Wapp from './components/wapp'
+
+
+const ScrollToTop = () => {
+  const navigate = useNavigate();
+
+  useEffect(() => {
+    // Mover la ventana a la parte superior cuando la ruta cambia
+    window.scrollTo(0, 0);
+  }, [navigate]);
+
+  return null;
+};
 
 function App() {
   useEffect(() => {
@@ -33,6 +45,7 @@ function App() {
       <main style={{backgroundColor:'#edecea'}}>
         {/*Esta*/}
         <Routes>
+          
         <Route
             path="/"
             element={<Navigate to="/home" replace />}
@@ -49,6 +62,7 @@ function App() {
           <Route path='/privacy-policy' element={<PrivacyScreen />} />
          
         </Routes>
+        <ScrollToTop />
 
       </main>
       <Footer />
