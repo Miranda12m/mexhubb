@@ -15,6 +15,14 @@
  * Date: 2023-08-28T13:37Z
  */
 
+/*!
+ * purecounter.js - A simple yet configurable native javascript counter which you can count on.
+ * Author: Stig Rex
+ * Version: 1.5.0
+ * Url: https://github.com/srexi/purecounterjs
+ * License: MIT
+ */
+
 /**
  * @license React
  * react-dom.production.min.js
@@ -56,7 +64,7 @@
  */
 
 /**
- * @remix-run/router v1.11.0
+ * @remix-run/router v1.14.0
  *
  * Copyright (c) Remix Software Inc.
  *
@@ -67,7 +75,7 @@
  */
 
 /**
- * React Router DOM v6.18.0
+ * React Router DOM v6.21.0
  *
  * Copyright (c) Remix Software Inc.
  *
@@ -78,7 +86,7 @@
  */
 
 /**
- * React Router v6.18.0
+ * React Router v6.21.0
  *
  * Copyright (c) Remix Software Inc.
  *
