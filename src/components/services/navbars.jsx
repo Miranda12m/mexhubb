@@ -14,7 +14,7 @@ function Navbars() {
                   }
                   /* Estilos para la sección superior del pie de página del sitio */
 .site-footer-top-top {
-  background-color: #2f2f2f;
+  background-color: #151414;
   background-repeat: no-repeat;
   margin-bottom: 50px;
   padding-top: 30px;

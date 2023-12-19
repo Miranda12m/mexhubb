@@ -9,8 +9,8 @@ export default function Imal() {
           .section{
             display:flex;  
             flex-wrap:wrap;
-            justify-content:center;
           }
+
           .box{
             width:400px;
             height:230px;
@@ -72,15 +72,41 @@ export default function Imal() {
             transform: scale(1.02);
             transition: all 0.3s ease-in-out;
         }
+        .tabla-con-cartas2 {
+          width: 100%;
+        }
+        
+        @media (max-width: 768px) {
+          .tabla-con-cartas2 {
+            overflow-x: scroll; 
+          }
+        }
 
-
+        @media (min-width: 769px) {
+          .section {
+            flex-wrap: wrap;
+            justify-content: center;
+            overflow-x: hidden;
+          }
+        }
+        
+        @media (max-width: 768px) {
+          .section {
+            display: flex;
+            flex-wrap: nowrap;
+            overflow-x: auto;
+          }
+          .box {
+            min-width: 300px;
+          }
+        }
         `}
             </style>
 
             <Container>
 
-                <div class="section">
-                    <div class="box mdb-card" data-aos="fade-up">
+                <div class="section tabla-con-cartas2" data-aos="fade-up">
+                    <div class="box mdb-card" >
                         <img src="https://images.unsplash.com/photo-1581553673739-c4906b5d0de8?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" class="image" alt='...' />
                         <div class="overlay">
                             <h3 class="Ttext">Visas and Residency</h3>
@@ -91,14 +117,14 @@ export default function Imal() {
                             </p>
                         </div>
                     </div>
-                    <div class="box mdb-card" data-aos="fade-up">
+                    <div class="box mdb-card" >
                         <img src="https://images.unsplash.com/photo-1553915632-175f60dd8e36?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" class="image" alt='...' />
                         <div class="overlay">
                             <h3 class="Ttext">Family and Personal Matters</h3>
                             <p class="Stext"> Marriage and Divorces</p>
                         </div>
                     </div>
-                    <div class="box mdb-card" data-aos="fade-up">
+                    <div class="box mdb-card" >
                         <img src="https://images.unsplash.com/photo-1547686669-9a8cb1a22d91?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" class="image" alt='...' />
                         <div class="overlay">
                             <h3 class="Ttext">Real Estate Transactions</h3>
@@ -107,10 +133,7 @@ export default function Imal() {
                             </p>
                         </div>
                     </div>
-                </div>
-                <br></br>
-                <div class="section">
-                    <div class="box mdb-card" data-aos="fade-up">
+                    <div class="box mdb-card" >
                         <img src="https://images.unsplash.com/photo-1664575602276-acd073f104c1?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" class="image" alt='...' />
                         <div class="overlay">
                             <h3 class="Ttext">Business and Corporate Services</h3>
@@ -119,7 +142,7 @@ export default function Imal() {
                             </p>
                         </div>
                     </div>
-                    <div class="box mdb-card" data-aos="fade-up">
+                    <div class="box mdb-card">
                         <img src="https://images.unsplash.com/photo-1502920514313-52581002a659?q=80&w=2067&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" class="image" alt='...' />
                         <div class="overlay">
                             <h3 class="Ttext">International Affairs</h3>
@@ -130,7 +153,7 @@ export default function Imal() {
                             </p>
                         </div>
                     </div>
-                    <div class="box mdb-card" data-aos="fade-up">
+                    <div class="box mdb-card">
                         <img src="https://images.unsplash.com/photo-1526948531399-320e7e40f0ca?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" class="image" alt='...' />
                         <div class="overlay">
                             <h3 class="Ttext">Legal Representation</h3>
@@ -141,6 +164,8 @@ export default function Imal() {
                         </div>
                     </div>
                 </div>
+                <br></br>
+                
             </Container>
         </>
 

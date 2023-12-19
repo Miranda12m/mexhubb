@@ -9,8 +9,8 @@ export default function Imas() {
           .section{
             display:flex;  
             flex-wrap:wrap;
-            justify-content:center;
           }
+
           .box{
             width: 48%;
             min-width: 300px;
@@ -79,14 +79,42 @@ export default function Imas() {
             transition: all 0.3s ease-in-out;
         }
 
+        .tabla-con-cartas2 {
+          width: 100%;
+        }
+        
+        @media (max-width: 768px) {
+          .tabla-con-cartas2 {
+            overflow-x: scroll; 
+          }
+        }
+
+        @media (min-width: 769px) {
+          .section {
+            flex-wrap: wrap;
+            justify-content: center;
+            overflow-x: hidden;
+          }
+        }
+        
+        @media (max-width: 768px) {
+          .section {
+            display: flex;
+            flex-wrap: nowrap;
+            overflow-x: auto;
+          }
+          .box {
+            min-width: 300px;
+          }
+        }
 
         `}
             </style>
 
             <Container>
 
-                <div class="section">
-                    <div class="box mdb-card" data-aos="fade-up">
+                <div class="section tabla-con-cartas2" data-aos="fade-up">
+                    <div class="box mdb-card" >
                         <img src="https://images.unsplash.com/photo-1494947665470-20322015e3a8?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" class="image" alt='...' />
                         <div class="overlay">
                             <h3 class="Ttext">Personnel Services</h3>
@@ -104,7 +132,7 @@ export default function Imas() {
                             </p>
                         </div>
                     </div>
-                    <div class="box mdb-card" data-aos="fade-up">
+                    <div class="box mdb-card" >
                         <img src="https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" class="image" alt='...' />
                         <div class="overlay">
                             <h3 class="Ttext">Health Advisory Services</h3>
@@ -115,10 +143,7 @@ export default function Imas() {
                             </p>
                         </div>
                     </div>
-                </div>
-                <br></br>
-                <div class="section">
-                    <div class="box mdb-card" data-aos="fade-up">
+                    <div class="box mdb-card" >
                         <img src="https://images.unsplash.com/photo-1571388208497-71bedc66e932?q=80&w=2072&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" class="image" alt='...' />
                         <div class="overlay">
                             <h3 class="Ttext">Daily Services</h3>
@@ -135,7 +160,7 @@ export default function Imas() {
                             </p>
                         </div>
                     </div>
-                    <div class="box mdb-card" data-aos="fade-up">
+                    <div class="box mdb-card" >
                         <img src="https://images.unsplash.com/photo-1460925895917-afdab827c52f?q=80&w=2015&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" class="image" alt='...' />
                         <div class="overlay">
                             <h3 class="Ttext">Buying Advisory</h3>
@@ -143,8 +168,8 @@ export default function Imas() {
                             </p>
                         </div>
                     </div>
-
                 </div>
+                <br></br>
             </Container>
         </>
 

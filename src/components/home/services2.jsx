@@ -389,6 +389,9 @@ ul {
     flex-wrap: nowrap;
     overflow-x: auto;
   }
+  .item{
+    height: 353px;
+  }
 }
 
 .margenes{
