@@ -2,6 +2,7 @@ import React from 'react'
 import { Link } from "react-router-dom";
 import "./css/footer.css";
 import { FaFacebook, FaTwitter, FaInstagram } from 'react-icons/fa';
+import { FaThreads, FaXTwitter } from "react-icons/fa6";
 function Footer() {
     return (
         <>
@@ -38,7 +39,13 @@ function Footer() {
 
                                     <li class="social-icon-item">
                                         <a href="https://www.twitter.com/mexhubb/" class="social-icon-link" target='blank'>
-                                            <FaTwitter size={20} style={{ marginRight: '10px', color: 'white' }} class='button-hover'  />
+                                            <FaXTwitter size={20} style={{ marginRight: '10px', color: 'white' }} class='button-hover'  />
+                                        </a>
+                                    </li>
+
+                                    <li class="social-icon-item">
+                                        <a href="https://www.twitter.com/mexhubb/" class="social-icon-link" target='blank'>
+                                            <FaThreads size={20} style={{ marginRight: '10px', color: 'white' }} class='button-hover'  />
                                         </a>
                                     </li>
                                 </ul>
