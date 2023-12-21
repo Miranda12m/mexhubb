@@ -56,7 +56,7 @@ export default function App() {
               <strong style={{textShadow: '2px 2px 4px rgba(0, 0, 0, 0.5)', fontSize: '2em', fontWeight:'bold', color: 'white'}}>
 Mexhubb              <br />
               </strong>
-              <strong style={{textShadow: '2px 2px 4px rgba(0, 0, 0, 0.5)',fontWeight:'bold', color: 'white'}}>Your Partner in Mexico <br /></strong>
+              <strong style={{textShadow: '2px 2px 4px rgba(0, 0, 0, 0.5)',fontWeight:'bold', color: 'white'}}>From Ideas to Reality <br /></strong>
             </h1>
             <p className="m-b-40" style={{textShadow: '2px 2px 4px rgba(0, 0, 0, 0.5)', fontSize: '1.3em', fontWeight:'bold'}}>
               
@@ -64,7 +64,7 @@ Mexhubb              <br />
             <br></br>
             <p>
               <Link to="/services">
-              <button type="button" className="btn btn-primary button-hover">Join to Mexhubb!</button>
+              <button type="button" className="btn btn-primary button-hover">Join Mexhubb!</button>
               </Link>
             </p>
           </div>
