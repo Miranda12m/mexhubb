@@ -9,8 +9,8 @@ export default function Imah() {
           .section{
             display:flex;  
             flex-wrap:wrap;
-            justify-content:center;
           }
+
           .box{
             width:300px;
             height:230px;
@@ -73,13 +73,41 @@ export default function Imah() {
             transition: all 0.3s ease-in-out;
         }
 
+        .tabla-con-cartas2 {
+          width: 100%;
+        }
+        
+        @media (max-width: 768px) {
+          .tabla-con-cartas2 {
+            overflow-x: scroll; 
+          }
+        }
+
+        @media (min-width: 769px) {
+          .section {
+            flex-wrap: wrap;
+            justify-content: center;
+            overflow-x: hidden;
+          }
+        }
+        
+        @media (max-width: 768px) {
+          .section {
+            display: flex;
+            flex-wrap: nowrap;
+            overflow-x: auto;
+          }
+          .box {
+            min-width: 300px;
+          }
+        }
 
         `}
             </style>
 
             <Container>
 
-                <div class="section">
+                <div class="section tabla-con-cartas2">
                     <div class="box mdb-card" data-aos="fade-up">
                         <img src="https://images.unsplash.com/photo-1665686374221-1901faa9f3ad?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" class="image" alt='...' />
                             <div class="overlay">

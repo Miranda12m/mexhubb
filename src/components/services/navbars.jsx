@@ -1,12 +1,17 @@
 import React from "react";
-import { Col } from "react-bootstrap";
+import { Col} from "react-bootstrap";
 import { Link } from "react-router-dom";
+import { IoReorderThree, IoDocumentText } from "react-icons/io5";
+import { FaHouseChimney } from "react-icons/fa6";
+import { FaMapMarkedAlt } from "react-icons/fa";
+import { MdEvent } from "react-icons/md";
+import { RiContactsFill } from "react-icons/ri";
 
 function Navbars() {
-    return (
-        <>
-            <style>
-                {`
+  return (
+    <>
+      <style>
+        {`
                   .button-hover:hover {
                       box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.3);
                       transform: scale(1.02);
@@ -14,7 +19,7 @@ function Navbars() {
                   }
                   /* Estilos para la sección superior del pie de página del sitio */
 .site-footer-top-top {
-  background-color: #2f2f2f;
+  background-color: #151414;
   background-repeat: no-repeat;
   margin-bottom: 50px;
   padding-top: 30px;
@@ -84,39 +89,58 @@ function Navbars() {
 .linksns:hover{
     color: orange;
 }
+
+@media (max-width: 767px) {
+  .row {
+    flex-wrap: wrap;
+  }
+
+  .col {
+    flex-basis: 30%;
+    margin-bottom: 20px;
+    font-size: 16.5px;
+
+  }
+  .site-footer-top-top {
+    padding-bottom: 10px;
+  }
+  .margenextra{
+    padding-bottom:5px;
+  }
+}
+
+
+
                 `}
-            </style>
-            <div data-aos="fade-right">
-                <div class="site-footer-top-top">
-                    <div class="container">
-                        <div class="row" style={{ alignItems: 'center', display: 'flex', justifyContent: 'center', fontSize:'20px', textAlign:'center'}}>
-                        <Col style={{ alignItems: 'center', display: 'flex', justifyContent: 'center' }}>
-                                <Link to='/services' className="linksns" >All </Link>
-                            </Col>
-                            <Col style={{ alignItems: 'center', display: 'flex', justifyContent: 'center' }}>
-                                <Link to='/housing' className="linksns" >Housing</Link>
-                            </Col>
-
-                            <Col style={{ alignItems: 'center', display: 'flex', justifyContent: 'center' }}>
-                                <Link to='/tours' className="linksns">Tours</Link>
-                            </Col>
-
-                            <Col style={{ alignItems: 'center', display: 'flex', justifyContent: 'center' }}>
-                                <Link to='/events' className="linksns">Events</Link>
-                            </Col>
-                            
-                            <Col style={{ alignItems: 'center', display: 'flex', justifyContent: 'center' }}>
-                                <Link to='/legal' className="linksns">Legal</Link>
-                            </Col>
-                            <Col style={{ alignItems: 'center', display: 'flex', justifyContent: 'center' }}>
-                                <Link to='/specialized' className="linksns">Specialized</Link>
-                            </Col>
-                        </div>
-                    </div>
-                </div>
-                <div class="Background-footer"></div>
-            </div>
-        </>
-    );
+      </style>
+      <div >
+        <div class="site-footer-top-top">
+          <div class="container">
+          <div className="row" style={{ alignItems: 'center', display: 'flex', justifyContent: 'center', fontSize: '20px', textAlign: 'center' }} data-aos="fade-right" >
+          <Col className='margenextra' style={{ alignItems: 'center', display: 'flex', justifyContent: 'center', borderLeft:'1px solid black', borderRight:'1px solid black' }}>
+            <Link to='/services' className="linksns" ><IoReorderThree /> All </Link>
+          </Col>
+          <Col className='margenextra' style={{ alignItems: 'center', display: 'flex', justifyContent: 'center', borderLeft:'1px solid black', borderRight:'1px solid black' }}>
+            <Link to='/housing' className="linksns" ><FaHouseChimney /> Housing</Link>
+          </Col>
+          <Col className='margenextra' style={{ alignItems: 'center', display: 'flex', justifyContent: 'center', borderLeft:'1px solid black', borderRight:'1px solid black' }}>
+            <Link to='/tours' className="linksns"><FaMapMarkedAlt /> Tours</Link>
+          </Col>
+          <Col  style={{ alignItems: 'center', display: 'flex', justifyContent: 'center', borderLeft:'1px solid black', borderRight:'1px solid black' }}>
+            <Link to='/events' className="linksns"><MdEvent /> Events</Link>
+          </Col>
+          <Col style={{ alignItems: 'center', display: 'flex', justifyContent: 'center', borderLeft:'1px solid black', borderRight:'1px solid black' }}>
+            <Link to='/legal' className="linksns"><IoDocumentText /> Legal</Link>
+          </Col>
+          <Col style={{ alignItems: 'center', display: 'flex', justifyContent: 'center', borderLeft:'1px solid black', borderRight:'1px solid black' }}>
+            <Link to='/specialized' className="linksns"><RiContactsFill /> Specialized</Link>
+          </Col>
+        </div>
+          </div>
+        </div>
+        <div class="Background-footer"></div>
+      </div>
+    </>
+  );
 }
 export default Navbars;
