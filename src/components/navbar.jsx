@@ -141,6 +141,11 @@ function Navbar({ currentPage, height = 100 }) {
       .iconhover:hover {
         color: #FF3B19;
       }
+      .button-hover:hover {
+        box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.3);
+        transform: scale(1.02);
+        transition: all 0.2s ease-in-out;
+    }
       `}
     </style>
       <div className="all-wrapper " data-aos-easing='ease' data-aos-duration='400' data-aos-delay='0'>
@@ -176,13 +181,13 @@ function Navbar({ currentPage, height = 100 }) {
             <div class="d-flex justify-content-lg-end align-items-center">
               <ul class="social-icon d-flex justify-content-lg-end">
                 <li class="social-icon-item ">
-                  <a href="https://www.facebook.com/profile.php?id=61554405899957" target='blank' class="social-icon-link">
-                    <FaFacebook size={20} style={{ marginRight: '10px' }} class='button-hover iconhover' />
+                  <a href="https://www.facebook.com/profile.php?id=61554405899957" target='blank' class="social-icon-link ">
+                    <FaFacebook size={20} style={{ marginRight: '10px' }} class=' button-hover iconhover' />
                   </a>
                 </li>
 
                 <li class="social-icon-item">
-                  <a href="https://www.instagram.com/mexhubb/" target='blank' class="social-icon-link">
+                  <a href="https://www.instagram.com/mexhubb/" target='blank' class="social-icon-link ">
                     <FaInstagram size={20} style={{ marginRight: '10px' }} class='button-hover iconhover' />
                   </a>
                 </li>
@@ -194,9 +199,9 @@ function Navbar({ currentPage, height = 100 }) {
                 </li>
 
                 <li class="social-icon-item">
-                  <a href="https://www.twitter.com/mexhubb/" class="social-icon-link" target='blank'>
+                  <Link to="https://www.twitter.com/mexhubb/" class="social-icon-link" target='blank'>
                     <FaThreads size={20} style={{ marginRight: '10px' }} class='button-hover iconhover' />
-                  </a>
+                  </Link>
                 </li>
               </ul>
             </div>
