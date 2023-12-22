@@ -1,24 +1,8 @@
-import React, { useState } from 'react';
+import React from 'react';
 import './css/wapp.css';
 import $ from 'jquery';
 
 function Wapp() {
-  const [isWhatsAppVisible, setWhatsAppVisible] = useState(false);
-
-  const toggleWhatsApp = () => {
-    setWhatsAppVisible(!isWhatsAppVisible);
-  };
-
-  const closeWhatsApp = () => {
-    setWhatsAppVisible(false);
-  };
-
-  const openWhatsApp = () => {
-    // Agrega lógica adicional si es necesario antes de abrir WhatsApp
-    // ...
-
-    window.open('https://api.whatsapp.com/send?phone=525512003020', '_blank');
-  };
 
   $(document).on("click", "#whatsapp-popup", function () {
     $(".whatsapp-wrapper").toggleClass("hide-whatsapp show-whatsapp");

@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 import "./css/navbar.css";
 import AOS from "aos";
 import "aos/dist/aos.css";
-import { FaFacebook, FaTwitter, FaInstagram } from 'react-icons/fa';
+import { FaFacebook, FaInstagram } from 'react-icons/fa';
 import { FaThreads, FaXTwitter } from "react-icons/fa6";
 
 function Navbar({ currentPage, height = 100 }) {
