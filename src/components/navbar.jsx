@@ -3,6 +3,8 @@ import { Link } from "react-router-dom";
 import "./css/navbar.css";
 import AOS from "aos";
 import "aos/dist/aos.css";
+import { FaFacebook, FaTwitter, FaInstagram } from 'react-icons/fa';
+import { FaThreads, FaXTwitter } from "react-icons/fa6";
 
 function Navbar({ currentPage, height = 100 }) {
   useEffect(() => {
@@ -131,11 +133,21 @@ function Navbar({ currentPage, height = 100 }) {
   AOS.init();
   return (
     <>
+    <style>
+      {`
+      .iconhover{
+        color: white;
+      }
+      .iconhover:hover {
+        color: #FF3B19;
+      }
+      `}
+    </style>
       <div className="all-wrapper " data-aos-easing='ease' data-aos-duration='400' data-aos-delay='0'>
         <header id="header" className="fixed-top desktop-menu menu-top-w">
           <div className="container d-flex align-items-center justify-content-lg-between">
             <h1 className="me-auto me-lg-0" style={{ textShadow: '2px 2px 4px rgba(0, 0, 0, .7)' }}>
-              <Link to="/home">                                            <img src="https://i.ibb.co/y8j60dJ/2-1-removebg-preview2.png" alt="logo" className="img-fluid"  style={{ maxHeight: '40px' }}></img>
+              <Link to="/home">                                            <img src="https://i.ibb.co/y8j60dJ/2-1-removebg-preview2.png" alt="logo" className="img-fluid" style={{ maxHeight: '40px' }}></img>
               </Link>
             </h1>
             <nav id="navbar" className="navbar order-last order-lg-0">
@@ -161,15 +173,33 @@ function Navbar({ currentPage, height = 100 }) {
                 id="mobile-nav-toggle"
               ></i>
             </nav>
-            <Link to="/contact">
-              <a
-                href="/contact"
-                target="_blank"
-                className="get-started-btn"
-                style={{ textShadow: '2px 2px 4px rgba(0, 0, 0, 1)' }}
-              >
-                Find Us
-              </a></Link>
+            <div class="d-flex justify-content-lg-end align-items-center">
+              <ul class="social-icon d-flex justify-content-lg-end">
+                <li class="social-icon-item ">
+                  <a href="https://www.facebook.com/profile.php?id=61554405899957" target='blank' class="social-icon-link">
+                    <FaFacebook size={20} style={{ marginRight: '10px' }} class='button-hover iconhover' />
+                  </a>
+                </li>
+
+                <li class="social-icon-item">
+                  <a href="https://www.instagram.com/mexhubb/" target='blank' class="social-icon-link">
+                    <FaInstagram size={20} style={{ marginRight: '10px' }} class='button-hover iconhover' />
+                  </a>
+                </li>
+
+                <li class="social-icon-item">
+                  <a href="https://www.twitter.com/mexhubb/" class="social-icon-link" target='blank'>
+                    <FaXTwitter size={20} style={{ marginRight: '10px'}} class='button-hover iconhover' />
+                  </a>
+                </li>
+
+                <li class="social-icon-item">
+                  <a href="https://www.twitter.com/mexhubb/" class="social-icon-link" target='blank'>
+                    <FaThreads size={20} style={{ marginRight: '10px' }} class='button-hover iconhover' />
+                  </a>
+                </li>
+              </ul>
+            </div>
           </div>
         </header>
       </div>
