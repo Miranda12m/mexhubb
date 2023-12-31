@@ -9,7 +9,6 @@ export default function Imat() {
           .section{
             display:flex;  
             flex-wrap:wrap;
-            justify-content:center;
           }
           .box{
             width: 48%;
@@ -81,13 +80,47 @@ export default function Imat() {
             transition: all 0.3s ease-in-out;
         }
 
+        .tabla-con-cartas3 {
+          width: 100%;
+        }
+        
+        @media (max-width: 768px) {
+          .tabla-con-cartas2 {
+            overflow-x: scroll; 
+          }
+        }
+
+        @media (min-width: 769px) {
+          .section {
+            flex-wrap: wrap;
+            justify-content: center;
+            overflow-x: hidden;
+          }
+        }
+        
+        @media (max-width: 768px) {
+          .section {
+            display: flex;
+            flex-wrap: nowrap;
+            overflow-x: auto;
+          }
+          .box {
+            min-width: 300px;
+          }
+          .box:hover .Stext{
+            opacity:1;
+            bottom:0%;
+            top:54%;  
+            transition:all .5s ease;
+          }
+        }
 
         `}
             </style>
 
             <Container>
 
-                <div class="section">
+                <div class="section tabla-con-cartas3">
                     <div class="box mdb-card" data-aos="fade-up">
                         <img src="https://images.unsplash.com/photo-1512813389649-acb9131ced20?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" class="image" alt='...' />
                         <div class="overlay">
@@ -117,9 +150,6 @@ export default function Imat() {
                             </p>
                         </div>
                     </div>
-                </div>
-                <br></br>
-                <div class="section">
                     <div class="box mdb-card" data-aos="fade-up">
                         <img src="https://images.unsplash.com/photo-1529704640551-eef9ba5d774a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" class="image" alt='...' />
                         <div class="overlay">
@@ -148,8 +178,9 @@ export default function Imat() {
                             </p>
                         </div>
                     </div>
-
                 </div>
+                <br></br>
+              
             </Container>
         </>
 

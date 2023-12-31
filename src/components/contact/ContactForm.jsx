@@ -105,7 +105,7 @@ function ContactForm() {
           </div>
           <div className="text-center">
             <button type="submit" className="btn btn-primary button-hover">
-              Enviar
+              Send
             </button>
           </div>
           <br></br><br></br>
