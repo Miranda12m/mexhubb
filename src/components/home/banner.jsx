@@ -64,7 +64,7 @@ Mexhubb              <br />
             <br></br>
             <p>
               <Link to="/services">
-              <button type="button" className="btn btn-primary button-hover">Join Mexhubb!</button>
+              <button type="button" className="btn btn-primary button-hover">Los tacos son ricos</button>
               </Link>
             </p>
           </div>
