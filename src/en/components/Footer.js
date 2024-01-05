@@ -90,37 +90,37 @@ function Footer() {
                                             </Link>
                                         </li>
                                         <li>
-                                            <Link to="/contact">
+                                            <Link to="/en/contact">
                                                 Contact Us
                                             </Link>
                                         </li>
                                         <li>
-                                            <Link to="/services">
+                                            <Link to="/en/services">
                                                 Services
                                             </Link>
                                         </li>
                                         <li>
-                                            <Link to="/tours">
+                                            <Link to="/en/tours">
                                                 Tours
                                             </Link>
                                         </li>
                                         <li>
-                                            <Link to="/housing">
+                                            <Link to="/en/housing">
                                                 Housing
                                             </Link>
                                         </li>
                                         <li>
-                                            <Link to="/events">
+                                            <Link to="/en/events">
                                                 Events
                                             </Link>
                                         </li>
                                         <li>
-                                            <Link to="/legal">
+                                            <Link to="/en/legal">
                                                 Legal
                                             </Link>
                                         </li>
                                         <li>
-                                            <Link to="/specialized">
+                                            <Link to="/en/specialized">
                                                 Specialized
                                             </Link>
                                         </li>
@@ -155,9 +155,9 @@ function Footer() {
                                 <div className="footer-menu">
                                     <ul>
                                         <li><a href="/">Home</a></li>
-                                        <li><a href="/#/terms-and-conditions">Terms and Conditions</a></li>
-                                        <li><a href="/#/privacy-policy">Privacy Policies</a></li>
-                                        <li><a href="/#/contact" >Contact</a></li>
+                                        <li><a href="/#/en/terms-and-conditions">Terms and Conditions</a></li>
+                                        <li><a href="/#/en/privacy-policy">Privacy Policies</a></li>
+                                        <li><a href="/#/en/contact" >Contact</a></li>
                                     </ul>
                                 </div>
                             </div>

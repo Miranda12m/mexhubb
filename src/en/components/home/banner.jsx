@@ -63,7 +63,7 @@ Mexhubb              <br />
             </p>
             <br></br>
             <p>
-              <Link to="/services">
+              <Link to="/en/services">
               <button type="button" className="btn btn-primary button-hover">Join Mexhubb!</button>
               </Link>
             </p>

@@ -12,7 +12,7 @@ export default function Imae() {
           }
           .box{
             width:400px;
-            height:260px;
+            height:220px;
             display:flex;
             position:relative;
             border-radius:5px;
@@ -174,8 +174,8 @@ export default function Imae() {
 
             <Container>
 
-                <div class="section tabla-con-cartas2">
-                    <div class="box mdb-card" data-aos="fade-up">
+                <div class="section tabla-con-cartas2" data-aos="fade-up">
+                    <div class="box mdb-card" >
                         <img src="https://images.unsplash.com/photo-1527529482837-4698179dc6ce?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" class="image" alt='...' />
                         <div class="overlay">
                             <h3 class="Ttext">Language exchange parties</h3>
@@ -183,14 +183,14 @@ export default function Imae() {
                             </p>
                         </div>
                     </div>
-                    <div class="box mdb-card" data-aos="fade-up">
+                    <div class="box mdb-card" >
                         <img src="https://images.unsplash.com/photo-1572894644277-25c35cf64163?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" class="image" alt='...' />
                         <div class="overlay">
                             <h3 class="Ttext">Cultural immersion</h3>
                             <p class="Stext">We immerse you in the rich and diverse Mexican culture through authentic activities and events.</p>
                         </div>
                     </div>
-                    <div class="box mdb-card" data-aos="fade-up">
+                    <div class="box mdb-card" >
                         <img src="https://images.unsplash.com/photo-1600618528240-fb9fc964b853?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" class="image" alt='...' />
                         <div class="overlay">
                             <h3 class="Ttext">Wellness activities</h3>
@@ -198,7 +198,7 @@ export default function Imae() {
                             </p>
                         </div>
                     </div>
-                    <div class="box mdb-card" data-aos="fade-up">
+                    <div class="box mdb-card" >
                         <img src="https://images.unsplash.com/photo-1614886137686-181bab6ae68a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" class="image" alt='...' />
                         <div class="overlay">
                             <h3 class="Ttext3">Coworking spaces</h3>
@@ -206,7 +206,7 @@ export default function Imae() {
                             </p>
                         </div>
                     </div>
-                    <div class="box mdb-card" data-aos="fade-up">
+                    <div class="box mdb-card" >
                         <img src="https://images.unsplash.com/photo-1575703492669-1043d5668d43?q=80&w=2125&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" class="image" alt='...' />
                         <div class="overlay">
                             <h3 class="Ttext2">Bar Hopping</h3>
@@ -214,7 +214,7 @@ export default function Imae() {
                             </p>
                         </div>
                     </div>
-                    <div class="box mdb-card" data-aos="fade-up">
+                    <div class="box mdb-card" >
                         <img src="https://images.unsplash.com/photo-1657672988264-92b5216512ac?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" class="image" alt='...' />
                         <div class="overlay">
                             <h3 class="Ttext2">Sports activities</h3>

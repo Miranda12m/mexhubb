@@ -309,10 +309,10 @@ export default function AboutUs() {
                                             </svg>
                                             Community Impact</li>
                                     </ul>
-                                    <Link to='/services'>
+                                    <Link to='/en/services'>
                                     
                                     <div class="btn-box ">
-                                        <a href="/services" class="theme-btn btn-style-one button-hover">Know More About Us</a>
+                                        <a href="/en/services" class="theme-btn btn-style-one button-hover">Know More About Us</a>
                                     </div>
                                     </Link>
                                 </div>

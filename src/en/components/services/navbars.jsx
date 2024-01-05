@@ -118,22 +118,22 @@ function Navbars() {
           <div class="container">
           <div className="row" style={{ alignItems: 'center', display: 'flex', justifyContent: 'center', fontSize: '20px', textAlign: 'center' }} data-aos="fade-right" >
           <Col className='margenextra' style={{ alignItems: 'center', display: 'flex', justifyContent: 'center', borderLeft:'1px solid black', borderRight:'1px solid black' }}>
-            <Link to='/services' className="linksns" ><IoReorderThree /> All </Link>
+            <Link to='/en/services' className="linksns" ><IoReorderThree /> All </Link>
           </Col>
           <Col className='margenextra' style={{ alignItems: 'center', display: 'flex', justifyContent: 'center', borderLeft:'1px solid black', borderRight:'1px solid black' }}>
-            <Link to='/housing' className="linksns" ><FaHouseChimney /> Housing</Link>
+            <Link to='/en/housing' className="linksns" ><FaHouseChimney /> Housing</Link>
           </Col>
           <Col className='margenextra' style={{ alignItems: 'center', display: 'flex', justifyContent: 'center', borderLeft:'1px solid black', borderRight:'1px solid black' }}>
-            <Link to='/tours' className="linksns"><FaMapMarkedAlt /> Tours</Link>
+            <Link to='/en/tours' className="linksns"><FaMapMarkedAlt /> Tours</Link>
           </Col>
           <Col  style={{ alignItems: 'center', display: 'flex', justifyContent: 'center', borderLeft:'1px solid black', borderRight:'1px solid black' }}>
-            <Link to='/events' className="linksns"><MdEvent /> Events</Link>
+            <Link to='/en/events' className="linksns"><MdEvent /> Events</Link>
           </Col>
           <Col style={{ alignItems: 'center', display: 'flex', justifyContent: 'center', borderLeft:'1px solid black', borderRight:'1px solid black' }}>
-            <Link to='/legal' className="linksns"><IoDocumentText /> Legal</Link>
+            <Link to='/en/legal' className="linksns"><IoDocumentText /> Legal</Link>
           </Col>
           <Col style={{ alignItems: 'center', display: 'flex', justifyContent: 'center', borderLeft:'1px solid black', borderRight:'1px solid black' }}>
-            <Link to='/specialized' className="linksns"><RiContactsFill /> Specialized</Link>
+            <Link to='/en/specialized' className="linksns"><RiContactsFill /> Specialized</Link>
           </Col>
         </div>
           </div>
