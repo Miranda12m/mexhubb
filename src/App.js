@@ -27,7 +27,19 @@ import Wapp from './en/components/wapp'
 //Deutsch
 
 //Espanol
-
+import NavbarES from "./es/components/navbar";
+import FooterES from "./es/components/Footer";
+import HomeScreenES from "./es/screens/HomeScreen";
+import ContactScreenES from "./es/screens/ContactScreen";
+import ServicesScreenES from "./es/screens/ServicesScreen"
+import LegalScreenES from "./es/screens/services/LegalScreen"; 
+import EventsScreenES from "./es/screens/services/EventsScreen";
+import SpecializedScreenES from "./es/screens/services/SpecializedScreen";
+import ToursScreenES from "./es/screens/services/ToursScreen";
+import HousingScreenES from "./es/screens/services/HousingScreen";
+import TermsScreenES from "./es/screens/termsandconditions";
+import PrivacyScreenES from "./es/screens/privacypolicy";
+import WappEs from './en/components/wapp'
 
 const ScrollToTop = () => {
   const navigate = useNavigate();
@@ -72,6 +84,16 @@ function App() {
          {/*Detusch*/}
 
          {/*Espanol*/}
+         <Route path="/es/home" element={<HomeScreenES />} />
+          <Route path="/es/contact" element={<ContactScreenES />} />
+          <Route path="/es/services" element={<ServicesScreenES />} />
+          <Route path="/es/legal" element={<LegalScreenES />} />
+          <Route path="/es/events" element={<EventsScreenES />} />
+          <Route path="/es/specialized" element={<SpecializedScreenES /> } />
+          <Route path="/es/tours" element={<ToursScreenES />} />
+          <Route path="/es/housing" element={<HousingScreenES />} />
+          <Route path='/es/terms-and-conditions' element={<TermsScreenES />} />
+          <Route path='/es/privacy-policy' element={<PrivacyScreenES />} />
 
         </Routes>
         <ScrollToTop />
