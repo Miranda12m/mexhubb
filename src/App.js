@@ -25,6 +25,19 @@ import Wapp from './en/components/wapp'
 //French
 
 //Deutsch
+import NavbarDE from "./de/components/navbar";
+import FooterDE from "./de/components/Footer";
+import HomeScreenDE from "./de/screens/HomeScreen";
+import ContactScreenDE from "./de/screens/ContactScreen";
+import ServicesScreenDE from "./de/screens/ServicesScreen"
+import LegalScreenDE from "./de/screens/services/LegalScreen"; 
+import EventsScreenDE from "./de/screens/services/EventsScreen";
+import SpecializedScreenDE from "./de/screens/services/SpecializedScreen";
+import ToursScreenDE from "./de/screens/services/ToursScreen";
+import HousingScreenDE from "./de/screens/services/HousingScreen";
+import TermsScreenDE from "./de/screens/termsandconditions";
+import PrivacyScreenDE from "./de/screens/privacypolicy";
+import WappDE from './de/components/wapp'
 
 //Espanol
 import NavbarES from "./es/components/navbar";
@@ -82,6 +95,16 @@ function App() {
          {/*French*/}
           
          {/*Detusch*/}
+         <Route path="/de/home" element={<HomeScreenDE />} />
+          <Route path="/de/contact" element={<ContactScreenDE />} />
+          <Route path="/de/services" element={<ServicesScreenDE />} />
+          <Route path="/de/legal" element={<LegalScreenDE />} />
+          <Route path="/de/events" element={<EventsScreenDE />} />
+          <Route path="/de/specialized" element={<SpecializedScreenDE /> } />
+          <Route path="/de/tours" element={<ToursScreenDE />} />
+          <Route path="/de/housing" element={<HousingScreenDE />} />
+          <Route path='/de/terms-and-conditions' element={<TermsScreenDE />} />
+          <Route path='/de/privacy-policy' element={<PrivacyScreenDE />} />
 
          {/*Espanol*/}
          <Route path="/es/home" element={<HomeScreenES />} />
