@@ -29,7 +29,7 @@ export default function EventsScreenDE() {
       <NavbarsDE />
       <Container>
         <h1 data-aos="fade-right" style={{ borderBottom: "1px solid #2f2f2f", marginBottom: "15px" }}>
-          <strong>Mexhubb Events</strong>
+          <strong>Mexhubb-Veranstaltungen</strong>
         </h1>
 
         <BodyBage01DE />
@@ -41,7 +41,7 @@ export default function EventsScreenDE() {
         <br></br>
         <br></br>
         <Container>
-          <h2 style={{ color: 'black', margin: '3%', textAlign: 'center' }} data-aos="fade-right" >Our services include,<span style={{ color: '#ff3b19' }}> but are not limited to:</span></h2>
+          <h2 style={{ color: 'black', margin: '3%', textAlign: 'center' }} data-aos="fade-right" >Zu unseren Dienstleistungen gehören,<span style={{ color: '#ff3b19' }}> sind aber nicht beschränkt auf:</span></h2>
           <ImaeDE />
 
         </Container>

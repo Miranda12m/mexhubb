@@ -24,77 +24,64 @@ export default function PrivacyScreenDE() {
                   
                 `}
       </style>
-      
-      <div className="terms-container" style={{backgroundColor:'white'}}>
-      <br></br>
-        <h1 className="page-title">Privacy Policy</h1>
+
+      <div className="terms-container" style={{ backgroundColor: 'white' }}>
+        <br></br>
+        <h1 className="page-title">Datenschutzrichtlinie</h1>
         <br></br>
         <div className="content">
           <p>
-            Welcome to the Mexhubb website. At Mexhubb, we take the privacy of our users and customers very seriously. For this reason, we want to inform you about how we collect, use, and protect your personal data. This privacy policy applies to all individuals who visit our website and use our services. By accessing and using our website, you agree to the terms and conditions of this privacy policy and authorize us to collect, store, and use your personal information in accordance with the purposes outlined in it.
+            Willkommen auf der Mexhubb-Website. Bei Mexhubb nehmen wir die Privatsphäre unserer Benutzer und Kunden sehr ernst. Aus diesem Grund möchten wir Sie darüber informieren, wie wir Ihre personenbezogenen Daten erheben, verwenden und schützen. Diese Datenschutzerklärung gilt für alle Personen, die unsere Website besuchen und unsere Dienste nutzen. Durch den Zugriff auf und die Nutzung unserer Website stimmen Sie den Bedingungen dieser Datenschutzrichtlinie zu und ermächtigen uns, Ihre personenbezogenen Daten gemäß den darin dargelegten Zwecken zu sammeln, zu speichern und zu nutzen.
           </p>
           <p>
-            Below, the privacy policies are specified:
+            Nachfolgend sind die Datenschutzrichtlinien aufgeführt:          </p>
+          <p>
+            1. Informationen, die wir sammeln:
           </p>
           <p>
-            1. Information We Collect:
+            Das Unternehmen erfasst personenbezogene Daten wie Ihren Namen, Ihr Unternehmen, Ihre Telefonnummer und Ihre E-Mail-Adresse nur dann, wenn Sie diese freiwillig angeben. Zum Beispiel, wenn Sie ein Kontaktformular auf unserer Website ausfüllen. Diese Informationen werden ausschließlich für legitime Geschäftszwecke verwendet, wie zum Beispiel die Kontaktaufnahme mit Ihnen, den Versand von Newslettern, die Beantwortung von Fragen oder Anfragen und die Verbesserung unserer Website. Wir werden Ihre personenbezogenen Daten niemals ohne Ihre ausdrückliche Zustimmung an Dritte weitergeben, es sei denn, dies ist gesetzlich oder per Gerichtsbeschluss erforderlich. Darüber hinaus können durch die Nutzung der Website bestimmte nicht personenbezogene Benutzerinformationen erfasst werden. Dazu können Informationen wie die IP-Adresse des Benutzers, die Art des von ihm verwendeten Browsers, sein Betriebssystem und die Websites gehören, die er aufgerufen hat, bevor er zu uns gelangte. Diese Informationen werden zur Verbesserung der Leistung und Funktionalität der Website verwendet und werden nicht zur persönlichen Identifizierung des Benutzers verwendet.          </p>
+          <p>
+            Es ist wichtig zu beachten, dass die gesammelten Informationen nicht an Dritte weitergegeben werden, außer in Fällen, in denen dies zur Bereitstellung unserer Dienste oder zur Einhaltung unserer gesetzlichen Verpflichtungen erforderlich ist. Darüber hinaus werden geeignete Sicherheitsmaßnahmen implementiert, um Ihre persönlichen Daten vor unbefugtem Zugriff, Änderung, Offenlegung oder Zerstörung zu schützen. Im Falle einer Sicherheitsverletzung sind wir bestrebt, Sie umgehend zu informieren und Maßnahmen zu ergreifen, um das Problem so schnell wie möglich zu beheben.          </p>
+          <p>
+            2. Nutzung der Informationen
           </p>
           <p>
-            The company collects personally identifiable information, such as your name, company, phone number, and email address, only when you choose to provide it voluntarily. For instance, when you fill out a contact form on our website. This information will be used solely for legitimate business purposes, such as contacting you, sending newsletters, responding to questions or inquiries, improving our website, among others. We will never share your personal data with third parties without your explicit consent, except when required by law or a court order. Additionally, certain non-personal user information may be collected through the use of the website. This might include information such as the user's IP address, the type of browser they are using, their operating system, and the websites they accessed before arriving at ours. This information is used to enhance the performance and functionality of the website and will not be used to personally identify the user.
+            In Übereinstimmung mit dem Bundesgesetz zum Schutz personenbezogener Daten privater Parteien teilt das Unternehmen mit, dass die von den Benutzern bereitgestellten personenbezogenen Daten ausschließlich für die in diesen Datenschutzrichtlinien genannten Zwecke verwendet werden, z. B. zur Kontaktaufnahme mit Benutzern, zum Versenden von Newslettern und zur Beantwortung von Fragen oder Anfragen, zur Verbesserung unserer Website und zur Einhaltung geltender Gesetze und Vorschriften. Der Nutzer kann jederzeit sein Recht auf Zugang, Berichtigung, Löschung oder Widerspruch gegen die Verarbeitung seiner personenbezogenen Daten ausüben. Dazu müssen sie eine schriftliche Anfrage an die E-Mail-Adresse senden, die im Abschnitt „Kontakt“ dieser Datenschutzrichtlinien angegeben ist.          </p>
+          <p>
+            Das Unternehmen verpflichtet sich, die personenbezogenen Daten der Benutzer vertraulich zu behandeln und technische, administrative und physische Sicherheitsmaßnahmen zu ergreifen, um Informationen vor unbefugtem Zugriff, Änderung, Offenlegung oder Zerstörung zu schützen. Darüber hinaus wird das Unternehmen die personenbezogenen Daten der Nutzer nicht ohne deren vorherige Zustimmung an Dritte weitergeben, verkaufen oder verteilen, es sei denn, dies ist gesetzlich vorgeschrieben. Das Unternehmen behält sich das Recht vor, diese Datenschutzrichtlinien jederzeit zu aktualisieren oder zu ändern. Daher wird empfohlen, sie regelmäßig zu überprüfen. Alle wesentlichen Änderungen dieser Datenschutzrichtlinien werden den Benutzern über unsere Website oder per E-Mail mitgeteilt.          </p>
+          <p>
+            Durch die Nutzung unserer Website und die Bereitstellung Ihrer persönlichen Daten stimmen Sie dieser Datenschutzrichtlinie zu und geben uns Ihr Einverständnis, Ihre persönlichen Daten gemäß den Bestimmungen dieser Datenschutzrichtlinie zu sammeln, zu verwenden und zu schützen. Wenn Sie Fragen oder Bedenken zu unserer Datenschutzrichtlinie oder unserem Umgang mit Ihren persönlichen Daten haben, können Sie uns über die auf der Website angegebenen Kontaktinformationen kontaktieren.          </p>
+          <p>
+            3. Offenlegung von Informationen
           </p>
           <p>
-            It's important to note that the collected information is not shared with third parties except in cases where it is necessary to provide our services or comply with our legal obligations. Additionally, appropriate security measures are implemented to protect your personal information against unauthorized access, alteration, disclosure, or destruction. In the event of any security breach, we are committed to promptly informing you and taking steps to address the issue as quickly as possible.
+            In unserem Unternehmen legen wir Wert auf die Privatsphäre unserer Nutzer und schützen diese. Daher geben wir die von uns erfassten personenbezogenen Daten nicht an Dritte weiter, es sei denn, dies ist zur Einhaltung geltender Gesetze und Vorschriften oder zur Betrugsprävention und zum Schutz der Sicherheit unserer Benutzer erforderlich. In einigen Fällen geben wir personenbezogene Daten möglicherweise an vertrauenswürdige Dritte weiter, beispielsweise an Webhosting-Dienstleister, Datenanalysedienste oder E-Mail-Dienste, um unsere Website und Dienste zu verbessern und zu optimieren. In solchen Fällen stellen wir sicher, dass diese Dritten die gleichen Sicherheits- und Datenschutzmaßnahmen einhalten wie wir. Unter keinen Umständen verkaufen, vermieten oder geben wir personenbezogene Daten zu kommerziellen oder Marketingzwecken an Dritte weiter. Darüber hinaus verpflichten wir uns, Ihre personenbezogenen Daten zu schützen und alle erforderlichen Maßnahmen zu ergreifen, um eine unbefugte oder rechtswidrige Offenlegung zu verhindern. Wenn Sie Fragen oder Bedenken zu unserer Datenschutzrichtlinie haben, können Sie sich gerne an uns wenden.          </p>
+          <p>
+            4. Informationsschutz
           </p>
           <p>
-            2. Use of Information
+            In unserem Unternehmen ist der Schutz der Informationen unserer Nutzer eine unserer wichtigsten Aufgaben. Wir ergreifen technische und physische Maßnahmen, um unbefugten Zugriff oder Missbrauch der von uns erfassten Informationen zu verhindern und deren Sicherheit und Vertraulichkeit zu gewährleisten. Um dies zu erreichen, verfügen wir über Sicherheitssysteme und Protokolle, um die Informationen vor potenziellen Bedrohungen und Schwachstellen zu schützen. Darüber hinaus werden unsere Mitarbeiter regelmäßig über die Bedeutung von Datenschutz und Informationssicherheit geschult. Sie sind über Sicherheitsrichtlinien und -verfahren sowie über die Bedeutung des Schutzes der Informationen unserer Benutzer informiert.          </p>
+          <p>
+            Wir sind bestrebt, unsere Informationsschutzmaßnahmen kontinuierlich zu verbessern und unsere Sicherheitsprotokolle kontinuierlich zu aktualisieren, um den Datenschutz und die Sicherheit der Informationen unserer Benutzer zu gewährleisten. Darüber hinaus ist es in unserem Bestreben, stets hohe Sicherheitsstandards einzuhalten, wichtig, sich daran zu erinnern, dass keine Online-Sicherheitsmaßnahme perfekt ist. Wenn unsere Nutzer verdächtige Aktivitäten bemerken oder Bedenken hinsichtlich des Datenschutzes und der Sicherheit ihrer Daten haben, empfehlen wir ihnen daher, sich umgehend mit uns in Verbindung zu setzen.          </p>
+          <p>
+            5. Änderungen dieser Datenschutzrichtlinie
           </p>
           <p>
-            In compliance with the Federal Law on Protection of Personal Data Held by Private Parties, the Company informs that the personal data provided by users will be used solely for the purposes mentioned in these Privacy Policies, such as contacting users, sending newsletters, responding to questions or inquiries, improving our website, and complying with applicable laws and regulations. The user can exercise their rights of access, rectification, cancellation, or objection to the processing of their personal data at any time. To do so, they must send a written request to the email address indicated in the Contact section of these Privacy Policies.
+            Wir behalten uns das Recht vor, jederzeit und ohne vorherige Ankündigung Änderungen und Aktualisierungen dieser Datenschutzrichtlinie vorzunehmen. Im Falle wesentlicher Änderungen werden wir Sie durch eine Benachrichtigung auf unserer Website oder per E-Mail benachrichtigen. Wir empfehlen Ihnen, diese Datenschutzrichtlinie regelmäßig zu lesen, um über alle Änderungen informiert zu bleiben, die sich auf die Verwendung Ihrer persönlichen Daten auswirken könnten. Bitte beachten Sie, dass Sie mit der fortgesetzten Nutzung unserer Dienste und Website nach Änderungen dieser Datenschutzrichtlinie diese Änderungen akzeptieren. Wenn Sie mit den an der Datenschutzrichtlinie vorgenommenen Änderungen nicht einverstanden sind, empfehlen wir Ihnen, die Nutzung unserer Dienste einzustellen.          </p>
+          <p>
+            6. Benutzerrechte
           </p>
           <p>
-            The Company is committed to treating users' personal data confidentially and using technical, administrative, and physical security measures to protect information from unauthorized access, alteration, disclosure, or destruction. Furthermore, the Company will not share, sell, or distribute users' personal data to third parties without their prior consent, except where required by law. The Company reserves the right to update or modify these Privacy Policies at any time, so it is recommended to review them periodically. Any significant changes to these Privacy Policies will be notified to users through our website or by email.
-          </p>
+            In Übereinstimmung mit den geltenden Datenschutzgesetzen erkennen und respektieren wir die Rechte unserer Benutzer hinsichtlich der von ihnen erfassten Informationen. Wenn Sie ein Benutzer sind, haben Sie das Recht, auf die von Ihnen bereitgestellten Informationen zuzugreifen, sie zu berichtigen, zu löschen, einzuschränken oder zu übertragen. Wenn Sie eines dieser Rechte ausüben möchten, kontaktieren Sie uns bitte per E-Mail an unsere Kontaktadresse. Wir werden Ihre Anfrage innerhalb eines angemessenen Zeitrahmens bearbeiten und Sie über die Maßnahmen informieren, die wir als Reaktion auf Ihre Anfrage ergriffen haben. Bitte beachten Sie, dass wir in einigen Fällen aufgrund geltender Gesetze und Vorschriften möglicherweise nicht alle Anfragen erfüllen können.          </p>
           <p>
-            By using our website and providing your personal information, you agree to this privacy policy and give us your consent to collect, use, and protect your personal information in accordance with the provisions of this privacy policy. If you have any questions or concerns about our privacy policy or how we handle your personal information, you can contact us through the contact information provided on the website.
-          </p>
+            7. Kontakt          </p>
           <p>
-            3. Disclosure of Information
-          </p>
-          <p>
-            In our company, we value and protect the privacy of our users. Therefore, we do not share the personal information we collect with third parties unless it is necessary to comply with applicable laws and regulations or to prevent fraud and protect the security of our users. In some cases, we may share personal information with trusted third parties, such as web hosting service providers, data analytics services, or email services, to enhance and optimize our website and services. In such cases, we ensure that these third parties adhere to the same security and privacy measures as we do. Under no circumstances do we sell, rent, or share personal information with third parties for commercial or marketing purposes. Furthermore, we are committed to protecting your personal information and taking all necessary measures to prevent unauthorized or unlawful disclosure. If you have any questions or concerns about our privacy policy, please feel free to contact us.
-          </p>
-          <p>
-            4. Information Protection
-          </p>
-          <p>
-            In our company, safeguarding the information of our users is one of our foremost responsibilities. We take technical and physical measures to prevent unauthorized access or misuse of the information we collect, ensuring its security and confidentiality. To achieve this, we have security systems and protocols in place to shield the information from potential threats and vulnerabilities. Furthermore, our staff receives regular training on the significance of privacy and information security. They are educated on security policies and procedures, as well as the importance of safeguarding our users' information.
-          </p>
-          <p>
-            We are committed to continuously enhancing our information protection measures and consistently updating our security protocols to ensure the privacy and security of our users' information. Additionally, in our pursuit of maintaining high security standards at all times, it's important to remember that no online security measure is perfect. Therefore, if our users notice any suspicious activity or have concerns related to the privacy and security of their data, we encourage them to get in touch with us immediately.
-          </p>
-          <p>
-            5. Changes to This Privacy Policy
-          </p>
-          <p>
-            We reserve the right to make changes and updates to this privacy policy at any time and without prior notice. In the event of significant changes, we will notify you through a notification on our website or via email. We recommend that you review this privacy policy regularly to stay informed about any changes that may impact the use of your personal information. It's important to note that continued use of our services and website after any changes to this privacy policy will constitute your acceptance of those changes. If you do not agree with the changes made to the privacy policy, we suggest that you discontinue using our services.
-          </p>
-          <p>
-            6. User Rights
-          </p>
-          <p>
-            In compliance with applicable privacy laws, we acknowledge and respect the rights of our users concerning the information we collect from them. If you are a user, you have the right to access, rectify, erase, restrict, or port the information you have provided to us. If you wish to exercise any of these rights, please contact us by sending an email to our contact address. We will process your request within a reasonable timeframe and provide you with information about the actions we have taken in response to your request. Please be aware that in some cases, we may not be able to fulfill all requests due to applicable laws and regulations.
-          </p>
-          <p>
-            7. Contact
-          </p>
-          <p>
-          The User may contact the personnel of the Company at any time for any clarification, comment, question, and/or suggestion related to the Services and Content, the Portal, and/or these Privacy Policies. The Company provides the User with the email address contact@mexhubb.com as a means for the User to communicate with the Company. The User acknowledges that the Company will strive to respond to their request as promptly as possible and in accordance with the availability of resources and personnel of the Company.
-          </p>
+            Der Benutzer kann sich jederzeit an die Mitarbeiter des Unternehmens wenden, um Erläuterungen, Kommentare, Fragen und/oder Vorschläge im Zusammenhang mit den Diensten und Inhalten, dem Portal und/oder diesen Datenschutzrichtlinien zu erhalten. Das Unternehmen stellt dem Benutzer die E-Mail-Adresse contact@mexhubb.com zur Verfügung, damit der Benutzer mit dem Unternehmen kommunizieren kann. Der Nutzer erkennt an, dass das Unternehmen sich bemühen wird, seine Anfrage so schnell wie möglich und im Einklang mit der Verfügbarkeit von Ressourcen und Personal des Unternehmens zu beantworten.          </p>
         </div>
         <br></br> <br></br>
       </div>
-      
-      
+
+
 
     </>
 

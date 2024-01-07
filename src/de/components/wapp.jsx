@@ -47,4 +47,4 @@ function WappDE() {
   );
 }
 
-export default Wapp;
+export default WappDE;

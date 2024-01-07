@@ -36,7 +36,7 @@ function RecomendationDE() {
                 <Container style={{ marginBottom: '3%' }}>
                     <Row style={{ alignItems: 'center', display: 'flex', justifyContent: 'center', marginBottom: '5%' }}>
                         <Col style={{ marginBottom: '4%' }}>
-                            <Link to='/en/restaurants'>
+                            <Link to='/de/restaurants'>
                                 <MDBCard className="mdb-card" style={{ minWidth: '300px', marginLeft: '5%', marginRight: '5%', marginBottom: '5%' }}>
                                     <MDBCardImage src='https://images.unsplash.com/photo-1553527922-767df645c5f6?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D' position='top' style={{ borderRadius: "1.2%" }} alt='...' />
                                     <MDBCardBody>
@@ -52,7 +52,7 @@ function RecomendationDE() {
                             </Link>
                         </Col>
                         <Col style={{ marginBottom: '4%' }}>
-                            <Link to='/en/coworking'>
+                            <Link to='/de/coworking'>
                                 <MDBCard className="mdb-card" style={{ minWidth: '300px', marginLeft: '5%', marginRight: '5%', marginBottom: '5%' }}>
                                     <MDBCardImage src='https://images.unsplash.com/photo-1520881363902-a0ff4e722963?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D' position='top' style={{ borderRadius: "1.2%" }} alt='...' />
                                     <MDBCardBody>
@@ -68,7 +68,7 @@ function RecomendationDE() {
                             </Link>
                         </Col>
                         <Col style={{ marginBottom: '4%' }}>
-                            <Link to='/en/local-consume'>
+                            <Link to='/de/local-consume'>
                                 <MDBCard className="mdb-card"  style={{ minWidth: '300px', marginLeft: '5%', marginRight: '5%', marginBottom: '5%' }} >
                                     <MDBCardImage src='https://images.unsplash.com/photo-1694885274524-615f580c111a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D' position='top' style={{ borderRadius: "1.2%" }} alt='...' />
                                     <MDBCardBody>
@@ -83,7 +83,7 @@ function RecomendationDE() {
                             </Link>
                         </Col>
                         <Col style={{ marginBottom: '4%' }}>
-                            <Link to='/en/hotels'>
+                            <Link to='/de/hotels'>
                                 <MDBCard className="mdb-card" style={{ minWidth: '300px', marginLeft: '5%', marginRight: '5%', marginBottom: '5%' }}>
                                     <MDBCardImage src='https://plus.unsplash.com/premium_photo-1675745329378-5573c360f69f?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D' position='top' style={{ borderRadius: "1.2%" }} alt='...' />
                                     <MDBCardBody>

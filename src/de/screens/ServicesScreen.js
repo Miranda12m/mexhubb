@@ -16,7 +16,7 @@ function ServicesScreenDE() {
           data-aos="fade-right"
           style={{ borderBottom: "1px solid #2f2f2f", marginBottom: "15px" }}
         >
-          <strong>Know About Our Services</strong>
+          <strong>Informieren Sie sich über unsere Dienstleistungen</strong>
         </h1>
         <br />
        

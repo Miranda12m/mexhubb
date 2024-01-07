@@ -39,8 +39,8 @@ export default function ContactButton2DE() {
 
 
             <div class="btn-box">
-                <Link to="/en/contact">
-                <a href="/en/contact" class="theme-btn btn-style-one button-hover">Contact</a>
+                <Link to="/de/contact">
+                <a href="/de/contact" class="theme-btn btn-style-one button-hover">Contact</a>
                 </Link>
             </div>
         </>

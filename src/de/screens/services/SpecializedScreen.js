@@ -13,7 +13,7 @@ export default function SpecializedScreenDE() {
       <NavbarsDE />
 
       <Container>
-        <h1 data-aos="fade-right" style={{ borderBottom: '1px solid #2f2f2f', marginBottom: '15px' }}><strong>Specialized Services with Mexhubb</strong></h1>
+        <h1 data-aos="fade-right" style={{ borderBottom: '1px solid #2f2f2f', marginBottom: '15px' }}><strong>Spezialisierte Dienstleistungen mit Mexhubb</strong></h1>
         <BodyBags01DE />
       </Container>
       <br></br>
@@ -21,7 +21,7 @@ export default function SpecializedScreenDE() {
         <br></br>
         <br></br>
         <Container>
-          <h2 style={{ color: 'black', margin: '3%', textAlign: 'center' }} data-aos="fade-right" > Explore our specialized<span style={{ color: '#ff3b19' }}>  service categories:</span></h2>
+          <h2 style={{ color: 'black', margin: '3%', textAlign: 'center' }} data-aos="fade-right" > Entdecken Sie unsere Spezialisierung<span style={{ color: '#ff3b19' }}>  Leistungskategorien:</span></h2>
           <ImasDE />
 
         </Container>

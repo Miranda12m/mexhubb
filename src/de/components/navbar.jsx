@@ -152,24 +152,24 @@ function NavbarDE({ currentPage, height = 100 }) {
         <header id="header" className="fixed-top desktop-menu menu-top-w">
           <div className="container d-flex align-items-center justify-content-lg-between">
             <h1 className="me-auto me-lg-0" style={{ textShadow: '2px 2px 4px rgba(0, 0, 0, .7)' }}>
-              <Link to="/en/home">                                            <img src="https://i.ibb.co/sH0YnSy/logo-sin-fondo-blanco-06.png" alt="logo" className="img-fluid" style={{ maxHeight: '45px' }}></img>
+              <Link to="/de/home">                                            <img src="https://i.ibb.co/sH0YnSy/logo-sin-fondo-blanco-06.png" alt="logo" className="img-fluid" style={{ maxHeight: '45px' }}></img>
               </Link>
             </h1>
             <nav id="navbar" className="navbar order-last order-lg-0">
               <ul>
                 <li style={{ textShadow: '2px 2px 4px rgba(0, 0, 0, 1)' }}>
-                  <Link id="home" to="/en/home">
-                    Home
+                  <Link id="home" to="/de/home">
+                  Heim
                   </Link>
                 </li>
                 <li style={{ textShadow: '2px 2px 4px   rgba(0, 0, 0, 1)' }}>
-                  <Link id="tour" to="/en/services">
-                    Services
+                  <Link id="tour" to="/de/services">
+                  Dienstleistungen
                   </Link>
                 </li>
                 <li style={{ textShadow: '2px 2px 4px  rgba(0, 0, 0, 1)' }}>
-                  <Link id="aboutus" to="/en/contact">
-                    Contact
+                  <Link id="aboutus" to="/de/contact">
+                  Kontakt
                   </Link>
                 </li>
               </ul>

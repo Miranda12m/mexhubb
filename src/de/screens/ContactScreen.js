@@ -50,7 +50,7 @@ function ContactScreenDE() {
         <br />
         <br />
         <br />
-        <h3 data-aos="fade-right" style={{ fontSize: '18px', textAlign: 'center', marginLeft: '20%', marginRight: '20%' }}>We understand that each individual's journey is distinct, and our commitment is to tailor our services to aid them in any situation that may arise during their time in Mexico.</h3>
+        <h3 data-aos="fade-right" style={{ fontSize: '18px', textAlign: 'center', marginLeft: '20%', marginRight: '20%' }}>Wir verstehen, dass die Reise jedes Einzelnen anders ist, und unser Ziel ist es, unsere Dienstleistungen so anzupassen, dass sie ihnen in jeder Situation helfen, die während ihres Aufenthalts in Mexiko auftreten kann.</h3>
         <br></br>
         <br></br>
         <br></br>
@@ -66,9 +66,9 @@ function ContactScreenDE() {
         <div class="Card">
           <div class="Card-image"></div>
           <div class="Card-body">
-            <h1 class="Card-title">Expertise and Support</h1>
+            <h1 class="Card-title">Fachwissen und Support</h1>
             <p class="Card-description">
-            Our team at Mexhubb comprises individuals with the experience, knowledge, and contacts needed to guide our clients through their everyday life situations. We don't just see problems; we see opportunities to grow and learn. Mexhubb is here for you, ready to turn challenges into positive experiences.
+            Unser Team bei Mexhubb besteht aus Personen mit der Erfahrung, dem Wissen und den Kontakten, die erforderlich sind, um unsere Kunden durch ihre Alltagssituationen zu begleiten. Wir sehen nicht nur Probleme; Wir sehen Möglichkeiten zum Wachsen und Lernen. Mexhubb ist für Sie da und bereit, Herausforderungen in positive Erfahrungen zu verwandeln.
             </p>
           </div>
         </div>

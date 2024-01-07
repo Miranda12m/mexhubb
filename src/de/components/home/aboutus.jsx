@@ -309,10 +309,10 @@ export default function AboutUsDE() {
                                             </svg>
                                             Community Impact</li>
                                     </ul>
-                                    <Link to='/en/services'>
+                                    <Link to='/de/services'>
                                     
                                     <div class="btn-box ">
-                                        <a href="/en/services" class="theme-btn btn-style-one button-hover">Know More About Us</a>
+                                        <a href="/de/services" class="theme-btn btn-style-one button-hover">Know More About Us</a>
                                     </div>
                                     </Link>
                                 </div>

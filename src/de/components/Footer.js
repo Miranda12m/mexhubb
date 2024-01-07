@@ -64,7 +64,7 @@ function FooterDE() {
                                     </div> */}
                                     <div className="footer-social-icon">
                                         <div className="footer-widget-heading">
-                                            <h3>About Us</h3>
+                                            <h3>Über uns</h3>
                                         </div>
                                     </div>
                                     <div className="footer-logo">
@@ -73,7 +73,7 @@ function FooterDE() {
                                         </Link>
                                     </div>
                                     <div className="footer-text">
-                                        <p>We appreciate your trust in our company and our products. We will continue working hard to provide you with the best services.</p>
+                                        <p>Wir freuen uns über Ihr Vertrauen in unser Unternehmen und unsere Produkte. Wir werden weiterhin hart daran arbeiten, Ihnen den besten Service zu bieten.</p>
                                     </div>
 
                                 </div>
@@ -81,47 +81,47 @@ function FooterDE() {
                             <div className="col-xl-4 col-lg-4 col-md-6 mb-30">
                                 <div className="footer-widget">
                                     <div className="footer-widget-heading">
-                                        <h3>Useful Links</h3>
+                                        <h3>Nützliche Links</h3>
                                     </div>
                                     <ul>
                                         <li>
                                             <Link to="/">
-                                                Home
+                                            Heim
                                             </Link>
                                         </li>
                                         <li>
-                                            <Link to="/en/contact">
-                                                Contact Us
+                                            <Link to="/de/contact">
+                                            Kontaktiere uns
                                             </Link>
                                         </li>
                                         <li>
-                                            <Link to="/en/services">
-                                                Services
+                                            <Link to="/de/services">
+                                            Dienstleistungen
                                             </Link>
                                         </li>
                                         <li>
-                                            <Link to="/en/tours">
-                                                Tours
+                                            <Link to="/de/tours">
+                                            Touren
                                             </Link>
                                         </li>
                                         <li>
-                                            <Link to="/en/housing">
-                                                Housing
+                                            <Link to="/de/housing">
+                                            Gehäuse
                                             </Link>
                                         </li>
                                         <li>
-                                            <Link to="/en/events">
-                                                Events
+                                            <Link to="/de/events">
+                                            Veranstaltungen
                                             </Link>
                                         </li>
                                         <li>
-                                            <Link to="/en/legal">
+                                            <Link to="/de/legal">
                                                 Legal
                                             </Link>
                                         </li>
                                         <li>
-                                            <Link to="/en/specialized">
-                                                Specialized
+                                            <Link to="/de/specialized">
+                                            Spezialisiert
                                             </Link>
                                         </li>
                                     </ul>
@@ -130,10 +130,10 @@ function FooterDE() {
                             <div className="col-xl-4 col-lg-4 col-md-6 mb-50">
                                 <div className="footer-widget">
                                     <div className="footer-widget-heading">
-                                        <h3>Contact Us</h3>
+                                        <h3>Kontaktiere uns</h3>
                                     </div>
                                     <div className="footer-text mb-25">
-                                        <p>Don't miss to contact us if you had any question</p>
+                                        <p>Versäumen Sie nicht, uns zu kontaktieren, wenn Sie Fragen haben</p>
                                         <p>Phone: +52 00 0000 0000</p>
                                         <p>Mail: contact@mexhubb.com</p>
                                     </div>
@@ -148,16 +148,16 @@ function FooterDE() {
                         <div className="row">
                             <div className="col-xl-6 col-lg-6 text-center text-lg-left">
                                 <div className="copyright-text">
-                                    <p className="text-left" >Copyright &copy; 2023, All Right Reserved <a href="https://weblessproject.com" target='blank'>Webless Project</a></p>
+                                    <p className="text-left" >Copyright &copy; 2023, Alle Rechte vorbehalten <a href="https://weblessproject.com" target='blank'>Webless Project</a></p>
                                 </div>
                             </div>
                             <div className="col-xl-6 col-lg-6 d-none d-lg-block text-right">
                                 <div className="footer-menu">
                                     <ul>
-                                        <li><a href="/">Home</a></li>
-                                        <li><a href="/#/en/terms-and-conditions">Terms and Conditions</a></li>
-                                        <li><a href="/#/en/privacy-policy">Privacy Policies</a></li>
-                                        <li><a href="/#/en/contact" >Contact</a></li>
+                                        <li><a href="/">Heim</a></li>
+                                        <li><a href="/#/de/terms-and-conditions">Geschäftsbedingungen</a></li>
+                                        <li><a href="/#/de/privacy-policy">Datenschutzrichtlinien</a></li>
+                                        <li><a href="/#/de/contact" >Kontakt</a></li>
                                     </ul>
                                 </div>
                             </div>

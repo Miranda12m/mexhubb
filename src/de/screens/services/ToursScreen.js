@@ -13,7 +13,7 @@ export default function ToursScreenScreenDE() {
       <BannerToursDE />
       <NavbarsDE />
       <Container>
-        <h1 data-aos="fade-right" style={{ borderBottom: '1px solid #2f2f2f', marginBottom: '15px' }}><strong>Mexhubb Tours</strong></h1>
+        <h1 data-aos="fade-right" style={{ borderBottom: '1px solid #2f2f2f', marginBottom: '15px' }}><strong>Mexhubb-Touren</strong></h1>
         <BodyBagt01DE />
       </Container>
       <br></br>
@@ -21,7 +21,7 @@ export default function ToursScreenScreenDE() {
         <br></br>
         <br></br>
         <Container>
-          <h2 style={{ color: 'black', margin: '3%', textAlign: 'center' }} data-aos="fade-right" >Tours That<span style={{ color: '#ff3b19' }}> We Offer</span></h2>
+          <h2 style={{ color: 'black', margin: '3%', textAlign: 'center' }} data-aos="fade-right" >Touren Das<span style={{ color: '#ff3b19' }}> Wir bieten</span></h2>
           <ImatDE />
 
         </Container>
