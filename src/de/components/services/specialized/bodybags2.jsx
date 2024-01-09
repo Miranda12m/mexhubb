@@ -75,13 +75,13 @@ export default function BodyBags02DE() {
                             </div>
                             <div class="col-lg-6" data-aos='fade-up'>
                                 <div class="heading ">
-                                    <h2>Your Solutions,
-                                        <span> Not Problems</span></h2>
-                                    <p>Our goal is to offer solutions instead of problems. No matter how specific your request, Mexhubb is dedicated to going the extra mile to assist you. We want to ensure that your stay in Mexico is hassle-free, making your life easier and more enjoyable.
+                                    <h2>Ihre Lösungen,
+                                        <span> Keine Probleme</span></h2>
+                                    <p>Unser Ziel ist es, Lösungen statt Probleme anzubieten. Ganz gleich, wie spezifisch Ihre Anfrage ist, Mexhubb ist bestrebt, die Extrameile zu gehen, um Ihnen zu helfen. Wir möchten sicherstellen, dass Ihr Aufenthalt in Mexiko problemlos verläuft und Ihr Leben einfacher und angenehmer wird.
                                     </p>
                                 </div>
-                                <p>If there's a service you need, just name it, and we have it covered. Mexhubb is your one-stop destination for a diverse range of specialized services. Let us make your time in Mexico exceptional.</p>
-                                <p>Schedule a consultation with us, and let Mexhubb be your guide in Mexico.</p>
+                                <p>Wenn Sie eine Dienstleistung benötigen, nennen Sie sie uns, und wir haben sie. Mexhubb ist Ihre zentrale Anlaufstelle für ein breites Spektrum an spezialisierten Dienstleistungen. Lassen Sie uns Ihre Zeit in Mexiko zu etwas Besonderem machen.</p>
+                                <p>Vereinbaren Sie einen Beratungstermin mit uns, und lassen Sie Mexhubb Ihr Reiseführer in Mexiko sein.</p>
                                 <br></br>
                                 <ContactButtomDE />
                             </div>

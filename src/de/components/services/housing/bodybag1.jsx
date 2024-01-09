@@ -92,9 +92,9 @@ export default function BodyBag01DE() {
                         <div class="col-lg-6" data-aos="fade-right">
                             <div class="about_header_main mt-3">
                                 
-                                <h4 class="about_heading text-capitalize font-weight-bold mt-4">Housing Services with Ease</h4>
-                                <p class="text-muted mt-3">Welcome to Mexhubb's Housing Services, where discovering your ideal home in Mexico City is not just a transaction—it's an immersive experience. Our approach is crafted to simplify the entire journey, aligning our requirements with the documentation typically sought by foreigners. We recognize the distinct needs of our clients, and our diverse range of housing options in the most sought-after districts of Mexico City ensures that you discover the perfect fit.</p>
-                                <p class="text-muted mt-3">At Mexhubb, we go beyond merely providing housing solutions; we curate an environment where each client feels supported and understood throughout the entire process.</p>
+                                <h4 class="about_heading text-capitalize font-weight-bold mt-4">Dienstleistungen für das Wohnen mit Leichtigkeit</h4>
+                                <p class="text-muted mt-3">Willkommen bei Mexhubb's Housing Services, wo die Suche nach Ihrem idealen Zuhause in Mexiko-Stadt nicht nur eine Transaktion ist, sondern ein umfassendes Erlebnis. Unser Ansatz ist darauf ausgerichtet, die gesamte Reise zu vereinfachen, indem wir unsere Anforderungen an die von Ausländern üblicherweise benötigten Dokumente anpassen. Wir sind uns der unterschiedlichen Bedürfnisse unserer Kunden bewusst, und unser vielfältiges Angebot an Wohnmöglichkeiten in den begehrtesten Bezirken von Mexiko-Stadt stellt sicher, dass Sie die perfekte Wohnung für sich finden.</p>
+                                <p class="text-muted mt-3">Bei Mexhubb gehen wir über die bloße Bereitstellung von Wohnungslösungen hinaus. Wir schaffen ein Umfeld, in dem sich jeder Kunde während des gesamten Prozesses unterstützt und verstanden fühlt.</p>
                                 <ContactButtomDE />
                             </div>
                         </div>

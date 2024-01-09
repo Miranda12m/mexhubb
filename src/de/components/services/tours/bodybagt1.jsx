@@ -93,10 +93,10 @@ export default function BodyBagt01DE() {
                         <div class="col-lg-6" data-aos="fade-right">
                             <div class="about_header_main mt-3">
                                 
-                                <h4 class="about_heading text-capitalize font-weight-bold mt-4">A Unique Perspective</h4>
-                                <p class="text-muted mt-3">Welcome to Mexhubb Tours, where every journey is an exploration and an enriching experience. Our commitment goes beyond offering tours – we're dedicated to showcasing the true essence of Mexico in an unique way by showing not only Mexico's surface but diving deeper into understanding the culture itself and finding answers for every aspect of the country for anyone to ask. 
+                                <h4 class="about_heading text-capitalize font-weight-bold mt-4">Einzigartige Perspektive</h4>
+                                <p class="text-muted mt-3">Willkommen bei Mexhubb Tours, wo jede Reise eine Erkundung und eine bereichernde Erfahrung ist. Unser Engagement geht über das Anbieten von Touren hinaus - wir haben es uns zur Aufgabe gemacht, das wahre Wesen Mexikos auf einzigartige Weise zu zeigen, indem wir nicht nur die Oberfläche Mexikos zeigen, sondern tiefer in das Verständnis der Kultur selbst eintauchen und Antworten auf jeden Aspekt des Landes finden, den jeder fragen kann. 
 </p>
-                                <p class="text-muted mt-3">All our tours offer a comprehensive package, ensuring a hassle-free and enjoyable experience for our guests. From pick-up and drop-off at your location to a comfortable vehicle, a private and experienced chauffeur, a knowledgeable tour guide, insurance during the trip, snacks, refreshments, and all tickets to attractions and museums – we take care of everything.</p>
+                                <p class="text-muted mt-3">Alle unsere Touren bieten ein umfassendes Paket, das unseren Gästen ein problemloses und angenehmes Erlebnis garantiert. Von der Abholung und Rückgabe an Ihrem Standort bis hin zu einem komfortablen Fahrzeug, einem privaten und erfahrenen Chauffeur, einem sachkundigen Reiseleiter, einer Versicherung während der Reise, Snacks, Erfrischungen und allen Tickets für Sehenswürdigkeiten und Museen - wir kümmern uns um alles.</p>
                                 <br></br>
                                 <ContactButtomDE />
                             </div>

@@ -191,10 +191,10 @@ function CounterDE() {
                       className="purecounter"
                     ></span>
                   </div>
-                  <div className="counter-name">Services</div>
+                  <div className="counter-name">Dienstleistungen</div>
                 </div>
                 <div className="counter-description">
-                  Personalized and successful services
+                Personalisierte und erfolgreiche Dienstleistungen
                 </div>
               </div>
               <div className="counter">
@@ -208,10 +208,10 @@ function CounterDE() {
                       className="purecounter"
                     ></span>
                   </div>
-                  <div className="counter-name">Partners</div>
+                  <div className="counter-name">Partner</div>
                 </div>
                 <div className="counter-description">
-                Partners to improve our services
+                Partner zur Verbesserung unserer Dienstleistungen
                 </div>
               </div>
               <div className="counter">
@@ -225,10 +225,10 @@ function CounterDE() {
                       className="purecounter"
                     ></span>
                   </div>
-                  <div className="counter-name">Thousand</div>
+                  <div className="counter-name">Tausend</div>
                 </div>
                 <div className="counter-description">
-                  People satisfied with our services
+                Zufriedene Menschen mit unseren Dienstleistungen
                 </div>
               </div>
             </div>

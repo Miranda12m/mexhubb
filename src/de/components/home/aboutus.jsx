@@ -288,31 +288,31 @@ export default function AboutUsDE() {
                             <div class="content-column col-lg-6 col-md-12 col-sm-12 order-2" data-aos="fade-up">
                                 <div class="inner-column">
                                     <div class="sec-title">
-                                        <span class="title">About Our Company</span>
-                                        <h2>Mexico Awaits, <br />Mexhubb Opens the Door</h2>
+                                        <span class="title">Über unser Unternehmen</span>
+                                        <h2>Mexiko erwartet Sie,<br />Mexhubb öffnet die Tür</h2>
                                     </div>
-                                    <div class="text">Welcome to Mexhubb, your premier consulting agency dedicated to providing round-up solutions for foreigners visiting or living in Mexico. At Mexhubb, we are driven by a singular goal: to build trust, reliability, professionalism, and efficiency by offering a comprehensive array of services. As a young and dynamic company, we specialize in catering to the unique needs of digital nomads, expats, tourists, residents, and nationals, serving as a steadfast ally in their everyday life situations.</div>
+                                    <div class="text">Willkommen bei Mexhubb, Ihrer führenden Beratungsagentur, die sich darauf spezialisiert hat, Ausländern, die Mexiko besuchen oder dort leben, umfassende Lösungen anzubieten. Bei Mexhubb verfolgen wir ein einziges Ziel: Vertrauen, Zuverlässigkeit, Professionalität und Effizienz durch ein umfassendes Angebot an Dienstleistungen zu schaffen. Als junges und dynamisches Unternehmen haben wir uns darauf spezialisiert, die einzigartigen Bedürfnisse von digitalen Nomaden, Expats, Touristen, Residenten und Einheimischen zu erfüllen und ihnen in ihren alltäglichen Lebenssituationen ein treuer Verbündeter zu sein.</div>
                                     <ul class="list-style-one">
                                         <li>
                                             <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-check-circle-fill" viewBox="0 0 16 16" style={{ marginRight: '9px', color: '#FF3B19' }}>
                                                 <path d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0m-3.97-3.03a.75.75 0 0 0-1.08.022L7.477 9.417 5.384 7.323a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-.01-1.05z" />
                                             </svg>
-                                            Unique Approach</li>
+                                            Einzigartige Herangehensweise</li>
                                         <li>
                                             <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-check-circle-fill" viewBox="0 0 16 16" style={{ marginRight: '9px', color: '#FF3B19' }}>
                                                 <path d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0m-3.97-3.03a.75.75 0 0 0-1.08.022L7.477 9.417 5.384 7.323a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-.01-1.05z" />
                                             </svg>
-                                            Expertise and Support</li>
+                                            Fachwissen und Unterstützung</li>
                                         <li>
                                             <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-check-circle-fill" viewBox="0 0 16 16" style={{ marginRight: '9px', color: '#FF3B19' }}>
                                                 <path d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0m-3.97-3.03a.75.75 0 0 0-1.08.022L7.477 9.417 5.384 7.323a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-.01-1.05z" />
                                             </svg>
-                                            Community Impact</li>
+                                            Auswirkungen auf die Gemeinschaft</li>
                                     </ul>
                                     <Link to='/de/services'>
                                     
                                     <div class="btn-box ">
-                                        <a href="/de/services" class="theme-btn btn-style-one button-hover">Know More About Us</a>
+                                        <a href="/de/services" class="theme-btn btn-style-one button-hover">Mehr über uns erfahren</a>
                                     </div>
                                     </Link>
                                 </div>

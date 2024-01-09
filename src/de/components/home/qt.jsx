@@ -38,7 +38,7 @@ function QtDE() {
                     <div className="row">
                         <div className="col-md-8 ml-auto mr-auto text-left" data-aos="fade-right">
                             <p className="lead" >
-                                " Effortless Living, Endless Possibilities! "
+                                " Müheloses Leben, unendliche Möglichkeiten! "
                             </p>
                             <span className="lead"> -Mexhubb</span>
                         </div>

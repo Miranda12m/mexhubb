@@ -86,7 +86,7 @@ function ContactFormDE() {
                 className="form-control"
                 placeholder="Enter your email"
               />
-              <small id="emailHelp" className="form-text text-muted">We'll never share your email with anyone else.</small>
+              <small id="emailHelp" className="form-text text-muted">Wir werden Ihre E-Mail niemals an Dritte weitergeben.</small>
             </div>
           </div>
           <div className="form-group mb-3">

@@ -117,16 +117,16 @@ export default function Imas() {
                     <div class="box mdb-card" >
                         <img src="https://images.unsplash.com/photo-1494947665470-20322015e3a8?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" class="image" alt='...' />
                         <div class="overlay">
-                            <h3 class="Ttext">Personnel Services</h3>
-                            <p class="Stext">Housekeepers,
-                                Chauffeurs,
-                                Chefs,
-                                Personal Trainers,
-                                Language Tutors,
-                                Plumbers and Electricians,
-                                Nannies and Babysitters,
-                                Dog Sitters and Dog Walkers, &
-                                Moving Companies
+                            <h3 class="Ttext">Personaldienstleistungen</h3>
+                            <p class="Stext">Haushälterinnen,
+                                Chauffeure,
+                                Köche,
+                                Personal-Trainer,
+                                Sprachlehrer,
+                                Klempner und Elektriker,
+                                Kindermädchen und Babysitter,
+                                Hundesitter und Hundeausführer, &
+                                Umzugsunternehmen
 
 
                             </p>
@@ -135,27 +135,27 @@ export default function Imas() {
                     <div class="box mdb-card" >
                         <img src="https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" class="image" alt='...' />
                         <div class="overlay">
-                            <h3 class="Ttext">Health Advisory Services</h3>
-                            <p class="Stext"> English-Speaking Doctors,
-                                Psychologists,
-                                Physiotherapists &
-                                Veterinarians
+                            <h3 class="Ttext">Gesundheitliche Beratungsdienste</h3>
+                            <p class="Stext"> Englischsprachige Ärzte,
+                                Psychologen,
+                                Physiotherapeuten &
+                                Tierärzte
                             </p>
                         </div>
                     </div>
                     <div class="box mdb-card" >
                         <img src="https://images.unsplash.com/photo-1571388208497-71bedc66e932?q=80&w=2072&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" class="image" alt='...' />
                         <div class="overlay">
-                            <h3 class="Ttext">Daily Services</h3>
-                            <p class="Stext"> Gyms,
+                            <h3 class="Ttext">Tägliche Dienste</h3>
+                            <p class="Stext"> Turnhallen,
                                 Co-Working Spaces,
-                                Language Schools,
-                                Academic Schools,
-                                Bars and Restaurants,
-                                Hotels, Hostels, and Travel Agencies,
-                                Dog Pensions,
-                                Laundries and Tailors, &
-                                Insurances
+                                Sprachschulen,
+                                Akademische Schulen,
+                                Bars und Restaurants,
+                                Hotels, Herbergen und Reisebüros,
+                                Hundepensionen,
+                                Wäschereien und Schneidereien, &
+                                Versicherungen
 
                             </p>
                         </div>
@@ -163,8 +163,8 @@ export default function Imas() {
                     <div class="box mdb-card" >
                         <img src="https://images.unsplash.com/photo-1460925895917-afdab827c52f?q=80&w=2015&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" class="image" alt='...' />
                         <div class="overlay">
-                            <h3 class="Ttext">Buying Advisory</h3>
-                            <p class="Stext"> Property & Vehicles
+                            <h3 class="Ttext">Kaufberatung</h3>
+                            <p class="Stext"> Immobilien & Fahrzeuge
                             </p>
                         </div>
                     </div>

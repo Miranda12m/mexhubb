@@ -109,57 +109,57 @@ export default function ImalDE() {
                     <div class="box mdb-card" >
                         <img src="https://images.unsplash.com/photo-1581553673739-c4906b5d0de8?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" class="image" alt='...' />
                         <div class="overlay">
-                            <h3 class="Ttext">Visas and Residency</h3>
-                            <p class="Stext">Work and Visitor Visas,
-                                Temporary and Permanent Residence,
-                                Citizenship,
-                                Naturalization
+                            <h3 class="Ttext">Visa und Aufenthaltsgenehmigung</h3>
+                            <p class="Stext">Arbeits- und Besuchervisa,
+                                Vorübergehender und dauerhafter Aufenthalt,
+                                Staatsbürgerschaft,
+                                Einbürgerung
                             </p>
                         </div>
                     </div>
                     <div class="box mdb-card" >
                         <img src="https://images.unsplash.com/photo-1553915632-175f60dd8e36?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" class="image" alt='...' />
                         <div class="overlay">
-                            <h3 class="Ttext">Family and Personal Matters</h3>
-                            <p class="Stext"> Marriage and Divorces</p>
+                            <h3 class="Ttext">Familie und persönliche Angelegenheiten</h3>
+                            <p class="Stext"> Eheschließungen und Scheidungen</p>
                         </div>
                     </div>
                     <div class="box mdb-card" >
                         <img src="https://images.unsplash.com/photo-1547686669-9a8cb1a22d91?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" class="image" alt='...' />
                         <div class="overlay">
-                            <h3 class="Ttext">Real Estate Transactions</h3>
-                            <p class="Stext"> Property Purchase &
-                                Registration with Tax Authorities
+                            <h3 class="Ttext">Immobilien-Transaktionen</h3>
+                            <p class="Stext"> Immobilienkauf &
+                                Registrierung bei den Steuerbehörden
                             </p>
                         </div>
                     </div>
                     <div class="box mdb-card" >
                         <img src="https://images.unsplash.com/photo-1664575602276-acd073f104c1?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" class="image" alt='...' />
                         <div class="overlay">
-                            <h3 class="Ttext">Business and Corporate Services</h3>
-                            <p class="Stext"> <br></br>Company Formation &
-                                Licensing
+                            <h3 class="Ttext">Geschäfts- und Unternehmensdienstleistungen</h3>
+                            <p class="Stext"> <br></br>Firmengründung &
+                                Lizenzvergabe
                             </p>
                         </div>
                     </div>
                     <div class="box mdb-card">
                         <img src="https://images.unsplash.com/photo-1502920514313-52581002a659?q=80&w=2067&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" class="image" alt='...' />
                         <div class="overlay">
-                            <h3 class="Ttext">International Affairs</h3>
-                            <p class="Stext"> Import and Export Services,
-                                Move Your Household Goods Abroad,
-                                Translations into Spanish &
-                                Apostilles and Legalizations
+                            <h3 class="Ttext">Internationale Angelegenheiten</h3>
+                            <p class="Stext"> Import- und Exportdienstleistungen,
+                                Bewegen Sie Ihren Hausrat ins Ausland,
+                                Übersetzungen ins Spanische &
+                                Apostillen und Legalisierungen
                             </p>
                         </div>
                     </div>
                     <div class="box mdb-card">
                         <img src="https://images.unsplash.com/photo-1526948531399-320e7e40f0ca?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" class="image" alt='...' />
                         <div class="overlay">
-                            <h3 class="Ttext">Legal Representation</h3>
-                            <p class="Stext"> Lawsuits,
-                                Accidents and Personal Injury Cases,
-                                Misdemeanors, Offenses, and Charges
+                            <h3 class="Ttext">Rechtliche Vertretung</h3>
+                            <p class="Stext">Rechtsstreitigkeiten,
+                                Unfälle und Körperverletzungsdelikte,
+                                Ordnungswidrigkeiten, Straftaten und Anklagen
                             </p>
                         </div>
                     </div>

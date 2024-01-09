@@ -102,34 +102,34 @@ export default function BodyBags01DE() {
                         <div class="col-lg-6" data-aos="fade-right">
                             <div class="about_header_main mt-3">
                                 
-                                <h4 class="about_heading text-capitalize font-weight-bold mt-4">Tailored Solutions for Every Need</h4>
-                                <p class="text-muted mt-3">At Mexhubb, we understand that your needs are unique, and we're here to offer a wide array of specialized services through our extensive network of partners and collaborators. Our commitment is to provide you with quality services that align with our high standards, ensuring a seamless experience. Explore our specialized service categories:</p>
+                                <h4 class="about_heading text-capitalize font-weight-bold mt-4">Maßgeschneiderte Lösungen für jeden Bedarf</h4>
+                                <p class="text-muted mt-3">Wir bei Mexhubb wissen, dass Ihre Bedürfnisse einzigartig sind, und wir bieten Ihnen über unser umfangreiches Netzwerk von Partnern und Mitarbeitern eine breite Palette an spezialisierten Dienstleistungen. Wir verpflichten uns, Ihnen qualitativ hochwertige Dienstleistungen zu bieten, die unseren hohen Standards entsprechen und Ihnen ein nahtloses Erlebnis ermöglichen. Erkunden Sie unsere spezialisierten Dienstleistungskategorien:</p>
                                 <div class="row">
                                     <div class="col-md-6">
                                         <h5 class='point'>
                                             <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-caret-right-fill" viewBox="0 0 16 16" style={{ marginRight: '5px', color: '#FF3B19' }}>
                                                 <path d="m12.14 8.753-5.482 4.796c-.646.566-1.658.106-1.658-.753V3.204a1 1 0 0 1 1.659-.753l5.48 4.796a1 1 0 0 1 0 1.506z" />
-                                            </svg>Personnel Services</h5>
+                                            </svg>Personaldienstleistungen</h5>
                                     </div>
                                     <div class="col-md-6">
                                         <h4 class='point'>
                                             <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-caret-right-fill" viewBox="0 0 16 16" style={{ marginRight: '5px', color: '#FF3B19' }}>
                                                 <path d="m12.14 8.753-5.482 4.796c-.646.566-1.658.106-1.658-.753V3.204a1 1 0 0 1 1.659-.753l5.48 4.796a1 1 0 0 1 0 1.506z" />
                                             </svg>
-                                            Health Advisory Services</h4>
+                                            Gesundheitliche Beratungsdienste</h4>
                                     </div>
                                     <div class="col-md-6">
                                         <h4 class='point'>
                                             <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-caret-right-fill" viewBox="0 0 16 16" style={{ marginRight: '5px', color: '#FF3B19' }}>
                                                 <path d="m12.14 8.753-5.482 4.796c-.646.566-1.658.106-1.658-.753V3.204a1 1 0 0 1 1.659-.753l5.48 4.796a1 1 0 0 1 0 1.506z" />
-                                            </svg>Daily Services</h4>
+                                            </svg>Tägliche Dienste</h4>
                                     </div>
                                     <div class="col-md-6">
                                         <h4 class='point'>
                                             <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-caret-right-fill" viewBox="0 0 16 16" style={{ marginRight: '5px', color: '#FF3B19' }}>
                                                 <path d="m12.14 8.753-5.482 4.796c-.646.566-1.658.106-1.658-.753V3.204a1 1 0 0 1 1.659-.753l5.48 4.796a1 1 0 0 1 0 1.506z" />
                                             </svg>
-                                            Buying Advisory</h4>
+                                            Kaufberatung</h4>
                                     </div>
                                     
                                 </div>

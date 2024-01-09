@@ -92,9 +92,9 @@ export default function BodyBage01DE() {
                         <div class="col-lg-6" data-aos="fade-right">
                             <div class="about_header_main mt-3">
                                 
-                                <h4 class="about_heading text-capitalize font-weight-bold mt-4">Mexhubb Events is more than an agency</h4>
-                                <p class="text-muted mt-3">Mexhubb Events is more than an agency; we are a vibrant community that provides authentic and memorable experiences. Born out of a passion for sharing our experiences with the world, we offer access to exclusive places and special activities. Each event is tailored to your preferences, ensuring that every moment is authentically yours. Join us and experience the magic of Mexhubb Events! </p>
-                                <p class="text-muted mt-3">At Mexhubb, we believe that traveling is more than just visiting places; it’s about living experiences, meeting new people, learning about different cultures, and creating unforgettable memories. Come and join us to enjoy all that Mexico has to offer!</p>
+                                <h4 class="about_heading text-capitalize font-weight-bold mt-4">Mexhubb Events ist mehr als eine Agentur</h4>
+                                <p class="text-muted mt-3">Mexhubb Events ist mehr als eine Agentur; wir sind eine lebendige Gemeinschaft, die authentische und unvergessliche Erlebnisse bietet. Entstanden aus der Leidenschaft, unsere Erfahrungen mit der Welt zu teilen, bieten wir Zugang zu exklusiven Orten und besonderen Aktivitäten. Jede Veranstaltung wird auf Ihre Wünsche zugeschnitten, so dass jeder Moment authentisch für Sie ist. Schließen Sie sich uns an und erleben Sie den Zauber von Mexhubb Events!</p>
+                                <p class="text-muted mt-3">Wir bei Mexhubb glauben, dass Reisen mehr ist als nur der Besuch von Orten. Es geht darum, Erfahrungen zu machen, neue Menschen kennenzulernen, mehr über andere Kulturen zu erfahren und unvergessliche Erinnerungen zu schaffen. Kommen Sie und genießen Sie mit uns alles, was Mexiko zu bieten hat!</p>
                                 <br></br>
                                 <ContactButtomDE />
                             </div>

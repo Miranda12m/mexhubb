@@ -111,29 +111,29 @@ export default function ImahDE() {
                     <div class="box mdb-card" data-aos="fade-up">
                         <img src="https://images.unsplash.com/photo-1665686374221-1901faa9f3ad?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" class="image" alt='...' />
                             <div class="overlay">
-                                <h3 class="Ttext">Seamless Process</h3>
-                                <p class="Stext"> We've streamlined our housing service to ensure a hassle-free experience.</p>
+                                <h3 class="Ttext">Nahtloser Prozess</h3>
+                                <p class="Stext">Wir haben unseren Wohnungsservice gestrafft, um einen reibungslosen Ablauf zu gewährleisten.</p>
                             </div>
                     </div>
                     <div class="box mdb-card" data-aos="fade-up">
                         <img src="https://images.pexels.com/photos/2029698/pexels-photo-2029698.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" class="image" alt='...' />
                             <div class="overlay">
-                                <h3 class="Ttext">Diverse Options</h3>
-                                <p class="Stext"> Explore a range of housing options in the most sought-after districts of Mexico City.</p>
+                                <h3 class="Ttext">Vielfältige Optionen</h3>
+                                <p class="Stext"> Entdecken Sie eine Reihe von Wohnmöglichkeiten in den begehrtesten Vierteln von Mexiko-Stadt.</p>
                             </div>
                     </div>
                     <div class="box mdb-card" data-aos="fade-up">
                         <img src="https://images.unsplash.com/photo-1526948531399-320e7e40f0ca?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" class="image" alt='...' />
                             <div class="overlay">
-                                <h3 class="Ttext">Transparent Transactions</h3>
-                                <p class="Stext"> We handle everything, ensuring a transparent and secure transaction.</p>
+                                <h3 class="Ttext">Transparente Vorgänge</h3>
+                                <p class="Stext"> Wir kümmern uns um alles und gewährleisten eine transparente und sichere Transaktion.</p>
                             </div>
                     </div>
                     <div class="box mdb-card" data-aos="fade-up">
                         <img src="https://images.unsplash.com/photo-1603796846097-bee99e4a601f?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" class="image" alt='...' />
                             <div class="overlay">
-                                <h3 class="Ttext">Tailored Contracts</h3>
-                                <p class="Stext"> Our rental contracts are designed for foreigners or individuals with flexibility in mind. </p>
+                                <h3 class="Ttext">Maßgeschneiderte Verträge</h3>
+                                <p class="Stext"> Unsere Mietverträge sind für Ausländer oder Privatpersonen gedacht, die flexibel sein wollen.</p>
                             </div>
                     </div>
                 </div>

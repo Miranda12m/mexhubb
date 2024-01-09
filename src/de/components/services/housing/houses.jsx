@@ -244,8 +244,8 @@ export default function HousesDE() {
                         </div>
                     </div>
                     <div class="bodyh">
-                        <h4>Terre Residential Department</h4>
-                        <p>Department of three bedrooms in excellent condition located next to Televisa. Located on the 13th floor is interior.</p>
+                        <h4>Abteilung Terre Residente</h4>
+                        <p>Abteilung von drei Schlafzimmern in ausgezeichnetem Zustand. Das Hotel liegt in der 13. Etage ist Innen.</p>
                         <div class="specs">
                             <i><FaBath /><span>3</span></i>
                             <i><FaBed /><span>3</span></i>
@@ -254,7 +254,7 @@ export default function HousesDE() {
                         <Row>
                             <Col>
                                 <div class="price">
-                                    For Sale<p>$427,000</p>
+                                    Zum Verkauf<p>$427,000</p>
                                 </div>
                             </Col>
                             <Col>
@@ -293,8 +293,8 @@ export default function HousesDE() {
                         </div>
                     </div>
                     <div class="bodyh">
-                        <h4>Paseo Reforma Department</h4>
-                        <p>New York Loft Department located in the emblematic Plaza Residences México City building, on Paseo de la Reforma, it is simply impressive.</p>
+                        <h4>Abteilung Paseo Reforma</h4>
+                        <p>Das New York Loft Department befindet sich im symbolträchtigen Gebäude Plaza Residences México City und ist einfach beeindruckend.</p>
                         <div class="specs">
                             <i><FaBath /><span>1</span></i>
                             <i><FaBed /><span>1</span></i>
@@ -303,7 +303,7 @@ export default function HousesDE() {
                         <Row>
                             <Col>
                                 <div class="price">
-                                    For Sale<p>$865,000</p>
+                                    Zum Verkauf<p>$865,000</p>
                                 </div>
                             </Col>
                             <Col>
@@ -339,8 +339,8 @@ export default function HousesDE() {
                         </div>
                     </div>
                     <div class="bodyh">
-                        <h4>Condesa Department</h4>
-                        <p>It is a spectacular and modern project of luxury departments in one of the best areas, more central and of greater surplus value in the CDMX.</p>
+                        <h4>Abteilung Condesa</h4>
+                        <p>Es handelt sich um ein spektakuläres und modernes Projekt von Luxusabteilungen in einer der besten, zentralsten und wertvollsten Gegenden des CDMX.</p>
                         <div class="specs">
                             <i><FaBath /><span>2</span></i>
                             <i><FaBed /><span>1</span></i>
@@ -349,7 +349,7 @@ export default function HousesDE() {
                         <Row>
                             <Col>
                                 <div class="price">
-                                    For Sale<p>$200,000</p>
+                                    Zum Verkauf<p>$200,000</p>
                                 </div>
                             </Col>
                             <Col>

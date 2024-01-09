@@ -74,12 +74,12 @@ export default function BodyBagl02DE() {
                             </div>
                             <div class="col-lg-6" data-aos='fade-up'>
                                 <div class="heading ">
-                                    <h2>Personalized Legal
-                                        <span> Assistance</span></h2>
-                                    <p>For more specific inquiries or personalized assistance, we encourage you to schedule a personal appointment with our legal team. Mexhubb is committed to ensuring that you never feel alone in navigating legal complexities. We have your back in any legal situation that may arise during your stay in Mexico.
+                                    <h2>Personalisierte Rechtsberatung
+                                        <span> Unterstützung</span></h2>
+                                    <p>Wenn Sie spezifischere Fragen haben oder persönliche Unterstützung benötigen, empfehlen wir Ihnen, einen persönlichen Termin mit unserem Anwaltsteam zu vereinbaren. Mexhubb setzt sich dafür ein, dass Sie sich bei der Bewältigung der komplexen Rechtslage nicht allein gelassen fühlen. Wir stehen Ihnen in jeder rechtlichen Situation zur Seite, die während Ihres Aufenthalts in Mexiko auftreten kann.
                                     </p>
                                 </div>
-                                <p>Our collaboration with trusted legal professionals aims to provide you with peace of mind, knowing that you have a reliable legal ally by your side. Whether it's visa matters, real estate transactions, or personal legal concerns, Mexhubb is here to assist you every step of the way. Schedule a consultation with us, and let Mexhubb be your guide through the legal landscape in Mexico.</p>
+                                <p>Unsere Zusammenarbeit mit vertrauenswürdigen Rechtsexperten soll Ihnen die Gewissheit geben, dass Sie einen zuverlässigen rechtlichen Verbündeten an Ihrer Seite haben. Ob es um Visaangelegenheiten, Immobilientransaktionen oder persönliche rechtliche Belange geht, Mexhubb steht Ihnen bei jedem Schritt zur Seite. Vereinbaren Sie einen Beratungstermin mit uns, und lassen Sie Mexhubb Ihr Wegweiser durch die mexikanische Rechtslandschaft sein.</p>
                                 
                                 <ContactButtomDE />
                             </div>

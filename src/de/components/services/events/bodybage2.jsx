@@ -75,13 +75,13 @@ export default function BodyBage02DE() {
                             </div>
                             <div class="col-lg-6" data-aos='fade-up'>
                                 <div class="heading ">
-                                    <h2>Temporal Event: 
-                                        <span> Christmas Fair</span></h2>
-                                    <p>Ready for a Christmas adventure? Explore this now.
+                                    <h2>Zeitliches Ereignis:
+                                        <span> Weihnachtsmarkt</span></h2>
+                                    <p>Bereit für ein Weihnachtsabenteuer? Entdecke das jetzt.
                                     </p>
                                 </div>
-                                <p>The month of December has arrived and with this the Christmas spirit, Mexico City (CDMX) is filled with lights and colors, the festivities begin from the beginning of the last month of 2023 and the best thing is that there is something for all tastes.</p>
-                                <p>In both CDMX and the Metropolitan Area of the Valley of Mexico you can enjoy concerts, exhibitions, attractions, tours and of course fairs, many with a Christmas theme. Every day more and more activities are added during this Christmas season in Mexico City , among them the posadas that take place in the town halls or the free ice rinks in some areas. From December 17 to December 30, the Christmas Verbena will be held in the Zócalo. A fair will be set up with rides for children and adults and admission will be free.</p>
+                                <p>Der Dezember ist da und mit ihm die Weihnachtsstimmung. Mexiko-Stadt (CDMX) ist voller Lichter und Farben, die Festlichkeiten beginnen zu Beginn des letzten Monats des Jahres 2023 und das Beste ist, dass es für jeden Geschmack etwas gibt.</p>
+                                <p>Sowohl in CDMX als auch in der Metropolregion des Valle de México gibt es Konzerte, Ausstellungen, Attraktionen, Führungen und natürlich Messen, viele davon mit weihnachtlichem Thema. Jeden Tag kommen in dieser Weihnachtszeit in Mexiko-Stadt mehr und mehr Aktivitäten hinzu, darunter die Posadas in den Rathäusern oder die kostenlosen Eisbahnen in einigen Gegenden. Vom 17. bis 30. Dezember findet auf dem Zócalo das Weihnachtsverbena statt. Es wird ein Jahrmarkt mit Fahrgeschäften für Kinder und Erwachsene aufgebaut, und der Eintritt ist frei.</p>
                                 <br></br>
                                 <ContactButtomDE />
                             </div>

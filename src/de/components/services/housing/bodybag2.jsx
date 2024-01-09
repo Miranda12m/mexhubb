@@ -75,51 +75,51 @@ export default function BodyBag02DE() {
                             </div>
                             <div class="col-lg-6" data-aos='fade-up'>
                                 <div class="heading ">
-                                    <h2>Our Home,
-                                        <span> Your Way</span></h2>
-                                    <p>Ready to find your perfect home? Explore our housing options now.
+                                    <h2>Unser Zuhause,
+                                        <span> Dein Weg</span></h2>
+                                    <p>Sind Sie bereit, Ihr perfektes Zuhause zu finden? Erkunden Sie jetzt unsere Wohnungsangebote.
                                     </p>
                                 </div>
-                                <p>At Mexhubb, we believe that finding the right home should be an enjoyable experience. Our housing services are not just about rentals; they're about creating a comfortable and secure space that aligns with your lifestyle. Choose Mexhubb for housing, where ease, transparency, and flexibility come together to make your stay in Mexico City unforgettable.</p>
+                                <p>Wir bei Mexhubb sind der Meinung, dass die Suche nach dem richtigen Zuhause eine angenehme Erfahrung sein sollte. Bei unseren Wohnungsservices geht es nicht nur um die Vermietung, sondern darum, einen komfortablen und sicheren Raum zu schaffen, der zu Ihrem Lebensstil passt. Entscheiden Sie sich für Mexhubb, wo Einfachheit, Transparenz und Flexibilität zusammenkommen, um Ihren Aufenthalt in Mexiko-Stadt unvergesslich zu machen.</p>
                                 <div class="row">
                                     <div class="col-md-6">
                                         <h4>
                                             <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-caret-right-fill" viewBox="0 0 16 16" style={{ marginRight: '5px', color: '#FF3B19' }}>
                                                 <path d="m12.14 8.753-5.482 4.796c-.646.566-1.658.106-1.658-.753V3.204a1 1 0 0 1 1.659-.753l5.48 4.796a1 1 0 0 1 0 1.506z" />
-                                            </svg> Comfortable and secure spaces</h4>
+                                            </svg> Bequeme und sichere Räume</h4>
                                     </div>
                                     <div class="col-md-6">
                                         <h4>
                                             <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-caret-right-fill" viewBox="0 0 16 16" style={{ marginRight: '5px', color: '#FF3B19' }}>
                                                 <path d="m12.14 8.753-5.482 4.796c-.646.566-1.658.106-1.658-.753V3.204a1 1 0 0 1 1.659-.753l5.48 4.796a1 1 0 0 1 0 1.506z" />
                                             </svg>
-                                            Ease, transparency, and flexibility</h4>
+                                            Einfachheit, Transparenz und Flexibilität</h4>
                                     </div>
                                     <div class="col-md-6">
                                         <h4>
                                             <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-caret-right-fill" viewBox="0 0 16 16" style={{ marginRight: '5px', color: '#FF3B19' }}>
                                                 <path d="m12.14 8.753-5.482 4.796c-.646.566-1.658.106-1.658-.753V3.204a1 1 0 0 1 1.659-.753l5.48 4.796a1 1 0 0 1 0 1.506z" />
-                                            </svg>Adaptable contracts</h4>
-                                    </div>
-                                    <div class="col-md-6">
-                                        <h4>
-                                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-caret-right-fill" viewBox="0 0 16 16" style={{ marginRight: '5px', color: '#FF3B19' }}>
-                                                <path d="m12.14 8.753-5.482 4.796c-.646.566-1.658.106-1.658-.753V3.204a1 1 0 0 1 1.659-.753l5.48 4.796a1 1 0 0 1 0 1.506z" />
-                                            </svg>
-                                            Seamless transition</h4>
-                                    </div>
-                                    <div class="col-md-6">
-                                        <h4>
-                                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-caret-right-fill" viewBox="0 0 16 16" style={{ marginRight: '5px', color: '#FF3B19' }}>
-                                                <path d="m12.14 8.753-5.482 4.796c-.646.566-1.658.106-1.658-.753V3.204a1 1 0 0 1 1.659-.753l5.48 4.796a1 1 0 0 1 0 1.506z" />
-                                            </svg>Smooth and worry-free stay</h4>
+                                            </svg>Anpassungsfähige Verträge</h4>
                                     </div>
                                     <div class="col-md-6">
                                         <h4>
                                             <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-caret-right-fill" viewBox="0 0 16 16" style={{ marginRight: '5px', color: '#FF3B19' }}>
                                                 <path d="m12.14 8.753-5.482 4.796c-.646.566-1.658.106-1.658-.753V3.204a1 1 0 0 1 1.659-.753l5.48 4.796a1 1 0 0 1 0 1.506z" />
                                             </svg>
-                                            Streamlined housing service</h4>
+                                            Nahtloser Übergang</h4>
+                                    </div>
+                                    <div class="col-md-6">
+                                        <h4>
+                                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-caret-right-fill" viewBox="0 0 16 16" style={{ marginRight: '5px', color: '#FF3B19' }}>
+                                                <path d="m12.14 8.753-5.482 4.796c-.646.566-1.658.106-1.658-.753V3.204a1 1 0 0 1 1.659-.753l5.48 4.796a1 1 0 0 1 0 1.506z" />
+                                            </svg>Reibungsloser und sorgenfreier Aufenthalt</h4>
+                                    </div>
+                                    <div class="col-md-6">
+                                        <h4>
+                                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-caret-right-fill" viewBox="0 0 16 16" style={{ marginRight: '5px', color: '#FF3B19' }}>
+                                                <path d="m12.14 8.753-5.482 4.796c-.646.566-1.658.106-1.658-.753V3.204a1 1 0 0 1 1.659-.753l5.48 4.796a1 1 0 0 1 0 1.506z" />
+                                            </svg>
+                                            Gestraffter Wohnungsservice</h4>
                                     </div>
                                 </div>
                                 <br></br>

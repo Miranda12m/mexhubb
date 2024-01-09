@@ -124,14 +124,14 @@ export default function ImatDE() {
                     <div class="box mdb-card" data-aos="fade-up">
                         <img src="https://images.unsplash.com/photo-1512813389649-acb9131ced20?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" class="image" alt='...' />
                         <div class="overlay">
-                            <h3 class="Ttext">Time Travellers</h3>
-                            <p class="Stext">Chapultepec Castle, Anthropology Museum, Revolution Monument,
-                                Teotihuacan Pyramids and Basilica de Guadalupe,
-                                3 Frida Kahlo & Diego Rivera Museums,
-                                Trajineras of Xochimilco and Coyoacan Centre,
-                                Historic Centre,
-                                San Angel and the Pyramids of Cuicuilco, &
-                                Azteca Stadium and Lucha Libre
+                            <h3 class="Ttext">Zeitreisende</h3>
+                            <p class="Stext">Schloss Chapultepec, Anthropologiemuseum, Revolutionsdenkmal,
+                                Pyramiden von Teotihuacan und Basilika von Guadalupe,
+                                3 Frida Kahlo & Diego Rivera Museen,
+                                Trajineras von Xochimilco und Coyoacan Zentrum,
+                                Historisches Zentrum,
+                                San Angel und die Pyramiden von Cuicuilco, &
+                                Azteca-Stadion und Lucha Libre
 
                             </p>
                         </div>
@@ -139,13 +139,13 @@ export default function ImatDE() {
                     <div class="box mdb-card" data-aos="fade-up">
                         <img src="https://images.unsplash.com/photo-1551279880-03041531948f?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" class="image" alt='...' />
                         <div class="overlay">
-                            <h3 class="Ttext">Wanderlust </h3>
-                            <p class="Stext"> Puebla and Cholula,
-                                Queretaro and the Wine Route,
+                            <h3 class="Ttext">Fernweh </h3>
+                            <p class="Stext"> Puebla und Cholula,
+                                Queretaro und die Weinstraße,
                                 San Miguel de Allende,
-                                Cuernavaca and Taxco,
-                                Tepoztlan and Tlayacapan,
-                                Pena de Bernal and the Cheese Route &
+                                Cuernavaca und Taxco,
+                                Tepoztlan und Tlayacapan,
+                                Pena de Bernal und die Käseroute &
                                 Valle de Bravo
                             </p>
                         </div>
@@ -153,15 +153,11 @@ export default function ImatDE() {
                     <div class="box mdb-card" data-aos="fade-up">
                         <img src="https://images.unsplash.com/photo-1529704640551-eef9ba5d774a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" class="image" alt='...' />
                         <div class="overlay">
-                            <h3 class="Ttext">Foodie Lovers</h3>
-                            <p class="Stext"> Tolantongo Grottoes,
-                                Nevado de Toluca,
-                                Popo and Iztla Volcanoes,
-                                Los Dinamos,
-                                El Ajusco,
-                                Desierto de los Leones,
-                                Malinche Volcano &
-                                Parque Cerro la Estrella
+                            <h3 class="Ttext">Foodie-Liebhaber</h3>
+                            <p class="Stext"> Verkostung von Tequila, Mezcal und Pulque,
+                                Tacos-Verkostung,
+                                Verkostung von Street Food &
+                                Verkostung regionaler Aromen
 
                             </p>
                         </div>
@@ -169,11 +165,15 @@ export default function ImatDE() {
                     <div class="box mdb-card" data-aos="fade-up">
                         <img src="https://images.unsplash.com/photo-1589592168688-ace8efe5099f?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" class="image" alt='...' />
                         <div class="overlay">
-                            <h3 class="Ttext">Nature Seekers</h3>
-                            <p class="Stext"> Tequila, Mezcal, and Pulque Tasting,
-                                Tacos Tasting,
-                                Street Food Tasting &
-                                Regional Flavors Tasting
+                            <h3 class="Ttext">Naturforscher</h3>
+                            <p class="Stext"> Tolantongo-Grotten,
+                                Nevado de Toluca,
+                                Vulkane Popo und Iztla,
+                                Los Dinamos,
+                                El Ajusco,
+                                Desierto de los Leones,
+                                Vulkan Malinche &
+                                Cerro la Estrella Park
 
                             </p>
                         </div>

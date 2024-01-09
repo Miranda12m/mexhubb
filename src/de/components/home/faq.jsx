@@ -7,37 +7,37 @@ export default function FAQDE() {
             <Container>
                 <div>
                     <br></br><br></br><br></br>
-                    <h1 style={{ textAlign: 'center' }} data-aos="fade-right" > Frequently Asked Questions </h1>
+                    <h1 style={{ textAlign: 'center' }} data-aos="fade-right" > Häufig gestellte Fragen</h1>
                     <br></br>
                     <Accordion>
                         <Accordion.Item eventKey="0" data-aos="fade-up">
-                            <Accordion.Header>What are the main services offered by Mexhubb?</Accordion.Header>
+                            <Accordion.Header>Was sind die wichtigsten Dienstleistungen von Mexhubb?</Accordion.Header>
                             <Accordion.Body>
-                            Mexhubb provides a wide range of services to facilitate the transition of foreigners to Mexico. This includes assistance with visa and residence procedures, organizing tours, helping with the acquisition or rental of residences, and personalized services to meet the individual needs of each client.
+                            Mexhubb bietet eine breite Palette von Dienstleistungen an, um Ausländern den Übergang nach Mexiko zu erleichtern. Dazu gehören die Unterstützung bei Visa- und Aufenthaltsverfahren, die Organisation von Besichtigungen, die Hilfe beim Erwerb oder der Anmietung von Wohnungen sowie personalisierte Dienstleistungen, um die individuellen Bedürfnisse jedes Kunden zu erfüllen.
                             </Accordion.Body>
                         </Accordion.Item>
                         <Accordion.Item eventKey="1" data-aos="fade-up">
-                            <Accordion.Header>How can I initiate the visa application process through Mexhubb?</Accordion.Header>
+                            <Accordion.Header>Wie kann ich den Visumantrag über Mexhubb einleiten?</Accordion.Header>
                             <Accordion.Body>
-                            Initiating the process is straightforward. You can contact our team through our website, email, or phone. Our experts will guide you through the requirements and provide the necessary information to effectively start the process.
+                            Die Einleitung des Verfahrens ist unkompliziert. Sie können unser Team über unsere Website, per E-Mail oder telefonisch kontaktieren. Unsere Experten werden Sie durch die Anforderungen führen und Ihnen die notwendigen Informationen zur Verfügung stellen, um das Verfahren effektiv zu starten.
                             </Accordion.Body>
                         </Accordion.Item>
                         <Accordion.Item eventKey="2" data-aos="fade-up">
-                            <Accordion.Header>What types of tours does Mexhubb offer, and how can I book one?</Accordion.Header>
+                            <Accordion.Header>Welche Arten von Touren bietet Mexhubb an, und wie kann ich eine buchen?</Accordion.Header>
                             <Accordion.Body>
-                            Mexhubb organizes a variety of tours, from cultural explorations to real estate tours. You can find details about our tours on our website and make reservations online. Additionally, we are available to advise you on the tour that best suits your interests.
+                            Mexhubb organisiert eine Vielzahl von Touren, von kulturellen Erkundungen bis hin zu Immobilienbesichtigungen. Auf unserer Website finden Sie Einzelheiten zu unseren Touren und können online reservieren. Außerdem beraten wir Sie gerne bei der Auswahl der Tour, die Ihren Interessen am besten entspricht.
                             </Accordion.Body>
                         </Accordion.Item>
                         <Accordion.Item eventKey="3" data-aos="fade-up">
-                            <Accordion.Header>How does Mexhubb differ from other expatriate assistance services in Mexico?</Accordion.Header>
+                            <Accordion.Header>Wie unterscheidet sich Mexhubb von anderen Hilfsdiensten für Expatriates in Mexiko?</Accordion.Header>
                             <Accordion.Body>
-                            Mexhubb stands out for its comprehensive and personalized approach. We not only handle legal procedures but also offer services tailored to the individual needs of each client. Our attention to detail and commitment to excellence make us a reliable partner in transitioning to life in Mexico.
+                            Mexhubb zeichnet sich durch seinen umfassenden und persönlichen Ansatz aus. Wir wickeln nicht nur rechtliche Verfahren ab, sondern bieten auch Dienstleistungen an, die auf die individuellen Bedürfnisse eines jeden Kunden zugeschnitten sind. Unsere Liebe zum Detail und unser Engagement für hervorragende Leistungen machen uns zu einem zuverlässigen Partner beim Übergang zum Leben in Mexiko.
                             </Accordion.Body>
                         </Accordion.Item>
                         <Accordion.Item eventKey="4" data-aos="fade-up">
-                            <Accordion.Header>What is the refund policy in the event of cancellation of Mexhubb's services?</Accordion.Header>
+                            <Accordion.Header>Wie sieht die Rückerstattungspolitik im Falle einer Stornierung der Dienste von Mexhubb aus?</Accordion.Header>
                             <Accordion.Body>
-                            In the event of cancellation, a refund policy of 50% of the total cost of the contracted services with Mexhubb applies. We understand that circumstances may vary, but this policy allows us to cover administrative and planning costs associated with the personalized attention we provide to each client.
+                            Im Falle einer Stornierung gilt eine Rückerstattungsregelung von 50 % der Gesamtkosten für die mit Mexhubb vereinbarten Dienstleistungen. Wir sind uns bewusst, dass die Umstände variieren können, aber diese Regelung ermöglicht es uns, die Verwaltungs- und Planungskosten zu decken, die mit der persönlichen Betreuung jedes einzelnen Kunden verbunden sind.
                             </Accordion.Body>
                         </Accordion.Item>
                     </Accordion>

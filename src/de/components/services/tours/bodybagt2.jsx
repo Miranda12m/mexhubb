@@ -74,52 +74,52 @@ export default function BodyBagt02DE() {
                             </div>
                             <div class="col-lg-6" data-aos='fade-up'>
                                 <div class="heading ">
-                                    <h2>Personalized Tours and 
-                                        <span> Transportation Services</span></h2>
-                                    <p>Embark on a journey with Mexhubb Tours, where exploration meets community enrichment.
+                                    <h2>Personalisierte Touren und
+                                        <span> Transportdienstleistungen</span></h2>
+                                    <p>Begeben Sie sich mit Mexhubb Tours auf eine Reise, bei der Erkundung auf Bereicherung der Gemeinschaft trifft.
                                     </p>
                                 </div>
-                                <p>Contact us personally for specific tours you desire, and we will cater to your requests. Additionally, we offer transportation services to the AICM, AIFA, and TLC airports, ensuring a seamless journey from start to finish.</p>
+                                <p>Wenden Sie sich persönlich an uns, wenn Sie spezielle Touren wünschen, und wir werden auf Ihre Wünsche eingehen. Außerdem bieten wir einen Transportservice zu den Flughäfen AICM, AIFA und TLC an, um eine reibungslose Reise von Anfang bis Ende zu gewährleisten.</p>
                                 <p></p>
                                 <div class="row">
                                     <div class="col-md-6">
                                         <h4>
                                             <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-caret-right-fill" viewBox="0 0 16 16" style={{ marginRight: '5px', color: '#FF3B19' }}>
                                                 <path d="m12.14 8.753-5.482 4.796c-.646.566-1.658.106-1.658-.753V3.204a1 1 0 0 1 1.659-.753l5.48 4.796a1 1 0 0 1 0 1.506z" />
-                                            </svg> Boutique Tours for an Intimate Experience</h4>
+                                            </svg> Boutique-Touren für ein intimes Erlebnis</h4>
                                     </div>
                                     <div class="col-md-6">
                                         <h4>
                                             <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-caret-right-fill" viewBox="0 0 16 16" style={{ marginRight: '5px', color: '#FF3B19' }}>
                                                 <path d="m12.14 8.753-5.482 4.796c-.646.566-1.658.106-1.658-.753V3.204a1 1 0 0 1 1.659-.753l5.48 4.796a1 1 0 0 1 0 1.506z" />
                                             </svg>
-                                            Pick-up and drop-off at your location</h4>
+                                            Abholung und Rückgabe an Ihrem Standort</h4>
                                     </div>
                                     <div class="col-md-6">
                                         <h4>
                                             <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-caret-right-fill" viewBox="0 0 16 16" style={{ marginRight: '5px', color: '#FF3B19' }}>
                                                 <path d="m12.14 8.753-5.482 4.796c-.646.566-1.658.106-1.658-.753V3.204a1 1 0 0 1 1.659-.753l5.48 4.796a1 1 0 0 1 0 1.506z" />
-                                            </svg>Local lense but with a global perspective</h4>
-                                    </div>
-                                    <div class="col-md-6">
-                                        <h4>
-                                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-caret-right-fill" viewBox="0 0 16 16" style={{ marginRight: '5px', color: '#FF3B19' }}>
-                                                <path d="m12.14 8.753-5.482 4.796c-.646.566-1.658.106-1.658-.753V3.204a1 1 0 0 1 1.659-.753l5.48 4.796a1 1 0 0 1 0 1.506z" />
-                                            </svg>
-                                            Tours in diverse languages</h4>
-                                    </div>
-                                    <div class="col-md-6">
-                                        <h4>
-                                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-caret-right-fill" viewBox="0 0 16 16" style={{ marginRight: '5px', color: '#FF3B19' }}>
-                                                <path d="m12.14 8.753-5.482 4.796c-.646.566-1.658.106-1.658-.753V3.204a1 1 0 0 1 1.659-.753l5.48 4.796a1 1 0 0 1 0 1.506z" />
-                                            </svg>We support the local communities</h4>
+                                            </svg>Lokaler Blickwinkel, aber mit globaler Perspektive</h4>
                                     </div>
                                     <div class="col-md-6">
                                         <h4>
                                             <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-caret-right-fill" viewBox="0 0 16 16" style={{ marginRight: '5px', color: '#FF3B19' }}>
                                                 <path d="m12.14 8.753-5.482 4.796c-.646.566-1.658.106-1.658-.753V3.204a1 1 0 0 1 1.659-.753l5.48 4.796a1 1 0 0 1 0 1.506z" />
                                             </svg>
-                                            Discover the heart of Mexico</h4>
+                                            Führungen in verschiedenen Sprachen</h4>
+                                    </div>
+                                    <div class="col-md-6">
+                                        <h4>
+                                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-caret-right-fill" viewBox="0 0 16 16" style={{ marginRight: '5px', color: '#FF3B19' }}>
+                                                <path d="m12.14 8.753-5.482 4.796c-.646.566-1.658.106-1.658-.753V3.204a1 1 0 0 1 1.659-.753l5.48 4.796a1 1 0 0 1 0 1.506z" />
+                                            </svg>Wir unterstützen die lokalen Gemeinschaften</h4>
+                                    </div>
+                                    <div class="col-md-6">
+                                        <h4>
+                                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-caret-right-fill" viewBox="0 0 16 16" style={{ marginRight: '5px', color: '#FF3B19' }}>
+                                                <path d="m12.14 8.753-5.482 4.796c-.646.566-1.658.106-1.658-.753V3.204a1 1 0 0 1 1.659-.753l5.48 4.796a1 1 0 0 1 0 1.506z" />
+                                            </svg>
+                                            Entdecken Sie das Herz von Mexiko</h4>
                                     </div>
                                 </div>
                                 <br></br>

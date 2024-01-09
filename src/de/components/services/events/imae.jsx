@@ -178,31 +178,31 @@ export default function ImaeDE() {
                     <div class="box mdb-card" >
                         <img src="https://images.unsplash.com/photo-1527529482837-4698179dc6ce?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" class="image" alt='...' />
                         <div class="overlay">
-                            <h3 class="Ttext">Language exchange parties</h3>
-                            <p class="Stext">Where you can practice and perfect your language skills in a fun and social environment.
+                            <h3 class="Ttext">Sprachaustauschpartys</h3>
+                            <p class="Stext">Hier können Sie Ihre Sprachkenntnisse in einer unterhaltsamen und geselligen Umgebung üben und perfektionieren.
                             </p>
                         </div>
                     </div>
                     <div class="box mdb-card" >
                         <img src="https://images.unsplash.com/photo-1572894644277-25c35cf64163?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" class="image" alt='...' />
                         <div class="overlay">
-                            <h3 class="Ttext">Cultural immersion</h3>
-                            <p class="Stext">We immerse you in the rich and diverse Mexican culture through authentic activities and events.</p>
+                            <h3 class="Ttext">Kulturelles Eintauchen</h3>
+                            <p class="Stext">Wir lassen Sie durch authentische Aktivitäten und Veranstaltungen in die reiche und vielfältige mexikanische Kultur eintauchen.</p>
                         </div>
                     </div>
                     <div class="box mdb-card" >
                         <img src="https://images.unsplash.com/photo-1600618528240-fb9fc964b853?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" class="image" alt='...' />
                         <div class="overlay">
-                            <h3 class="Ttext">Wellness activities</h3>
-                            <p class="Stext">We offer wellness activities to maintain a balance between body and mind during your journey.
+                            <h3 class="Ttext">Wellness-Aktivitäten</h3>
+                            <p class="Stext">Wir bieten Wellness-Aktivitäten an, um das Gleichgewicht zwischen Körper und Geist während Ihrer Reise zu erhalten.
                             </p>
                         </div>
                     </div>
                     <div class="box mdb-card" >
                         <img src="https://images.unsplash.com/photo-1614886137686-181bab6ae68a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" class="image" alt='...' />
                         <div class="overlay">
-                            <h3 class="Ttext3">Coworking spaces</h3>
-                            <p class="Stext3">We provide shared workspaces for those who need to stay productive during their stay.
+                            <h3 class="Ttext3">Coworking-Räume</h3>
+                            <p class="Stext3">Für diejenigen, die während ihres Aufenthalts produktiv bleiben müssen, stellen wir gemeinsam genutzte Arbeitsbereiche zur Verfügung.
                             </p>
                         </div>
                     </div>

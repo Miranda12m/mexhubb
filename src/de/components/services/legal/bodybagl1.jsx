@@ -102,47 +102,47 @@ export default function BodyBagl01DE() {
                         <div class="col-lg-6" data-aos="fade-right">
                             <div class="about_header_main mt-3">
                                 
-                                <h4 class="about_heading text-capitalize font-weight-bold mt-4">Your Legal Ally in Mexico</h4>
-                                <p class="text-muted mt-3">Welcome to Mexhubb's Legal Services, where we partner with reputable lawyers, law firms, and notary offices to provide a comprehensive range of legal assistance. Our collaborative approach ensures that you receive expert guidance and support in various legal matters. Here are some of the legal services we offer in collaboration with our esteemed partners:</p>
+                                <h4 class="about_heading text-capitalize font-weight-bold mt-4">Ihr juristischer Verbündeter in Mexiko</h4>
+                                <p class="text-muted mt-3">Willkommen bei Mexhubb's Legal Services, wo wir mit renommierten Anwälten, Anwaltskanzleien und Notariaten zusammenarbeiten, um Ihnen ein umfassendes Angebot an rechtlicher Unterstützung zu bieten. Unser kooperativer Ansatz gewährleistet, dass Sie in verschiedenen Rechtsangelegenheiten fachkundige Beratung und Unterstützung erhalten. Im Folgenden finden Sie einige der Rechtsdienstleistungen, die wir in Zusammenarbeit mit unseren geschätzten Partnern anbieten:</p>
                                 <div class="row">
                                     <div class="col-md-6">
                                         <h5 class='point'>
                                             <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-caret-right-fill" viewBox="0 0 16 16" style={{ marginRight: '5px', color: '#FF3B19' }}>
                                                 <path d="m12.14 8.753-5.482 4.796c-.646.566-1.658.106-1.658-.753V3.204a1 1 0 0 1 1.659-.753l5.48 4.796a1 1 0 0 1 0 1.506z" />
-                                            </svg>Visas and Residency</h5>
+                                            </svg>Visa und Aufenthaltsgenehmigung</h5>
                                     </div>
                                     <div class="col-md-6">
                                         <h4 class='point'>
                                             <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-caret-right-fill" viewBox="0 0 16 16" style={{ marginRight: '5px', color: '#FF3B19' }}>
                                                 <path d="m12.14 8.753-5.482 4.796c-.646.566-1.658.106-1.658-.753V3.204a1 1 0 0 1 1.659-.753l5.48 4.796a1 1 0 0 1 0 1.506z" />
                                             </svg>
-                                            Family and Personal Matters</h4>
+                                            Familie und persönliche Angelegenheiten</h4>
                                     </div>
                                     <div class="col-md-6">
                                         <h4 class='point'>
                                             <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-caret-right-fill" viewBox="0 0 16 16" style={{ marginRight: '5px', color: '#FF3B19' }}>
                                                 <path d="m12.14 8.753-5.482 4.796c-.646.566-1.658.106-1.658-.753V3.204a1 1 0 0 1 1.659-.753l5.48 4.796a1 1 0 0 1 0 1.506z" />
-                                            </svg>Real Estate Transactions</h4>
-                                    </div>
-                                    <div class="col-md-6">
-                                        <h4 class='point'>
-                                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-caret-right-fill" viewBox="0 0 16 16" style={{ marginRight: '5px', color: '#FF3B19' }}>
-                                                <path d="m12.14 8.753-5.482 4.796c-.646.566-1.658.106-1.658-.753V3.204a1 1 0 0 1 1.659-.753l5.48 4.796a1 1 0 0 1 0 1.506z" />
-                                            </svg>
-                                            Business and Corporate Services</h4>
-                                    </div>
-                                    <div class="col-md-6">
-                                        <h4 class='point'>
-                                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-caret-right-fill" viewBox="0 0 16 16" style={{ marginRight: '5px', color: '#FF3B19' }}>
-                                                <path d="m12.14 8.753-5.482 4.796c-.646.566-1.658.106-1.658-.753V3.204a1 1 0 0 1 1.659-.753l5.48 4.796a1 1 0 0 1 0 1.506z" />
-                                            </svg>International Affairs</h4>
+                                            </svg>Immobilien-Transaktionen</h4>
                                     </div>
                                     <div class="col-md-6">
                                         <h4 class='point'>
                                             <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-caret-right-fill" viewBox="0 0 16 16" style={{ marginRight: '5px', color: '#FF3B19' }}>
                                                 <path d="m12.14 8.753-5.482 4.796c-.646.566-1.658.106-1.658-.753V3.204a1 1 0 0 1 1.659-.753l5.48 4.796a1 1 0 0 1 0 1.506z" />
                                             </svg>
-                                            Legal Representation</h4>
+                                            Geschäfts- und Unternehmensdienstleistungen</h4>
+                                    </div>
+                                    <div class="col-md-6">
+                                        <h4 class='point'>
+                                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-caret-right-fill" viewBox="0 0 16 16" style={{ marginRight: '5px', color: '#FF3B19' }}>
+                                                <path d="m12.14 8.753-5.482 4.796c-.646.566-1.658.106-1.658-.753V3.204a1 1 0 0 1 1.659-.753l5.48 4.796a1 1 0 0 1 0 1.506z" />
+                                            </svg>Internationale Angelegenheiten</h4>
+                                    </div>
+                                    <div class="col-md-6">
+                                        <h4 class='point'>
+                                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-caret-right-fill" viewBox="0 0 16 16" style={{ marginRight: '5px', color: '#FF3B19' }}>
+                                                <path d="m12.14 8.753-5.482 4.796c-.646.566-1.658.106-1.658-.753V3.204a1 1 0 0 1 1.659-.753l5.48 4.796a1 1 0 0 1 0 1.506z" />
+                                            </svg>
+                                            Rechtliche Vertretung</h4>
                                     </div>
                                 </div>
                                 <br></br>

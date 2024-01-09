@@ -40,7 +40,7 @@ export default function TestimonialsDE() {
       `}
       </style>
       <br></br><br></br><br></br><br></br>
-      <h1 class='text-center' data-aos="fade-right"><strong>Don't just take our words</strong></h1>
+      <h1 class='text-center' data-aos="fade-right"><strong>Nehmt nicht nur unsere Worte</strong></h1>
       <MDBContainer className="py-5" data-aos="zoom-in-up">
         <MDBCarousel showControls dark>
           <div className="carousel-inner">
@@ -59,10 +59,10 @@ export default function TestimonialsDE() {
                       />
                     </div>
                     <h5 className="mb-3">Anna Deynah</h5>
-                    <h6 className="text-primary mb-3">Housing</h6>
+                    <h6 className="text-primary mb-3">Gehäuse</h6>
                     <p className="px-xl-3" style={{ color: 'black' }}>
                       <MDBIcon fas icon="quote-left" className="pe-2" style={{ color: 'black' }} />
-                      Their efficiency and attention to detail were remarkable, providing a hassle-free experience that significantly eased the transition.                    </p>
+                      Ihre Effizienz und ihre Liebe zum Detail waren bemerkenswert und sorgten für eine problemlose Erfahrung, die den Übergang erheblich erleichterte.                    </p>
                     <MDBTypography
                       listUnStyled
                       className="d-flex justify-content-center mb-0"
@@ -106,10 +106,10 @@ export default function TestimonialsDE() {
                       />
                     </div>
                     <h5 className="mb-3">John Doe</h5>
-                    <h6 className="text-primary mb-3">Tours</h6>
+                    <h6 className="text-primary mb-3">Touren</h6>
                     <p className="px-xl-3" style={{ color: 'black' }}>
                       <MDBIcon fas icon="quote-left" className="pe-2" />
-                      Exploring Mexico with their knowledgeable guides was not only insightful but also a lot of fun. It added a wonderful dimension to my experience.
+                      Die Erkundung Mexikos mit ihren sachkundigen Führern war nicht nur aufschlussreich, sondern hat auch viel Spaß gemacht. Das hat meine Erfahrung um eine wunderbare Dimension erweitert.
                     </p>
                     <MDBTypography
                       listUnStyled
@@ -154,10 +154,10 @@ export default function TestimonialsDE() {
                       />
                     </div>
                     <h5 className="mb-3">Maria Kate</h5>
-                    <h6 className="text-primary mb-3">Services</h6>
+                    <h6 className="text-primary mb-3">Dienstleistungen</h6>
                     <p className="px-xl-3" style={{ color: 'black' }}>
                       <MDBIcon fas icon="quote-left" className="pe-2" />
-                      Mexhubb's service it's genuinely personalized.  I felt well-supported and understood throughout the entire journey.
+                      Der Service von Mexhubb ist wirklich sehr persönlich.  Ich habe mich während der gesamten Reise gut unterstützt und verstanden gefühlt.
                     </p>
                     <MDBTypography
                       listUnStyled
@@ -208,10 +208,10 @@ export default function TestimonialsDE() {
                       />
                     </div>
                     <h5 className="mb-3">Will Alister</h5>
-                    <h6 className="text-primary mb-3">Tours</h6>
+                    <h6 className="text-primary mb-3">Touren</h6>
                     <p className="px-xl-3" style={{ color: 'black' }}>
                       <MDBIcon fas icon="quote-left" className="pe-2" />
-                      The tours organized by Mexhubb were not just about sightseeing; they were immersive experiences that deepened my connection with Mexico.
+                      Bei den von Mexhubb organisierten Touren ging es nicht nur um Sightseeing, sondern um einschneidende Erfahrungen, die meine Verbindung zu Mexiko vertieft haben.
                     </p>
                     <MDBTypography
                       listUnStyled
@@ -256,10 +256,10 @@ export default function TestimonialsDE() {
                       />
                     </div>
                     <h5 className="mb-3">Alex Rey</h5>
-                    <h6 className="text-primary mb-3">Housing</h6>
+                    <h6 className="text-primary mb-3">Gehäuse</h6>
                     <p className="px-xl-3" style={{ color: 'black' }}>
                       <MDBIcon fas icon="quote-left" className="pe-2" />
-                      Their team was attuned to the emotional aspects of relocation, offering support and guidance that went beyond the call of duty. 
+                      Ihr Team war auf die emotionalen Aspekte des Umzugs eingestellt und bot Unterstützung und Beratung, die über das übliche Maß hinausgingen.
                     </p>
                     <MDBTypography
                       listUnStyled
@@ -304,10 +304,10 @@ export default function TestimonialsDE() {
                       />
                     </div>
                     <h5 className="mb-3">Jennifer Goya</h5>
-                    <h6 className="text-primary mb-3">Services</h6>
+                    <h6 className="text-primary mb-3">Dienstleistungen</h6>
                     <p className="px-xl-3" style={{ color: 'black' }}>
                       <MDBIcon fas icon="quote-left" className="pe-2" />
-                      Mexhubb has set a high standard for assistance services, and I am grateful for their dedication to ensuring a positive and seamless life transition.
+                      Mexhubb hat einen hohen Standard für Assistance-Dienstleistungen gesetzt, und ich bin dankbar für ihr Engagement, einen positiven und nahtlosen Übergang ins Leben zu gewährleisten.
                     </p>
                     <MDBTypography
                       listUnStyled
@@ -358,10 +358,10 @@ export default function TestimonialsDE() {
                       />
                     </div>
                     <h5 className="mb-3">Andrea Martinez</h5>
-                    <h6 className="text-primary mb-3">Tours</h6>
+                    <h6 className="text-primary mb-3">Touren</h6>
                     <p className="px-xl-3" style={{ color: 'black' }}>
                       <MDBIcon fas icon="quote-left" className="pe-2" style={{ color: 'black' }} />
-                      The guides' passion for the country's history, culture, and traditions made each excursion enlightening.
+                      Die Leidenschaft der Reiseleiter für die Geschichte, Kultur und Traditionen des Landes machte jeden Ausflug zu einem Erlebnis.
                     </p>
                     <MDBTypography
                       listUnStyled
@@ -406,10 +406,10 @@ export default function TestimonialsDE() {
                       />
                     </div>
                     <h5 className="mb-3">Drake Davis</h5>
-                    <h6 className="text-primary mb-3">Housing</h6>
+                    <h6 className="text-primary mb-3">Gehäuse</h6>
                     <p className="px-xl-3" style={{ color: 'black' }}>
                       <MDBIcon fas icon="quote-left" className="pe-2" />
-                      Mexhubb's assistance in finding and securing my residence showcased their commitment to going above and beyond.                    </p>
+                      Die Unterstützung von Mexhubb bei der Suche und Sicherung meines Wohnsitzes hat gezeigt, dass das Unternehmen über sich hinauswachsen will.                    </p>
                     <MDBTypography
                       listUnStyled
                       className="d-flex justify-content-center mb-0"
@@ -453,10 +453,10 @@ export default function TestimonialsDE() {
                       />
                     </div>
                     <h5 className="mb-3">Karen Williams</h5>
-                    <h6 className="text-primary mb-3">Services</h6>
+                    <h6 className="text-primary mb-3">Dienstleistungen</h6>
                     <p className="px-xl-3" style={{ color: 'black' }}>
                       <MDBIcon fas icon="quote-left" className="pe-2" />
-                      They seamlessly integrated legal processes, tours, and residence acquisition, creating a cohesive and comprehensive experience.
+                      Sie integrierten nahtlos rechtliche Prozesse, Touren und den Erwerb von Wohnraum und schufen so eine zusammenhängende und umfassende Erfahrung.
                     </p>
                     <MDBTypography
                       listUnStyled

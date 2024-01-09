@@ -324,30 +324,30 @@ export default function ServicesOpDE() {
 
               <ul class="details">
                 <br></br>
-                <li class="author">Why Choose Mexhubb for Housing?</li>
+                <li class="author">Warum Mexhubb für die Unterbringung wählen?</li>
                 <li class="date"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-return-right" viewBox="0 0 16 16">
                   <path fill-rule="evenodd" d="M1.5 1.5A.5.5 0 0 0 1 2v4.8a2.5 2.5 0 0 0 2.5 2.5h9.793l-3.347 3.346a.5.5 0 0 0 .708.708l4.2-4.2a.5.5 0 0 0 0-.708l-4-4a.5.5 0 0 0-.708.708L13.293 8.3H3.5A1.5 1.5 0 0 1 2 6.8V2a.5.5 0 0 0-.5-.5" />
-                </svg> Seamless Process</li>
+                </svg> Nahtloser Prozess</li>
                 <li class="date"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-return-right" viewBox="0 0 16 16">
                   <path fill-rule="evenodd" d="M1.5 1.5A.5.5 0 0 0 1 2v4.8a2.5 2.5 0 0 0 2.5 2.5h9.793l-3.347 3.346a.5.5 0 0 0 .708.708l4.2-4.2a.5.5 0 0 0 0-.708l-4-4a.5.5 0 0 0-.708.708L13.293 8.3H3.5A1.5 1.5 0 0 1 2 6.8V2a.5.5 0 0 0-.5-.5" />
-                </svg> Diverse Options</li>
+                </svg> Vielfältige Optionen</li>
                 <li class="date"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-return-right" viewBox="0 0 16 16">
                   <path fill-rule="evenodd" d="M1.5 1.5A.5.5 0 0 0 1 2v4.8a2.5 2.5 0 0 0 2.5 2.5h9.793l-3.347 3.346a.5.5 0 0 0 .708.708l4.2-4.2a.5.5 0 0 0 0-.708l-4-4a.5.5 0 0 0-.708.708L13.293 8.3H3.5A1.5 1.5 0 0 1 2 6.8V2a.5.5 0 0 0-.5-.5" />
-                </svg> Transparent Transactions</li>
+                </svg> Transparente Vorgänge</li>
                 <li class="date"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-return-right" viewBox="0 0 16 16">
                   <path fill-rule="evenodd" d="M1.5 1.5A.5.5 0 0 0 1 2v4.8a2.5 2.5 0 0 0 2.5 2.5h9.793l-3.347 3.346a.5.5 0 0 0 .708.708l4.2-4.2a.5.5 0 0 0 0-.708l-4-4a.5.5 0 0 0-.708.708L13.293 8.3H3.5A1.5 1.5 0 0 1 2 6.8V2a.5.5 0 0 0-.5-.5" />
-                </svg> Deposit Assurance</li>
+                </svg> Kautionsversicherung</li>
                 <li class="date"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-return-right" viewBox="0 0 16 16">
                   <path fill-rule="evenodd" d="M1.5 1.5A.5.5 0 0 0 1 2v4.8a2.5 2.5 0 0 0 2.5 2.5h9.793l-3.347 3.346a.5.5 0 0 0 .708.708l4.2-4.2a.5.5 0 0 0 0-.708l-4-4a.5.5 0 0 0-.708.708L13.293 8.3H3.5A1.5 1.5 0 0 1 2 6.8V2a.5.5 0 0 0-.5-.5" />
-                </svg> Tailored Contracts</li>
+                </svg> Maßgeschneiderte Verträge</li>
               </ul>
             </div>
             <div class="description">
-              <h1 class='mb'>Housing Services</h1>
-              <h2 >Our Home, Your Way</h2>
-              <p > Welcome to Mexhubb's Housing Services, where finding your ideal home in Mexico City is not just a process—it's an experience. Our approach is designed to make the entire journey easygoing. </p>
+              <h1 class='mb'>Gehäuse Dienstleistungen</h1>
+              <h2 >Unser Zuhause, Ihr Weg</h2>
+              <p > Willkommen bei Mexhubb's Housing Services, wo die Suche nach Ihrem idealen Zuhause in Mexiko-Stadt nicht nur ein Prozess ist, sondern ein Erlebnis. Unser Ansatz ist darauf ausgerichtet, Ihnen die gesamte Reise so angenehm wie möglich zu gestalten. </p>
               <p class="read-more">
-                <a href="#" class="btn btn-learn">Learn More <span class="arrow">❯</span></a>
+                <a href="#" class="btn btn-learn">Mehr Sehen <span class="arrow">❯</span></a>
               </p>
             </div>
           </div>
@@ -358,30 +358,30 @@ export default function ServicesOpDE() {
               <div class="photo" style={{ backgroundImage: "url(https://images.unsplash.com/photo-1561025478-827f5fad6374?q=80&w=2076&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)" }}></div>
               <ul class="details">
               <br></br>
-                <li class="author">Know more about our Categories of Tours</li>
+                <li class="author">Erfahren Sie mehr über unsere Reisekategorien</li>
                 <li class="date"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-return-right" viewBox="0 0 16 16">
                   <path fill-rule="evenodd" d="M1.5 1.5A.5.5 0 0 0 1 2v4.8a2.5 2.5 0 0 0 2.5 2.5h9.793l-3.347 3.346a.5.5 0 0 0 .708.708l4.2-4.2a.5.5 0 0 0 0-.708l-4-4a.5.5 0 0 0-.708.708L13.293 8.3H3.5A1.5 1.5 0 0 1 2 6.8V2a.5.5 0 0 0-.5-.5" />
-                </svg> Time Travellers</li>
+                </svg> Zeitreisende</li>
                 <li class="date"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-return-right" viewBox="0 0 16 16">
                   <path fill-rule="evenodd" d="M1.5 1.5A.5.5 0 0 0 1 2v4.8a2.5 2.5 0 0 0 2.5 2.5h9.793l-3.347 3.346a.5.5 0 0 0 .708.708l4.2-4.2a.5.5 0 0 0 0-.708l-4-4a.5.5 0 0 0-.708.708L13.293 8.3H3.5A1.5 1.5 0 0 1 2 6.8V2a.5.5 0 0 0-.5-.5" />
-                </svg> Wanderlust</li>
+                </svg> Fernweh</li>
                 <li class="date"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-return-right" viewBox="0 0 16 16">
                   <path fill-rule="evenodd" d="M1.5 1.5A.5.5 0 0 0 1 2v4.8a2.5 2.5 0 0 0 2.5 2.5h9.793l-3.347 3.346a.5.5 0 0 0 .708.708l4.2-4.2a.5.5 0 0 0 0-.708l-4-4a.5.5 0 0 0-.708.708L13.293 8.3H3.5A1.5 1.5 0 0 1 2 6.8V2a.5.5 0 0 0-.5-.5" />
-                </svg> Nature Seekers</li>
+                </svg> Naturforscher</li>
                 <li class="date"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-return-right" viewBox="0 0 16 16">
                   <path fill-rule="evenodd" d="M1.5 1.5A.5.5 0 0 0 1 2v4.8a2.5 2.5 0 0 0 2.5 2.5h9.793l-3.347 3.346a.5.5 0 0 0 .708.708l4.2-4.2a.5.5 0 0 0 0-.708l-4-4a.5.5 0 0 0-.708.708L13.293 8.3H3.5A1.5 1.5 0 0 1 2 6.8V2a.5.5 0 0 0-.5-.5" />
-                </svg> Foodie Lovers</li>
+                </svg> Foodie-Liebhaber</li>
                 <li class="date"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-return-right" viewBox="0 0 16 16">
                   <path fill-rule="evenodd" d="M1.5 1.5A.5.5 0 0 0 1 2v4.8a2.5 2.5 0 0 0 2.5 2.5h9.793l-3.347 3.346a.5.5 0 0 0 .708.708l4.2-4.2a.5.5 0 0 0 0-.708l-4-4a.5.5 0 0 0-.708.708L13.293 8.3H3.5A1.5 1.5 0 0 1 2 6.8V2a.5.5 0 0 0-.5-.5" />
-                </svg> Personalized Tours</li>
+                </svg> Personalisierte Touren</li>
               </ul>
             </div>
             <div class="description">
-              <h1>Mexhubb Tours</h1>
-              <h2>A Unique Perspective</h2>
-              <p>Welcome to Mexhubb Tours, where every journey is an exploration and enriching experience. Our commitment goes beyond offering tours we're dedicated to showcasing the Mexico's true essence.</p>
+              <h1>Mexhubb Touren</h1>
+              <h2>Einzigartige Perspektive</h2>
+              <p>Willkommen bei Mexhubb Tours, wo jede Reise eine Entdeckung und eine bereichernde Erfahrung ist. Unser Engagement geht weit über das Anbieten von Touren hinaus. Wir widmen uns der Präsentation der wahren Essenz Mexikos.</p>
               <p class="read-more">
-                <a href="#" class="btn btn-learn">Learn More <span class="arrow">❯</span></a>
+                <a href="#" class="btn btn-learn">Mehr Sehen <span class="arrow">❯</span></a>
               </p>
             </div>
           </div>
@@ -392,33 +392,33 @@ export default function ServicesOpDE() {
               <div class="photo" style={{ backgroundImage: "url(https://images.unsplash.com/photo-1520098183066-2a5609904268?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)" }}></div>
               <ul class="details">
                 <br></br>
-                <li class="author">Our services include, but are not limited to:</li>
+                <li class="author">Unsere Dienstleistungen umfassen unter anderem:</li>
                 <li class="date"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-return-right" viewBox="0 0 16 16">
                   <path fill-rule="evenodd" d="M1.5 1.5A.5.5 0 0 0 1 2v4.8a2.5 2.5 0 0 0 2.5 2.5h9.793l-3.347 3.346a.5.5 0 0 0 .708.708l4.2-4.2a.5.5 0 0 0 0-.708l-4-4a.5.5 0 0 0-.708.708L13.293 8.3H3.5A1.5 1.5 0 0 1 2 6.8V2a.5.5 0 0 0-.5-.5" />
-                </svg> Language exchange parties</li>
+                </svg> Sprachaustauschpartys</li>
                 <li class="date"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-return-right" viewBox="0 0 16 16">
                   <path fill-rule="evenodd" d="M1.5 1.5A.5.5 0 0 0 1 2v4.8a2.5 2.5 0 0 0 2.5 2.5h9.793l-3.347 3.346a.5.5 0 0 0 .708.708l4.2-4.2a.5.5 0 0 0 0-.708l-4-4a.5.5 0 0 0-.708.708L13.293 8.3H3.5A1.5 1.5 0 0 1 2 6.8V2a.5.5 0 0 0-.5-.5" />
-                </svg> Cultural immersion</li>
+                </svg> Kulturelles Eintauchen</li>
                 <li class="date"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-return-right" viewBox="0 0 16 16">
                   <path fill-rule="evenodd" d="M1.5 1.5A.5.5 0 0 0 1 2v4.8a2.5 2.5 0 0 0 2.5 2.5h9.793l-3.347 3.346a.5.5 0 0 0 .708.708l4.2-4.2a.5.5 0 0 0 0-.708l-4-4a.5.5 0 0 0-.708.708L13.293 8.3H3.5A1.5 1.5 0 0 1 2 6.8V2a.5.5 0 0 0-.5-.5" />
                 </svg> Wellness</li>
                 <li class="date"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-return-right" viewBox="0 0 16 16">
                   <path fill-rule="evenodd" d="M1.5 1.5A.5.5 0 0 0 1 2v4.8a2.5 2.5 0 0 0 2.5 2.5h9.793l-3.347 3.346a.5.5 0 0 0 .708.708l4.2-4.2a.5.5 0 0 0 0-.708l-4-4a.5.5 0 0 0-.708.708L13.293 8.3H3.5A1.5 1.5 0 0 1 2 6.8V2a.5.5 0 0 0-.5-.5" />
-                </svg> Coworking spaces</li>
+                </svg> Coworking-Räume</li>
                 <li class="date"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-return-right" viewBox="0 0 16 16">
                   <path fill-rule="evenodd" d="M1.5 1.5A.5.5 0 0 0 1 2v4.8a2.5 2.5 0 0 0 2.5 2.5h9.793l-3.347 3.346a.5.5 0 0 0 .708.708l4.2-4.2a.5.5 0 0 0 0-.708l-4-4a.5.5 0 0 0-.708.708L13.293 8.3H3.5A1.5 1.5 0 0 1 2 6.8V2a.5.5 0 0 0-.5-.5" />
                 </svg> Bar Hopping</li>
                 <li class="date"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-return-right" viewBox="0 0 16 16">
                   <path fill-rule="evenodd" d="M1.5 1.5A.5.5 0 0 0 1 2v4.8a2.5 2.5 0 0 0 2.5 2.5h9.793l-3.347 3.346a.5.5 0 0 0 .708.708l4.2-4.2a.5.5 0 0 0 0-.708l-4-4a.5.5 0 0 0-.708.708L13.293 8.3H3.5A1.5 1.5 0 0 1 2 6.8V2a.5.5 0 0 0-.5-.5" />
-                </svg> Sports activities</li>
+                </svg> Sportliche Aktivitäten</li>
               </ul>
             </div>
             <div class="description">
-              <h1>Mexhubb Events</h1>
-              <h2>Every moment is yours</h2>
-              <p>We are a vibrant community that provides authentic and memorable experiences. Born out of a passion for sharing our experiences to the world, we offer access to exclusive places and activities.</p>
+              <h1>Mexhubb Veranstaltungen</h1>
+              <h2>Jeder Moment gehört dir</h2>
+              <p>Wir sind eine lebendige Gemeinschaft, die authentische und unvergessliche Erlebnisse bietet. Entstanden aus der Leidenschaft, unsere Erfahrungen mit der Welt zu teilen, bieten wir Zugang zu exklusiven Orten und Aktivitäten.</p>
               <p class="read-more">
-                <a href="#" class="btn btn-learn">Learn More <span class="arrow">❯</span></a>
+                <a href="#" class="btn btn-learn">Mehr Sehen <span class="arrow">❯</span></a>
               </p>
             </div>
           </div>
@@ -429,30 +429,30 @@ export default function ServicesOpDE() {
               <div class="photo" style={{ backgroundImage: "url(https://images.unsplash.com/photo-1603796846097-bee99e4a601f?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)" }}></div>
               <ul class="details">
               <br></br>
-                <li class="author">We offer in collaboration with our esteemed partners:</li>
+                <li class="author">Wir bieten in Zusammenarbeit mit unseren geschätzten Partnern:</li>
                 <li class="date"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-return-right" viewBox="0 0 16 16">
                   <path fill-rule="evenodd" d="M1.5 1.5A.5.5 0 0 0 1 2v4.8a2.5 2.5 0 0 0 2.5 2.5h9.793l-3.347 3.346a.5.5 0 0 0 .708.708l4.2-4.2a.5.5 0 0 0 0-.708l-4-4a.5.5 0 0 0-.708.708L13.293 8.3H3.5A1.5 1.5 0 0 1 2 6.8V2a.5.5 0 0 0-.5-.5" />
-                </svg> Visas and Residency</li>
+                </svg> Visa und Aufenthaltsgenehmigung</li>
                 <li class="date"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-return-right" viewBox="0 0 16 16">
                   <path fill-rule="evenodd" d="M1.5 1.5A.5.5 0 0 0 1 2v4.8a2.5 2.5 0 0 0 2.5 2.5h9.793l-3.347 3.346a.5.5 0 0 0 .708.708l4.2-4.2a.5.5 0 0 0 0-.708l-4-4a.5.5 0 0 0-.708.708L13.293 8.3H3.5A1.5 1.5 0 0 1 2 6.8V2a.5.5 0 0 0-.5-.5" />
-                </svg> Real Estate Transactions</li>
+                </svg> Immobilien-Transaktionen</li>
                 <li class="date"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-return-right" viewBox="0 0 16 16">
                   <path fill-rule="evenodd" d="M1.5 1.5A.5.5 0 0 0 1 2v4.8a2.5 2.5 0 0 0 2.5 2.5h9.793l-3.347 3.346a.5.5 0 0 0 .708.708l4.2-4.2a.5.5 0 0 0 0-.708l-4-4a.5.5 0 0 0-.708.708L13.293 8.3H3.5A1.5 1.5 0 0 1 2 6.8V2a.5.5 0 0 0-.5-.5" />
-                </svg> Business and Corporate Services</li>
+                </svg> Geschäfts- und Unternehmensdienstleistungen</li>
                 <li class="date"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-return-right" viewBox="0 0 16 16">
                   <path fill-rule="evenodd" d="M1.5 1.5A.5.5 0 0 0 1 2v4.8a2.5 2.5 0 0 0 2.5 2.5h9.793l-3.347 3.346a.5.5 0 0 0 .708.708l4.2-4.2a.5.5 0 0 0 0-.708l-4-4a.5.5 0 0 0-.708.708L13.293 8.3H3.5A1.5 1.5 0 0 1 2 6.8V2a.5.5 0 0 0-.5-.5" />
-                </svg> Legal Represntation</li>
+                </svg> Juristische Vertretung</li>
                 <li class="date"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-return-right" viewBox="0 0 16 16">
                   <path fill-rule="evenodd" d="M1.5 1.5A.5.5 0 0 0 1 2v4.8a2.5 2.5 0 0 0 2.5 2.5h9.793l-3.347 3.346a.5.5 0 0 0 .708.708l4.2-4.2a.5.5 0 0 0 0-.708l-4-4a.5.5 0 0 0-.708.708L13.293 8.3H3.5A1.5 1.5 0 0 1 2 6.8V2a.5.5 0 0 0-.5-.5" />
-                </svg> Personalized Legal Assistance</li>
+                </svg> Persönlicher Rechtsbeistand</li>
               </ul>
             </div>
             <div class="description">
-              <h1>Legal Services</h1>
-              <h2>Your Legal Ally in Mexico</h2>
-              <p>Welcome to Mexhubb's Legal Services, where we partner with reputable lawyers, law firms, and notary offices to provide a comprehensive range of legal assistance. </p>
+              <h1>Juristische Dienstleistungen</h1>
+              <h2>Ihr juristischer Verbündeter in Mexiko</h2>
+              <p>Willkommen bei Mexhubb's Legal Services, wo wir mit renommierten Anwälten, Anwaltskanzleien und Notariaten zusammenarbeiten, um ein umfassendes Angebot an Rechtshilfe zu bieten. </p>
               <p class="read-more">
-                <a href="#" class="btn btn-learn">Learn More <span class="arrow">❯</span></a>
+                <a href="#" class="btn btn-learn">Mehr Sehen <span class="arrow">❯</span></a>
               </p>
             </div>
           </div>
@@ -463,30 +463,30 @@ export default function ServicesOpDE() {
               <div class="photo" style={{ backgroundImage: "url(https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)" }}></div>
               <ul class="details">
               <br></br>
-                <li class="author">Explore our specialized service categories:</li>
+                <li class="author">Entdecken Sie unsere spezialisierten Servicekategorien:</li>
                 <li class="date"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-return-right" viewBox="0 0 16 16">
                   <path fill-rule="evenodd" d="M1.5 1.5A.5.5 0 0 0 1 2v4.8a2.5 2.5 0 0 0 2.5 2.5h9.793l-3.347 3.346a.5.5 0 0 0 .708.708l4.2-4.2a.5.5 0 0 0 0-.708l-4-4a.5.5 0 0 0-.708.708L13.293 8.3H3.5A1.5 1.5 0 0 1 2 6.8V2a.5.5 0 0 0-.5-.5" />
-                </svg> Personnel Services</li>
+                </svg> Personaldienstleistungen</li>
                 <li class="date"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-return-right" viewBox="0 0 16 16">
                   <path fill-rule="evenodd" d="M1.5 1.5A.5.5 0 0 0 1 2v4.8a2.5 2.5 0 0 0 2.5 2.5h9.793l-3.347 3.346a.5.5 0 0 0 .708.708l4.2-4.2a.5.5 0 0 0 0-.708l-4-4a.5.5 0 0 0-.708.708L13.293 8.3H3.5A1.5 1.5 0 0 1 2 6.8V2a.5.5 0 0 0-.5-.5" />
-                </svg> Health Advisory Services</li>
+                </svg> Gesundheitliche Beratungsdienste</li>
                 <li class="date"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-return-right" viewBox="0 0 16 16">
                   <path fill-rule="evenodd" d="M1.5 1.5A.5.5 0 0 0 1 2v4.8a2.5 2.5 0 0 0 2.5 2.5h9.793l-3.347 3.346a.5.5 0 0 0 .708.708l4.2-4.2a.5.5 0 0 0 0-.708l-4-4a.5.5 0 0 0-.708.708L13.293 8.3H3.5A1.5 1.5 0 0 1 2 6.8V2a.5.5 0 0 0-.5-.5" />
-                </svg> Daily Services</li>
+                </svg> Tägliche Dienste</li>
                 <li class="date"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-return-right" viewBox="0 0 16 16">
                   <path fill-rule="evenodd" d="M1.5 1.5A.5.5 0 0 0 1 2v4.8a2.5 2.5 0 0 0 2.5 2.5h9.793l-3.347 3.346a.5.5 0 0 0 .708.708l4.2-4.2a.5.5 0 0 0 0-.708l-4-4a.5.5 0 0 0-.708.708L13.293 8.3H3.5A1.5 1.5 0 0 1 2 6.8V2a.5.5 0 0 0-.5-.5" />
-                </svg> Buying Advisory</li>
+                </svg> Kaufberatung</li>
                 <li class="date"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-return-right" viewBox="0 0 16 16">
                   <path fill-rule="evenodd" d="M1.5 1.5A.5.5 0 0 0 1 2v4.8a2.5 2.5 0 0 0 2.5 2.5h9.793l-3.347 3.346a.5.5 0 0 0 .708.708l4.2-4.2a.5.5 0 0 0 0-.708l-4-4a.5.5 0 0 0-.708.708L13.293 8.3H3.5A1.5 1.5 0 0 1 2 6.8V2a.5.5 0 0 0-.5-.5" />
-                </svg> Personalized Assistance</li>
+                </svg> Personalisierte Unterstützung</li>
               </ul>
             </div>
             <div class="description">
-              <h1>Specialized Services</h1>
-              <h2>Tailored Solutions for Every Need</h2>
-              <p> At Mexhubb, we understand that your needs are unique, and we're here to offer a wide array of specialized services through our extensive network of partners and collaborators.</p>
+              <h1>Spezialisierte Dienstleistungen</h1>
+              <h2>Maßgeschneiderte Lösungen für jeden Bedarf</h2>
+              <p> Wir bei Mexhubb wissen, dass Ihre Bedürfnisse einzigartig sind, und bieten Ihnen über unser umfangreiches Netzwerk von Partnern und Mitarbeitern eine breite Palette an spezialisierten Dienstleistungen.</p>
               <p class="read-more">
-                <a href="#" class="btn btn-learn">Learn More <span class="arrow">❯</span></a>
+                <a href="#" class="btn btn-learn">Mehr Sehen <span class="arrow">❯</span></a>
               </p>
             </div>
           </div>

@@ -406,8 +406,8 @@ ul {
             <div class="row">
               <div class="col-md-12">
                 <div class="site-heading text-center" data-aos="fade-right">
-                  <h2>What we <span>Offer</span></h2>
-                  <h4>Simplifying life, Tailoring Solutions</h4>
+                  <h2>Was wir <span>Angebot</span></h2>
+                  <h4>Das Leben vereinfachen, Lösungen maßschneidern</h4>
                 </div>
               </div>
             </div>
@@ -421,9 +421,9 @@ ul {
                         <path d="m8 3.293 4.712 4.712A4.5 4.5 0 0 0 8.758 15H3.5A1.5 1.5 0 0 1 2 13.5V9.293l6-6Z" />
                         <path d="M12.5 16a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7m1.679-4.493-1.335 2.226a.75.75 0 0 1-1.174.144l-.774-.773a.5.5 0 0 1 .708-.707l.547.547 1.17-1.951a.5.5 0 1 1 .858.514Z" />
                       </svg></i>
-                      <h4>Housing Services</h4>
+                      <h4>Gehäuse Dienstleistungen</h4>
                       <p>
-                        Mexhubb's Housing Services, where finding your ideal home in Mexico City is not just a process, it's an experience.
+                      Mexhubb's Housing Services, wo die Suche nach der idealen Wohnung in Mexiko-Stadt nicht nur ein Prozess ist, sondern ein Erlebnis.
                       </p>
                     </div>
                   </Link>
@@ -435,9 +435,9 @@ ul {
                       <i><svg xmlns="http://www.w3.org/2000/svg" width="42" height="42" fill="currentColor" class="bi bi-compass-fill" viewBox="0 0 16 16">
                         <path d="M15.5 8.516a7.5 7.5 0 1 1-9.462-7.24A1 1 0 0 1 7 0h2a1 1 0 0 1 .962 1.276 7.503 7.503 0 0 1 5.538 7.24m-3.61-3.905L6.94 7.439 4.11 12.39l4.95-2.828 2.828-4.95z" />
                       </svg></i>
-                      <h4>Mexhubb Tours</h4>
+                      <h4>Mexhubb Touren</h4>
                       <p>
-                        Mexhubb Tours, where every journey is an exploration and an enriching experience that delve deep into the cultural essence.
+                      Mexhubb Tours, wo jede Reise eine Entdeckung und eine bereichernde Erfahrung ist, die tief in die kulturelle Essenz eindringt.
                       </p>
                     </div>
                   </Link>
@@ -449,9 +449,9 @@ ul {
                       <i><svg xmlns="http://www.w3.org/2000/svg" width="42" height="42" fill="currentColor" class="bi bi-calendar-event-fill" viewBox="0 0 16 16">
                         <path d="M4 .5a.5.5 0 0 0-1 0V1H2a2 2 0 0 0-2 2v1h16V3a2 2 0 0 0-2-2h-1V.5a.5.5 0 0 0-1 0V1H4zM16 14V5H0v9a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2m-3.5-7h1a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-1a.5.5 0 0 1-.5-.5v-1a.5.5 0 0 1 .5-.5" />
                       </svg></i>
-                      <h4>Mexhubb Events</h4>
+                      <h4>Mexhubb Veranstaltungen</h4>
                       <p>
-                        Born out of a passion for sharing our experiences with the world, we offer access to exclusive places and special activities.
+                      Entstanden aus der Leidenschaft, unsere Erfahrungen mit der Welt zu teilen, bieten wir Zugang zu exklusiven Orten und besonderen Aktivitäten.
                       </p>
                     </div>
                   </Link>
@@ -464,9 +464,9 @@ ul {
                         <path d="M6.5 1A1.5 1.5 0 0 0 5 2.5V3H1.5A1.5 1.5 0 0 0 0 4.5v1.384l7.614 2.03a1.5 1.5 0 0 0 .772 0L16 5.884V4.5A1.5 1.5 0 0 0 14.5 3H11v-.5A1.5 1.5 0 0 0 9.5 1zm0 1h3a.5.5 0 0 1 .5.5V3H6v-.5a.5.5 0 0 1 .5-.5" />
                         <path d="M0 12.5A1.5 1.5 0 0 0 1.5 14h13a1.5 1.5 0 0 0 1.5-1.5V6.85L8.129 8.947a.5.5 0 0 1-.258 0L0 6.85z" />
                       </svg></i>
-                      <h4>Legal Services</h4>
+                      <h4>Juristische Dienstleistungen</h4>
                       <p>
-                        Our collaborative approach ensures that you receive expert guidance and support in various legal matters.
+                      Unser kooperativer Ansatz gewährleistet, dass Sie in verschiedenen Rechtsangelegenheiten fachkundige Beratung und Unterstützung erhalten.
                       </p>
                     </div>
                   </Link>
@@ -478,9 +478,9 @@ ul {
                       <i><svg xmlns="http://www.w3.org/2000/svg" width="42" height="42" fill="currentColor" class="bi bi-person-fill" viewBox="0 0 16 16">
                         <path d="M3 14s-1 0-1-1 1-4 6-4 6 3 6 4-1 1-1 1zm5-6a3 3 0 1 0 0-6 3 3 0 0 0 0 6" />
                       </svg></i>
-                      <h4>Specialized Services</h4>
+                      <h4>Spezialisierte Dienstleistungen</h4>
                       <p>
-                        We understand that your needs are unique, and we're here to offer a wide array of specialized services.
+                      Wir wissen, dass Ihre Bedürfnisse einzigartig sind, und wir bieten Ihnen eine breite Palette spezialisierter Dienstleistungen.
                       </p>
                     </div>
                   </Link>
@@ -492,9 +492,9 @@ ul {
                       <i><svg xmlns="http://www.w3.org/2000/svg" width="42" height="42" fill="currentColor" class="bi bi-headset" viewBox="0 0 16 16" style={{ alignItems: 'center', verticalAlign: 'center' }}>
                         <path d="M8 1a5 5 0 0 0-5 5v1h1a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1V6a6 6 0 1 1 12 0v6a2.5 2.5 0 0 1-2.5 2.5H9.366a1 1 0 0 1-.866.5h-1a1 1 0 1 1 0-2h1a1 1 0 0 1 .866.5H11.5A1.5 1.5 0 0 0 13 12h-1a1 1 0 0 1-1-1V8a1 1 0 0 1 1-1h1V6a5 5 0 0 0-5-5" />
                       </svg></i>
-                      <h4>Contact Us</h4>
+                      <h4>Kontakt</h4>
                       <p>
-                        No matter how specific your request, Mexhubb is dedicated to going the extra mile to assist you.
+                      Ganz gleich, wie spezifisch Ihre Anfrage ist, Mexhubb setzt alles daran, Ihnen weiterzuhelfen.
                       </p>
                     </div>
                   </Link>
