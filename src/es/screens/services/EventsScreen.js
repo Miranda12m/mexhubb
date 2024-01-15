@@ -41,7 +41,7 @@ export default function EventsScreenES() {
         <br></br>
         <br></br>
         <Container>
-          <h2 style={{ color: 'black', margin: '3%', textAlign: 'center' }} data-aos="fade-right" >Our services include,<span style={{ color: '#ff3b19' }}> but are not limited to:</span></h2>
+          <h2 style={{ color: 'black', margin: '3%', textAlign: 'center' }} data-aos="fade-right" >Nuestros servicios incluyen,<span style={{ color: '#ff3b19' }}> pero no estan limitados a:</span></h2>
           <ImaeES />
 
         </Container>
