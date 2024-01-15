@@ -133,7 +133,7 @@ function NavbarsES() {
             <Link to='/es/legal' className="linksns"><IoDocumentText /> Legal</Link>
           </Col>
           <Col style={{ alignItems: 'center', display: 'flex', justifyContent: 'center', borderLeft:'1px solid black', borderRight:'1px solid black' }}>
-            <Link to='/es/specialized' className="linksns"><RiContactsFill /> Specializados</Link>
+            <Link to='/es/specialized' className="linksns"><RiContactsFill /> Especializados</Link>
           </Col>
         </div>
           </div>
