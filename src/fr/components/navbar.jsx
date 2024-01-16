@@ -5,6 +5,8 @@ import AOS from "aos";
 import "aos/dist/aos.css";
 import { FaFacebook, FaInstagram } from 'react-icons/fa';
 import { FaThreads, FaXTwitter } from "react-icons/fa6";
+import LanguageSelectorFR from "./LanguageSelector";
+
 
 function NavbarFR({ currentPage, height = 100 }) {
   useEffect(() => {
@@ -179,6 +181,7 @@ function NavbarFR({ currentPage, height = 100 }) {
               ></i>
             </nav>
             <div class="d-flex justify-content-lg-end align-items-center">
+            <LanguageSelectorFR />
               <ul class="social-icon d-flex justify-content-lg-end">
                 <li class="social-icon-item ">
                   <a href="https://www.facebook.com/profile.php?id=61554405899957" target='blank' class="social-icon-link ">
