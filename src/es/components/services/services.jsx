@@ -242,7 +242,7 @@ export default function ServicesOpES() {
 
 
 
-        .btn {
+        .btns {
           display: inline-block;
           background: #e2e2e2;
           border: 0;
@@ -347,7 +347,7 @@ export default function ServicesOpES() {
               <h2 >Nuestro hogar, a tu manera</h2>
               <p > Bienvenido a Servicios de Vivienda de Mexhubb, donde encontrar tu casa ideal en la Ciudad de México no es solo un proceso, es una experiencia. Nuestro enfoque está diseñado para hacer que todo el viaje sea sencillo. </p>
               <p class="read-more">
-                <a href="#" class="btn btn-learn">Ver más <span class="arrow">❯</span></a>
+                <a href="#" class="btns btn-learn">Ver más <span class="arrow">❯</span></a>
               </p>
             </div>
           </div>
@@ -381,7 +381,7 @@ export default function ServicesOpES() {
               <h2>Una perspectiva única</h2>
               <p>Bienvenido a Mexhubb Tours, donde cada viaje es una exploración y una experiencia enriquecedora. Nuestro compromiso va más allá de ofrecer tours, nos dedicamos a mostrar la verdadera esencia de México.</p>
               <p class="read-more">
-                <a href="#" class="btn btn-learn">Ver más <span class="arrow">❯</span></a>
+                <a href="#" class="btns btn-learn">Ver más <span class="arrow">❯</span></a>
               </p>
             </div>
           </div>
@@ -418,7 +418,7 @@ export default function ServicesOpES() {
               <h2>Cada momento es tuyo</h2>
               <p>Somos una comunidad vibrante que brinda experiencias auténticas y memorables. Nacidos de la pasión por compartir nuestras experiencias con el mundo, ofrecemos acceso a lugares y actividades exclusivos.</p>
               <p class="read-more">
-                <a href="#" class="btn btn-learn">Ver más <span class="arrow">❯</span></a>
+                <a href="#" class="btns btn-learn">Ver más <span class="arrow">❯</span></a>
               </p>
             </div>
           </div>
@@ -452,7 +452,7 @@ export default function ServicesOpES() {
               <h2>Tu aliado legal en mexico</h2>
               <p>Bienvenido a los Servicios Legales de Mexhubb, donde nos asociamos con abogados, bufetes de abogados y notarías de renombre para brindar una gama integral de asistencia legal.</p>
               <p class="read-more">
-                <a href="#" class="btn btn-learn">Ver más <span class="arrow">❯</span></a>
+                <a href="#" class="btns btn-learn">Ver más <span class="arrow">❯</span></a>
               </p>
             </div>
           </div>
@@ -486,7 +486,7 @@ export default function ServicesOpES() {
               <h2>Soluciones personalizadas para cada necesidad</h2>
               <p> En Mexhubb entendemos que tus necesidades son únicas y estamos aquí para ofrecer una amplia gama de servicios especializados a través de nuestra extensa red de socios y colaboradores.</p>
               <p class="read-more">
-                <a href="#" class="btn btn-learn">Ver más <span class="arrow">❯</span></a>
+                <a href="#" class="btns btn-learn">Ver más <span class="arrow">❯</span></a>
               </p>
             </div>
           </div>

@@ -242,7 +242,7 @@ export default function ServicesOpDE() {
 
 
 
-        .btn {
+        .btns {
           display: inline-block;
           background: #e2e2e2;
           border: 0;
@@ -347,7 +347,7 @@ export default function ServicesOpDE() {
               <h2 >Unser Zuhause, Ihr Weg</h2>
               <p > Willkommen bei Mexhubb's Housing Services, wo die Suche nach Ihrem idealen Zuhause in Mexiko-Stadt nicht nur ein Prozess ist, sondern ein Erlebnis. Unser Ansatz ist darauf ausgerichtet, Ihnen die gesamte Reise so angenehm wie möglich zu gestalten. </p>
               <p class="read-more">
-                <a href="#" class="btn btn-learn">Mehr Sehen <span class="arrow">❯</span></a>
+                <a href="#" class="btns btn-learn">Mehr Sehen <span class="arrow">❯</span></a>
               </p>
             </div>
           </div>
@@ -381,7 +381,7 @@ export default function ServicesOpDE() {
               <h2>Einzigartige Perspektive</h2>
               <p>Willkommen bei Mexhubb Tours, wo jede Reise eine Entdeckung und eine bereichernde Erfahrung ist. Unser Engagement geht weit über das Anbieten von Touren hinaus. Wir widmen uns der Präsentation der wahren Essenz Mexikos.</p>
               <p class="read-more">
-                <a href="#" class="btn btn-learn">Mehr Sehen <span class="arrow">❯</span></a>
+                <a href="#" class="btns btn-learn">Mehr Sehen <span class="arrow">❯</span></a>
               </p>
             </div>
           </div>
@@ -418,7 +418,7 @@ export default function ServicesOpDE() {
               <h2>Jeder Moment gehört dir</h2>
               <p>Wir sind eine lebendige Gemeinschaft, die authentische und unvergessliche Erlebnisse bietet. Entstanden aus der Leidenschaft, unsere Erfahrungen mit der Welt zu teilen, bieten wir Zugang zu exklusiven Orten und Aktivitäten.</p>
               <p class="read-more">
-                <a href="#" class="btn btn-learn">Mehr Sehen <span class="arrow">❯</span></a>
+                <a href="#" class="btns btn-learn">Mehr Sehen <span class="arrow">❯</span></a>
               </p>
             </div>
           </div>
@@ -452,7 +452,7 @@ export default function ServicesOpDE() {
               <h2>Ihr juristischer Verbündeter in Mexiko</h2>
               <p>Willkommen bei Mexhubb's Legal Services, wo wir mit renommierten Anwälten, Anwaltskanzleien und Notariaten zusammenarbeiten, um ein umfassendes Angebot an Rechtshilfe zu bieten. </p>
               <p class="read-more">
-                <a href="#" class="btn btn-learn">Mehr Sehen <span class="arrow">❯</span></a>
+                <a href="#" class="btns btn-learn">Mehr Sehen <span class="arrow">❯</span></a>
               </p>
             </div>
           </div>
@@ -486,7 +486,7 @@ export default function ServicesOpDE() {
               <h2>Maßgeschneiderte Lösungen für jeden Bedarf</h2>
               <p> Wir bei Mexhubb wissen, dass Ihre Bedürfnisse einzigartig sind, und bieten Ihnen über unser umfangreiches Netzwerk von Partnern und Mitarbeitern eine breite Palette an spezialisierten Dienstleistungen.</p>
               <p class="read-more">
-                <a href="#" class="btn btn-learn">Mehr Sehen <span class="arrow">❯</span></a>
+                <a href="#" class="btns btn-learn">Mehr Sehen <span class="arrow">❯</span></a>
               </p>
             </div>
           </div>
