@@ -320,8 +320,8 @@ export default function AboutUsDE() {
 
                             <div class="image-column col-lg-6 col-md-12 col-sm-12" data-aos="fade-right">
                                 <div class="inner-column wow fadeInLeft">
-                                    <figure class="image-1"><img src="https://images.pexels.com/photos/1655329/pexels-photo-1655329.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="" style={{ maxHeight: '520px' }} /></figure>
-                                    <figure class="image-2"><img src="https://images.unsplash.com/photo-1556761175-5973dc0f32e7?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="" style={{ maxHeight: '220px' }} /></figure>
+                                    <figure class="image-1"><img src="https://i.ibb.co/XXmggCx/image00058-3.jpg" alt="" style={{ maxHeight: '520px' }} /></figure>
+                                    <figure class="image-2"><img src="https://i.ibb.co/vd6Jh5C/20231222-151806.jpg" alt="" style={{ maxHeight: '220px' }} /></figure>
                                 </div>
                             </div>
                         </div>

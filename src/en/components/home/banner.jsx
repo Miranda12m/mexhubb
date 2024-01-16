@@ -33,7 +33,7 @@ export default function App() {
         <MDBCarouselItem itemId={2}>
           <div className="overlay"></div>
           <img
-            src='https://images.pexels.com/photos/3856027/pexels-photo-3856027.jpeg'
+            src='https://i.ibb.co/L0R79RJ/20231222-151406.jpg'
             className='d-block vw-100'
             alt='...'
           />
@@ -41,7 +41,7 @@ export default function App() {
         <MDBCarouselItem itemId={3}>
           <div className="overlay"></div>
           <img
-            src='https://images.pexels.com/photos/13100888/pexels-photo-13100888.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
+            src='https://i.ibb.co/5j7znwL/image00025-4.jpg'
             className='d-block vw-100'
             alt='...'
           />
