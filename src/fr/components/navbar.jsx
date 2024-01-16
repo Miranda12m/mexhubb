@@ -5,7 +5,7 @@ import AOS from "aos";
 import "aos/dist/aos.css";
 import { FaFacebook, FaInstagram } from 'react-icons/fa';
 import { FaThreads, FaXTwitter } from "react-icons/fa6";
-import LanguageSelectorFR from "./LanguageSelector";
+import LanguageSelectorFR from "./LanguageSelectorFR";
 
 
 function NavbarFR({ currentPage, height = 100 }) {

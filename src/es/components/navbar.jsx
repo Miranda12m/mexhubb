@@ -5,7 +5,7 @@ import AOS from "aos";
 import "aos/dist/aos.css";
 import { FaFacebook, FaInstagram } from 'react-icons/fa';
 import { FaThreads, FaXTwitter } from "react-icons/fa6";
-import LanguageSelectorES from "./LanguageSelector";
+import LanguageSelectorES from "./LanguageSelectorES";
 
 function NavbarES({ currentPage, height = 100 }) {
   useEffect(() => {
