@@ -20,6 +20,8 @@ import HousingScreen from "./en/screens/services/HousingScreen";
 import TermsScreen from "./en/screens/termsandconditions";
 import PrivacyScreen from "./en/screens/privacypolicy";
 import Wapp from './en/components/wapp'
+import ProductScreen from './en/screens/services/ProductScreen';
+
 //French
 import NavbarFR from "./fr/components/navbar";
 import FooterFR from "./fr/components/Footer";
@@ -135,6 +137,8 @@ const AppContent = () => {
                     <Route path="/en/housing" element={<HousingScreen />} />
                     <Route path='/en/terms-and-conditions' element={<TermsScreen />} />
                     <Route path='/en/privacy-policy' element={<PrivacyScreen />} />
+                    <Route path='/en/housing/product' element={<ProductScreen />} />
+                    
                     {/*French*/}
                     <Route path="/fr/home" element={<HomeScreenFR />} />
                     <Route path="/fr/contact" element={<ContactScreenFR />} />
