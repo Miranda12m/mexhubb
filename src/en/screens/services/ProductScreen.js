@@ -13,6 +13,7 @@ export default function ProductScreen(){
         <Navbars />
         
         <Container>
+           
                 <Product />
         </Container>
         
