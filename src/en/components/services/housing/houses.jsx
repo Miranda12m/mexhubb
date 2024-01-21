@@ -353,7 +353,7 @@ export default function Houses() {
                                 </div>
                             </Col>
                             <Col>
-                                <div style={{ marginTop: '12px' }}>
+                                <div style={{ marginTop: '12px', alignItems:'right', verticalAlign:'right' }}>
                                     <ContactButton2 />
                                 </div>
                             </Col>
