@@ -15,6 +15,8 @@ export default function ContactButton2() {
         
                   .btn-box{
                     position: relative;
+            
+
                   }
 
                   .btn-style-one{
@@ -38,7 +40,7 @@ export default function ContactButton2() {
             </style>
 
 
-            <div class="btn-box">
+            <div class="btn-box" >
                 <Link to="/en/housing/product">
                 <a href="/en/housing/product" class="theme-btn btn-style-one button-hover">View</a>
                 </Link>
