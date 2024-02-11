@@ -134,7 +134,7 @@ function FooterES() {
                                     </div>
                                     <div className="footer-text mb-25">
                                         <p>No dejes de contactarnos si tienes alguna pregunta</p>
-                                        <p>Telefono: +52 00 0000 0000</p>
+                                        <p>Telefono: +49 176 42000239</p>
                                         <p>Correo: contact@mexhubb.com</p>
                                     </div>
 

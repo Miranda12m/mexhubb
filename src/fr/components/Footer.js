@@ -134,7 +134,7 @@ function FooterFR() {
                                     </div>
                                     <div className="footer-text mb-25">
                                         <p>Ne manquez pas de nous contacter si vous avez des questions</p>
-                                        <p>Téléphone: +52 00 0000 0000</p>
+                                        <p>Téléphone: +49 176 42000239</p>
                                         <p>Mail: contact@mexhubb.com</p>
                                     </div>
 

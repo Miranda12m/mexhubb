@@ -152,7 +152,7 @@ function NavbarES({ currentPage, height = 100 }) {
       <div className="all-wrapper " data-aos-easing='ease' data-aos-duration='400' data-aos-delay='0'>
         <header id="header" className="fixed-top desktop-menu menu-top-w">
           <div className="container d-flex align-items-center justify-content-lg-between">
-            <h1 className="me-auto me-lg-0" style={{ textShadow: '2px 2px 4px rgba(0, 0, 0, .7)' }}>
+            <h1 className="me-auto me-lg-0" style={{ textShadow: '2px 2px 4px rgba(0, 0, 0, .7)', width:'14%', marginTop:'5px' }}>
               <Link to="/es/home">                                            <img src="https://i.ibb.co/sH0YnSy/logo-sin-fondo-blanco-06.png" alt="logo" className="img-fluid" style={{ maxHeight: '45px' }}></img>
               </Link>
             </h1>
@@ -184,25 +184,25 @@ function NavbarES({ currentPage, height = 100 }) {
               <ul class="social-icon d-flex justify-content-lg-end">
                 <li class="social-icon-item ">
                   <a href="https://www.facebook.com/profile.php?id=61554405899957" target='blank' class="social-icon-link ">
-                    <FaFacebook size={20} style={{ marginRight: '10px' }} class=' button-hover iconhover' />
+                    <FaFacebook size={20} style={{ marginRight: '10px', marginBottom:'5px' }} class=' button-hover iconhover' />
                   </a>
                 </li>
 
                 <li class="social-icon-item">
                   <a href="https://www.instagram.com/mexhubb/" target='blank' class="social-icon-link ">
-                    <FaInstagram size={20} style={{ marginRight: '10px' }} class='button-hover iconhover' />
+                    <FaInstagram size={20} style={{ marginRight: '10px', marginBottom:'5px' }} class='button-hover iconhover' />
                   </a>
                 </li>
 
                 <li class="social-icon-item">
                   <a href="https://www.twitter.com/mexhubb/" class="social-icon-link" target='blank'>
-                    <FaXTwitter size={20} style={{ marginRight: '10px'}} class='button-hover iconhover' />
+                    <FaXTwitter size={20} style={{ marginRight: '10px', marginBottom:'5px'}} class='button-hover iconhover' />
                   </a>
                 </li>
 
                 <li class="social-icon-item">
                   <Link to="https://www.twitter.com/mexhubb/" class="social-icon-link" target='blank'>
-                    <FaThreads size={20} style={{ marginRight: '10px' }} class='button-hover iconhover' />
+                    <FaThreads size={20} style={{ marginRight: '10px', marginBottom:'5px' }} class='button-hover iconhover' />
                   </Link>
                 </li>
               </ul>

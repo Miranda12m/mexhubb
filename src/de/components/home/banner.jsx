@@ -25,7 +25,7 @@ export default function AppDE() {
         <MDBCarouselItem itemId={1}>
           <div className="overlay"></div>
           <img
-            src='https://images.pexels.com/photos/1015568/pexels-photo-1015568.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
+            src='https://i.ibb.co/1vnfhKv/image00072.jpg'
             className='d-block vw-100'
             alt='...'
           />
