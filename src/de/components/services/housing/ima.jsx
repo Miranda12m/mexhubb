@@ -130,7 +130,7 @@ export default function ImahDE() {
                             </div>
                     </div>
                     <div class="box mdb-card" data-aos="fade-up">
-                        <img src="https://images.unsplash.com/photo-1603796846097-bee99e4a601f?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" class="image" alt='...' />
+                        <img src="https://i.ibb.co/dWmwgfG/image00045-4.jpg" class="image" alt='...' />
                             <div class="overlay">
                                 <h3 class="Ttext">Maßgeschneiderte Verträge</h3>
                                 <p class="Stext"> Unsere Mietverträge sind für Ausländer oder Privatpersonen gedacht, die flexibel sein wollen.</p>

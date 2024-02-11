@@ -264,7 +264,7 @@ ul {
  }
 
  .we-offer-area.text-center .fondo {
-  background: url(https://images.unsplash.com/photo-1501183638710-841dd1904471?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D) no-repeat;
+  background: url(https://i.ibb.co/s1WCdZx/IMG-7461.jpg) no-repeat;
   border: medium none;
   background-size: cover; 
   padding: 67px 40px 64px;
@@ -281,7 +281,7 @@ ul {
 }
 
 .we-offer-area.text-center .fondo2 {
-  background: url(https://images.unsplash.com/photo-1619523015505-09ff57046d46?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D) no-repeat;
+  background: url(https://i.ibb.co/ssyyq5v/image00077.jpg) no-repeat;
   border: medium none;
   background-size: cover; 
   padding: 67px 40px 64px;
@@ -298,7 +298,7 @@ ul {
 }
 
 .we-offer-area.text-center .fondo3 {
-  background: url(https://images.unsplash.com/photo-1520098183066-2a5609904268?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D) no-repeat;
+  background: url(https://i.ibb.co/ThB35Bx/20231222-151802.jpg) no-repeat;
   border: medium none;
   background-size: cover; 
   padding: 67px 40px 64px;
@@ -315,7 +315,7 @@ ul {
 }
 
 .we-offer-area.text-center .fondo4 {
-  background: url(https://images.unsplash.com/photo-1603796846097-bee99e4a601f?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D) no-repeat;
+  background: url(https://i.ibb.co/dWmwgfG/image00045-4.jpg) no-repeat;
   border: medium none;
   background-size: cover; 
   padding: 67px 40px 64px;
@@ -332,7 +332,7 @@ ul {
 }
 
 .we-offer-area.text-center .fondo5 {
-  background: url(https://images.unsplash.com/photo-1553877522-43269d4ea984?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D) no-repeat;
+  background: url(https://i.ibb.co/PQVvC6Y/IMG-7481.jpg) no-repeat;
   border: medium none;
   background-size: cover; 
   padding: 67px 40px 64px;
@@ -349,7 +349,7 @@ ul {
 }
 
 .we-offer-area.text-center .fondo6 {
-  background: url(https://images.unsplash.com/photo-1423666639041-f56000c27a9a?q=80&w=2074&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D) no-repeat;
+  background: url(https://i.ibb.co/MGHqkKh/image00100-3.jpg) no-repeat;
   border: medium none;
   background-size: cover; 
   padding: 67px 40px 64px;

@@ -389,7 +389,7 @@ export default function ServicesOpFR() {
         <Link to='/fr/events' style={{ color: 'black' }}>
           <div class="blog-card mdb-card" data-aos="fade-right">
             <div class="meta">
-              <div class="photo" style={{ backgroundImage: "url(https://images.unsplash.com/photo-1520098183066-2a5609904268?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)" }}></div>
+              <div class="photo" style={{ backgroundImage: "url(https://i.ibb.co/ThB35Bx/20231222-151802.jpg)" }}></div>
               <ul class="details">
                 <br></br>
                 <li class="author">Nos services comprennent, sans toutefois s'y limiter :</li>
@@ -426,7 +426,7 @@ export default function ServicesOpFR() {
         <Link to='/fr/legal' style={{ color: 'black' }}>
           <div class="blog-card alt mdb-card" data-aos="fade-right">
             <div class="meta">
-              <div class="photo" style={{ backgroundImage: "url(https://images.unsplash.com/photo-1603796846097-bee99e4a601f?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)" }}></div>
+              <div class="photo" style={{ backgroundImage: "url(https://i.ibb.co/dWmwgfG/image00045-4.jpg)" }}></div>
               <ul class="details">
               <br></br>
                 <li class="author">Nous proposons en collaboration avec nos estimés partenaires :</li>
