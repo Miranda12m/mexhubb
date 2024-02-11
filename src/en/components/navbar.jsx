@@ -152,7 +152,7 @@ function Navbar({ currentPage, height = 100 }) {
       <div className="all-wrapper " data-aos-easing='ease' data-aos-duration='400' data-aos-delay='0'>
         <header id="header" className="fixed-top desktop-menu menu-top-w">
           <div className="container d-flex align-items-center justify-content-lg-between">
-            <h1 className="me-auto me-lg-0" style={{ textShadow: '2px 2px 4px rgba(0, 0, 0, .7)', width:'15%', marginTop:'5px'}}>
+            <h1 className="me-auto me-lg-0" style={{ textShadow: '2px 2px 4px rgba(0, 0, 0, .7)', width:'14%', marginTop:'5px'}}>
               <Link to="/en/home">                                            <img src="https://i.ibb.co/sH0YnSy/logo-sin-fondo-blanco-06.png" alt="logo" className="img-fluid" style={{ maxHeight: '45px' }}></img>
               </Link>
             </h1>
