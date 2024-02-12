@@ -320,7 +320,7 @@ export default function ServicesOp() {
         <Link to='/en/housing' style={{ color: 'black' }}>
           <div class="blog-card mdb-card" data-aos="fade-right">
             <div class="meta">
-              <div class="photo" style={{ backgroundImage: "url(https://images.unsplash.com/photo-1674681512510-e06db64f53fb?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)" }}></div>
+              <div class="photo" style={{ backgroundImage: "url(https://i.ibb.co/s1WCdZx/IMG-7461.jpg)" }}></div>
 
               <ul class="details">
                 <br></br>
@@ -352,10 +352,10 @@ export default function ServicesOp() {
             </div>
           </div>
         </Link>
-        <Link to='/de/tours' style={{ color: 'black' }}>
+        <Link to='/en/tours' style={{ color: 'black' }}>
           <div class="blog-card alt mdb-card" data-aos="fade-right">
             <div class="meta">
-              <div class="photo" style={{ backgroundImage: "url(https://images.unsplash.com/photo-1561025478-827f5fad6374?q=80&w=2076&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)" }}></div>
+              <div class="photo" style={{ backgroundImage: "url(https://i.ibb.co/ssyyq5v/image00077.jpg)" }}></div>
               <ul class="details">
               <br></br>
                 <li class="author">Know more about our Categories of Tours</li>
@@ -386,7 +386,7 @@ export default function ServicesOp() {
             </div>
           </div>
         </Link>
-        <Link to='/de/events' style={{ color: 'black' }}>
+        <Link to='/en/events' style={{ color: 'black' }}>
           <div class="blog-card mdb-card" data-aos="fade-right">
             <div class="meta">
               <div class="photo" style={{ backgroundImage: "url(https://i.ibb.co/ThB35Bx/20231222-151802.jpg)" }}></div>
@@ -423,7 +423,7 @@ export default function ServicesOp() {
             </div>
           </div>
         </Link>
-        <Link to='/de/legal' style={{ color: 'black' }}>
+        <Link to='/en/legal' style={{ color: 'black' }}>
           <div class="blog-card alt mdb-card" data-aos="fade-right">
             <div class="meta">
               <div class="photo" style={{ backgroundImage: "url(https://i.ibb.co/dWmwgfG/image00045-4.jpg)" }}></div>
@@ -457,10 +457,10 @@ export default function ServicesOp() {
             </div>
           </div>
         </Link>
-        <Link to='/de/specialized' style={{ color: 'black' }} >
+        <Link to='/en/specialized' style={{ color: 'black' }} >
           <div class="blog-card mdb-card" data-aos="fade-right">
             <div class="meta">
-              <div class="photo" style={{ backgroundImage: "url(https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)" }}></div>
+              <div class="photo" style={{ backgroundImage: "url(https://i.ibb.co/zngtDVY/IMG-7587.jpg)" }}></div>
               <ul class="details">
               <br></br>
                 <li class="author">Explore our specialized service categories:</li>

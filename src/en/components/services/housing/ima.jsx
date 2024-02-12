@@ -109,21 +109,21 @@ export default function Imah() {
 
                 <div class="section tabla-con-cartas2">
                     <div class="box mdb-card" data-aos="fade-up">
-                        <img src="https://images.unsplash.com/photo-1665686374221-1901faa9f3ad?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" class="image" alt='...' />
+                        <img src="https://i.ibb.co/P1Hs2kk/image00076-4.jpg" class="image" alt='...' />
                             <div class="overlay">
                                 <h3 class="Ttext">Seamless Process</h3>
                                 <p class="Stext"> We've streamlined our housing service to ensure a hassle-free experience.</p>
                             </div>
                     </div>
                     <div class="box mdb-card" data-aos="fade-up">
-                        <img src="https://images.pexels.com/photos/2029698/pexels-photo-2029698.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" class="image" alt='...' />
+                        <img src="https://i.ibb.co/LYr9gC8/image00037-4.jpg" class="image" alt='...' />
                             <div class="overlay">
                                 <h3 class="Ttext">Diverse Options</h3>
                                 <p class="Stext"> Explore a range of housing options in the most sought-after districts of Mexico City.</p>
                             </div>
                     </div>
                     <div class="box mdb-card" data-aos="fade-up">
-                        <img src="https://images.unsplash.com/photo-1526948531399-320e7e40f0ca?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" class="image" alt='...' />
+                        <img src="https://i.ibb.co/dptgnbW/image00078-2.jpg" class="image" alt='...' />
                             <div class="overlay">
                                 <h3 class="Ttext">Transparent Transactions</h3>
                                 <p class="Stext"> We handle everything, ensuring a transparent and secure transaction.</p>

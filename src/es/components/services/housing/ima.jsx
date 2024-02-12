@@ -109,21 +109,21 @@ export default function ImahES() {
 
                 <div class="section tabla-con-cartas2">
                     <div class="box mdb-card" data-aos="fade-up">
-                        <img src="https://images.unsplash.com/photo-1665686374221-1901faa9f3ad?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" class="image" alt='...' />
+                        <img src="https://i.ibb.co/P1Hs2kk/image00076-4.jpg" class="image" alt='...' />
                             <div class="overlay">
                                 <h3 class="Ttext">Proceso continuo</h3>
                                 <p class="Stext"> Hemos optimizado nuestro servicio de alojamiento para garantizar una experiencia sin complicaciones.</p>
                             </div>
                     </div>
                     <div class="box mdb-card" data-aos="fade-up">
-                        <img src="https://images.pexels.com/photos/2029698/pexels-photo-2029698.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" class="image" alt='...' />
+                        <img src="https://i.ibb.co/LYr9gC8/image00037-4.jpg" class="image" alt='...' />
                             <div class="overlay">
                                 <h3 class="Ttext">Diversidad de Opciones</h3>
                                 <p class="Stext"> Explore una variedad de opciones de vivienda en los distritos más cotizados de la Ciudad de México.</p>
                             </div>
                     </div>
                     <div class="box mdb-card" data-aos="fade-up">
-                        <img src="https://images.unsplash.com/photo-1526948531399-320e7e40f0ca?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" class="image" alt='...' />
+                        <img src="https://i.ibb.co/dptgnbW/image00078-2.jpg" class="image" alt='...' />
                             <div class="overlay">
                                 <h3 class="Ttext">Transacciones transparentes</h3>
                                 <p class="Stext"> Nos encargamos de todo, garantizando una transacción transparente y segura.</p>

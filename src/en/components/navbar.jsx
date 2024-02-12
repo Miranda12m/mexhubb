@@ -153,7 +153,7 @@ function Navbar({ currentPage, height = 100 }) {
         <header id="header" className="fixed-top desktop-menu menu-top-w">
           <div className="container d-flex align-items-center justify-content-lg-between">
             <h1 className="me-auto me-lg-0" style={{ textShadow: '2px 2px 4px rgba(0, 0, 0, .7)', width:'14%', marginTop:'5px'}}>
-              <Link to="/en/home">                                            <img src="https://i.ibb.co/sH0YnSy/logo-sin-fondo-blanco-06.png" alt="logo" className="img-fluid" style={{ maxHeight: '45px' }}></img>
+              <Link to="/en/home">                                            <img src="https://i.ibb.co/sH0YnSy/logo-sin-fondo-blanco-06.png" alt="logo" className="img-fluid" style={{ maxHeight: '45px', maxWidth: '45px' }}></img>
               </Link>
             </h1>
             <nav id="navbar" className="navbar order-last order-lg-0">

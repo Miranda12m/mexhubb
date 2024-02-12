@@ -18,7 +18,7 @@ function BannerServices() {
         <MDBCarouselItem itemId={1}>
           <div className="overlay"></div>
           <img
-            src='https://images.unsplash.com/photo-1501855901885-8b29fa615daf?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
+            src='https://i.ibb.co/68hJfjs/image00069-2.jpg'
             className='d-block vw-100'
             alt='...'
           />
@@ -26,7 +26,7 @@ function BannerServices() {
         <MDBCarouselItem itemId={2}>
           <div className="overlay"></div>
           <img
-            src='https://images.unsplash.com/photo-1562218355-1fde5256182d?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
+            src='https://i.ibb.co/926jcn5/image00085.jpg'
             className='d-block vw-100'
             alt='...'
           />
@@ -34,7 +34,7 @@ function BannerServices() {
         <MDBCarouselItem itemId={3}>
           <div className="overlay"></div>
           <img
-            src='https://images.unsplash.com/photo-1504814532849-cff240bbc503?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fG1leGljb3xlbnwwfDB8MHx8fDA%3D'
+            src='https://i.ibb.co/s1WCdZx/IMG-7461.jpg'
             className='d-block vw-100'
             alt='...'
           />

@@ -109,21 +109,21 @@ export default function ImahDE() {
 
                 <div class="section tabla-con-cartas2">
                     <div class="box mdb-card" data-aos="fade-up">
-                        <img src="https://images.unsplash.com/photo-1665686374221-1901faa9f3ad?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" class="image" alt='...' />
+                        <img src="https://i.ibb.co/P1Hs2kk/image00076-4.jpg" class="image" alt='...' />
                             <div class="overlay">
                                 <h3 class="Ttext">Nahtloser Prozess</h3>
                                 <p class="Stext">Wir haben unseren Wohnungsservice gestrafft, um einen reibungslosen Ablauf zu gewährleisten.</p>
                             </div>
                     </div>
                     <div class="box mdb-card" data-aos="fade-up">
-                        <img src="https://images.pexels.com/photos/2029698/pexels-photo-2029698.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" class="image" alt='...' />
+                        <img src="https://i.ibb.co/LYr9gC8/image00037-4.jpg" class="image" alt='...' />
                             <div class="overlay">
                                 <h3 class="Ttext">Vielfältige Optionen</h3>
                                 <p class="Stext"> Entdecken Sie eine Reihe von Wohnmöglichkeiten in den begehrtesten Vierteln von Mexiko-Stadt.</p>
                             </div>
                     </div>
                     <div class="box mdb-card" data-aos="fade-up">
-                        <img src="https://images.unsplash.com/photo-1526948531399-320e7e40f0ca?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" class="image" alt='...' />
+                        <img src="https://i.ibb.co/dptgnbW/image00078-2.jpg" class="image" alt='...' />
                             <div class="overlay">
                                 <h3 class="Ttext">Transparente Vorgänge</h3>
                                 <p class="Stext"> Wir kümmern uns um alles und gewährleisten eine transparente und sichere Transaktion.</p>

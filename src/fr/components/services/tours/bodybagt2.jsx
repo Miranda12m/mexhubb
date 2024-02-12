@@ -70,7 +70,7 @@ export default function BodyBagt02FR() {
 
                         <div class="row">
                             <div class="col-lg-6" data-aos='fade-right' style={{marginBottom:'20px'}}>
-                                <img src="https://images.unsplash.com/photo-1575540203949-54ccd7a66d98?q=80&w=2139&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="about" class="img-fluid imagenbb" width="100%" style={{maxHeight:'390px'}}/>
+                                <img src="https://i.ibb.co/y65QmKP/image00012-3.jpg" alt="about" class="img-fluid imagenbb" width="100%" style={{maxHeight:'390px'}}/>
                             </div>
                             <div class="col-lg-6" data-aos='fade-up'>
                                 <div class="heading ">
