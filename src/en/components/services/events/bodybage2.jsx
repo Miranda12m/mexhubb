@@ -71,7 +71,7 @@ export default function BodyBage02() {
 
                         <div class="row">
                             <div class="col-lg-6" data-aos='fade-right' style={{marginBottom:'20px'}}>
-                                <img src="https://cdn2.excelsior.com.mx/media/styles/image800x600/public/pictures/2022/11/27/2863816.jpg" alt="about" class="img-fluid imagenbb" width="100%" style={{maxHeight:'450px'}}/>
+                                <img src="https://i.ibb.co/MGHqkKh/image00100-3.jpg" alt="about" class="img-fluid imagenbb" width="100%" style={{maxHeight:'450px'}}/>
                             </div>
                             <div class="col-lg-6" data-aos='fade-up'>
                                 <div class="heading ">

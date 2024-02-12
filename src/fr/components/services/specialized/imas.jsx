@@ -115,7 +115,7 @@ export default function ImasFR() {
 
         <div class="section tabla-con-cartas2" data-aos="fade-up">
           <div class="box mdb-card" >
-            <img src="https://images.unsplash.com/photo-1494947665470-20322015e3a8?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" class="image" alt='...' />
+            <img src="https://i.ibb.co/5BQHwJT/image00023.jpg" class="image" alt='...' />
             <div class="overlay">
               <h3 class="Ttext">Services du personnel</h3>
               <p class="Stext">Les femmes de ménage,
@@ -133,7 +133,7 @@ export default function ImasFR() {
             </div>
           </div>
           <div class="box mdb-card" >
-            <img src="https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" class="image" alt='...' />
+            <img src="https://i.ibb.co/gvXGrN5/image00004-2.jpg" class="image" alt='...' />
             <div class="overlay">
               <h3 class="Ttext">Services consultatifs en matière de santé</h3>
               <p class="Stext"> Médecins anglophones,
@@ -144,7 +144,7 @@ export default function ImasFR() {
             </div>
           </div>
           <div class="box mdb-card" >
-            <img src="https://images.unsplash.com/photo-1571388208497-71bedc66e932?q=80&w=2072&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" class="image" alt='...' />
+            <img src="https://i.ibb.co/6R65WZK/image00063-2.jpg" class="image" alt='...' />
             <div class="overlay">
               <h3 class="Ttext">Services quotidiens</h3>
               <p class="Stext">Gymnases,
@@ -161,7 +161,7 @@ export default function ImasFR() {
             </div>
           </div>
           <div class="box mdb-card" >
-            <img src="https://images.unsplash.com/photo-1460925895917-afdab827c52f?q=80&w=2015&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" class="image" alt='...' />
+            <img src="https://i.ibb.co/3N5BDX9/image00061-4.jpg" class="image" alt='...' />
             <div class="overlay">
               <h3 class="Ttext">Conseil d'achat</h3>
               <p class="Stext"> Propriétés et véhicules

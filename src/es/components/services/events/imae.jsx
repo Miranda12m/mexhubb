@@ -176,7 +176,7 @@ export default function ImaeES() {
 
                 <div class="section tabla-con-cartas2" data-aos="fade-up">
                     <div class="box mdb-card" >
-                        <img src="https://images.unsplash.com/photo-1527529482837-4698179dc6ce?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" class="image" alt='...' />
+                        <img src="https://i.ibb.co/8YSMxtP/20231222-151621.jpg" class="image" alt='...' />
                         <div class="overlay">
                             <h3 class="Ttext">Fiestas de intercambio de idiomas</h3>
                             <p class="Stext">Donde podrás practicar y perfeccionar tus habilidades lingüísticas en un ambiente divertido y social.
@@ -184,14 +184,14 @@ export default function ImaeES() {
                         </div>
                     </div>
                     <div class="box mdb-card" >
-                        <img src="https://images.unsplash.com/photo-1572894644277-25c35cf64163?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" class="image" alt='...' />
+                        <img src="https://i.ibb.co/cNVBQ9X/image00094.jpg" class="image" alt='...' />
                         <div class="overlay">
                             <h3 class="Ttext">Inmersión cultural</h3>
                             <p class="Stext">Te sumergimos en la rica y diversa cultura mexicana a través de actividades y eventos auténticos.</p>
                         </div>
                     </div>
                     <div class="box mdb-card" >
-                        <img src="https://images.unsplash.com/photo-1600618528240-fb9fc964b853?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" class="image" alt='...' />
+                        <img src="https://i.ibb.co/sHgtHgx/IMG-7385.jpg" class="image" alt='...' />
                         <div class="overlay">
                             <h3 class="Ttext">Actividades de bienestar</h3>
                             <p class="Stext">Ofrecemos actividades de bienestar para mantener el equilibrio entre cuerpo y mente durante tu viaje.
@@ -199,7 +199,7 @@ export default function ImaeES() {
                         </div>
                     </div>
                     <div class="box mdb-card" >
-                        <img src="https://images.unsplash.com/photo-1614886137686-181bab6ae68a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" class="image" alt='...' />
+                        <img src="https://i.ibb.co/TbK8nZf/image00014-2.jpg" class="image" alt='...' />
                         <div class="overlay">
                             <h3 class="Ttext3">Espacios de coworking</h3>
                             <p class="Stext3">Ofrecemos espacios de trabajo compartidos para aquellos que necesitan mantenerse productivos durante su estadía.
@@ -207,7 +207,7 @@ export default function ImaeES() {
                         </div>
                     </div>
                     <div class="box mdb-card" >
-                        <img src="https://images.unsplash.com/photo-1575703492669-1043d5668d43?q=80&w=2125&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" class="image" alt='...' />
+                        <img src="https://i.ibb.co/C70Gr0h/20231222-155729.jpg" class="image" alt='...' />
                         <div class="overlay">
                             <h3 class="Ttext2">Bar en bar</h3>
                             <p class="Stext2">Te llevamos a los mejores bares locales para disfrutar de la vida nocturna mexicana.
@@ -215,7 +215,7 @@ export default function ImaeES() {
                         </div>
                     </div>
                     <div class="box mdb-card" >
-                        <img src="https://images.unsplash.com/photo-1657672988264-92b5216512ac?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" class="image" alt='...' />
+                        <img src="https://i.ibb.co/ykgXjmn/image00037.jpg" class="image" alt='...' />
                         <div class="overlay">
                             <h3 class="Ttext2">Actividades deportivas</h3>
                             <p class="Stext2">Organizamos eventos deportivos para mantenerte activo y lleno de energía.
