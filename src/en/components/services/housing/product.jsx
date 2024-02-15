@@ -353,7 +353,6 @@ export default function Product() {
                                     <img class='imgc' src="https://img10.naventcdn.com/avisos/resize/18/00/66/78/53/22/1200x1200/369046066.jpg" alt="shoe image" />
                                 </a>
                             </div>
-
                         </div>
                     </div>
                     <div class="product-content" data-aos='fade-up'>
