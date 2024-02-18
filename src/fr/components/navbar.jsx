@@ -184,25 +184,25 @@ function NavbarFR({ currentPage, height = 100 }) {
             <LanguageSelectorFR />
               <ul class="social-icon d-flex justify-content-lg-end">
                 <li class="social-icon-item ">
-                  <a href="https://www.facebook.com/profile.php?id=61554405899957" target='blank' class="social-icon-link ">
+                  <a href="https://www.facebook.com/profile.php?id=61554405899957" target='blank' class="social-icon-link" alt="Facebook">
                     <FaFacebook size={20} style={{ marginRight: '10px', marginBottom:'5px' }} class=' button-hover iconhover' />
                   </a>
                 </li>
 
                 <li class="social-icon-item">
-                  <a href="https://www.instagram.com/mexhubb/" target='blank' class="social-icon-link ">
+                  <a href="https://www.instagram.com/mexhubb/" target='blank' class="social-icon-link" alt="Instagram">
                     <FaInstagram size={20} style={{ marginRight: '10px', marginBottom:'5px' }} class='button-hover iconhover' />
                   </a>
                 </li>
 
                 <li class="social-icon-item">
-                  <a href="https://www.twitter.com/mexhubb/" class="social-icon-link" target='blank'>
+                  <a href="https://www.twitter.com/mexhubb/" class="social-icon-link" target='blank' alt="Twitter">
                     <FaXTwitter size={20} style={{ marginRight: '10px', marginBottom:'5px'}} class='button-hover iconhover' />
                   </a>
                 </li>
 
                 <li class="social-icon-item">
-                  <Link to="https://www.twitter.com/mexhubb/" class="social-icon-link" target='blank'>
+                  <Link to="https://www.twitter.com/mexhubb/" class="social-icon-link" target='blank'  alt="Threads">
                     <FaThreads size={20} style={{ marginRight: '10px', marginBottom:'5px' }} class='button-hover iconhover' />
                   </Link>
                 </li>
