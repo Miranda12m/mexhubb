@@ -26,25 +26,25 @@ function FooterFR() {
                             <div class="col-lg-6 col-12 d-flex justify-content-lg-end align-items-center">
                                 <ul class="social-icon d-flex justify-content-lg-end">
                                     <li class="social-icon-item">
-                                        <a href="https://www.facebook.com/profile.php?id=61554405899957" target='blank' class="social-icon-link" alt="Facebook">
+                                        <a href="https://www.facebook.com/profile.php?id=61554405899957" target='blank' class="social-icon-link" aria-label="Facebook">
                                             <FaFacebook size={20} style={{ marginRight: '10px', color: 'white' }} class='button-hover' />
                                         </a>
                                     </li>
 
                                     <li class="social-icon-item">
-                                        <a href="https://www.instagram.com/mexhubb/" target='blank'class="social-icon-link" alt="Instagram">
+                                        <a href="https://www.instagram.com/mexhubb/" target='blank'class="social-icon-link" aria-label="Instagram">
                                             <FaInstagram size={20} style={{ marginRight: '10px', color: 'white' }} class='button-hover' />
                                         </a>
                                     </li>
 
                                     <li class="social-icon-item">
-                                        <a href="https://www.twitter.com/mexhubb/" class="social-icon-link" target='blank' alt="Twitter">
+                                        <a href="https://www.twitter.com/mexhubb/" class="social-icon-link" target='blank' aria-label="Twitter">
                                             <FaXTwitter size={20} style={{ marginRight: '10px', color: 'white' }} class='button-hover'  />
                                         </a>
                                     </li>
 
                                     <li class="social-icon-item">
-                                        <a href="https://www.twitter.com/mexhubb/" class="social-icon-link" target='blank' alt="Threads">
+                                        <a href="https://www.twitter.com/mexhubb/" class="social-icon-link" target='blank' aria-label="Threads">
                                             <FaThreads size={20} style={{ marginRight: '10px', color: 'white' }} class='button-hover'  />
                                         </a>
                                     </li>
