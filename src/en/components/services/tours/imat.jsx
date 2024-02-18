@@ -120,8 +120,8 @@ export default function Imat() {
 
             <Container>
 
-                <div class="section tabla-con-cartas3">
-                    <div class="box mdb-card" data-aos="fade-up">
+                <div class="section tabla-con-cartas3"  data-aos="fade-up">
+                    <div class="box mdb-card">
                         <img src="https://i.ibb.co/Wg7gX3v/image00011.jpg" class="image" alt='...' />
                         <div class="overlay">
                             <h3 class="Ttext">Time Travellers</h3>
@@ -136,7 +136,7 @@ export default function Imat() {
                             </p>
                         </div>
                     </div>
-                    <div class="box mdb-card" data-aos="fade-up">
+                    <div class="box mdb-card">
                         <img src="https://i.ibb.co/Z1Q8jwM/image00097-3.jpg" class="image" alt='...' />
                         <div class="overlay">
                             <h3 class="Ttext">Wanderlust </h3>
@@ -150,7 +150,7 @@ export default function Imat() {
                             </p>
                         </div>
                     </div>
-                    <div class="box mdb-card" data-aos="fade-up">
+                    <div class="box mdb-card">
                         <img src="https://i.ibb.co/C70Gr0h/20231222-155729.jpg" class="image" alt='...' />
                         <div class="overlay">
                             <h3 class="Ttext">Foodie Lovers</h3>
@@ -166,7 +166,7 @@ export default function Imat() {
                             </p>
                         </div>
                     </div>
-                    <div class="box mdb-card" data-aos="fade-up">
+                    <div class="box mdb-card">
                         <img src="https://i.ibb.co/jgwNRy6/image00041-4.jpg" class="image" alt='...' />
                         <div class="overlay">
                             <h3 class="Ttext">Nature Seekers</h3>
