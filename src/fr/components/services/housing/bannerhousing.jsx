@@ -18,7 +18,7 @@ export default function BannerHousingFR() {
         <MDBCarouselItem itemId={1}>
           <div className="overlay"></div>
           <img
-            src='https://i.ibb.co/TKCtk9p/IMG-7420.jpg'
+            src='https://i.ibb.co/x6Rk88M/IMG-7420.webp'
             className='d-block vw-100'
             alt='...'
           />
@@ -26,7 +26,7 @@ export default function BannerHousingFR() {
         <MDBCarouselItem itemId={2}>
           <div className="overlay"></div>
           <img
-            src='https://i.ibb.co/s1WCdZx/IMG-7461.jpg'
+            src='https://i.ibb.co/ck5nvQs/IMG-7461.webp'
             className='d-block vw-100'
             alt='...'
           />
@@ -34,7 +34,7 @@ export default function BannerHousingFR() {
         <MDBCarouselItem itemId={3}>
           <div className="overlay"></div>
           <img
-            src='https://i.ibb.co/Cwk4d0K/IMG-7488.jpg'
+            src='https://i.ibb.co/ZfkjcX4/IMG-7488.webp'
             className='d-block vw-100'
             alt='...'
           />

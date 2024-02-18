@@ -176,7 +176,7 @@ export default function ImaeES() {
 
                 <div class="section tabla-con-cartas2" data-aos="fade-up">
                     <div class="box mdb-card" >
-                        <img src="https://i.ibb.co/8YSMxtP/20231222-151621.jpg" class="image" alt='...' />
+                        <img src="https://i.ibb.co/5cnm7XS/20231222-151621.webp" class="image" alt='...' />
                         <div class="overlay">
                             <h3 class="Ttext">Fiestas de intercambio de idiomas</h3>
                             <p class="Stext">Donde podrás practicar y perfeccionar tus habilidades lingüísticas en un ambiente divertido y social.
@@ -184,14 +184,14 @@ export default function ImaeES() {
                         </div>
                     </div>
                     <div class="box mdb-card" >
-                        <img src="https://i.ibb.co/cNVBQ9X/image00094.jpg" class="image" alt='...' />
+                        <img src="https://i.ibb.co/898k7VS/image00094.webp" class="image" alt='...' />
                         <div class="overlay">
                             <h3 class="Ttext">Inmersión cultural</h3>
                             <p class="Stext">Te sumergimos en la rica y diversa cultura mexicana a través de actividades y eventos auténticos.</p>
                         </div>
                     </div>
                     <div class="box mdb-card" >
-                        <img src="https://i.ibb.co/sHgtHgx/IMG-7385.jpg" class="image" alt='...' />
+                        <img src="https://i.ibb.co/HYKPrt9/IMG-7385.webp" class="image" alt='...' />
                         <div class="overlay">
                             <h3 class="Ttext">Actividades de bienestar</h3>
                             <p class="Stext">Ofrecemos actividades de bienestar para mantener el equilibrio entre cuerpo y mente durante tu viaje.
@@ -199,7 +199,7 @@ export default function ImaeES() {
                         </div>
                     </div>
                     <div class="box mdb-card" >
-                        <img src="https://i.ibb.co/TbK8nZf/image00014-2.jpg" class="image" alt='...' />
+                        <img src="https://i.ibb.co/LQ7HTDW/image00014-2.webp" class="image" alt='...' />
                         <div class="overlay">
                             <h3 class="Ttext3">Espacios de coworking</h3>
                             <p class="Stext3">Ofrecemos espacios de trabajo compartidos para aquellos que necesitan mantenerse productivos durante su estadía.
@@ -207,7 +207,7 @@ export default function ImaeES() {
                         </div>
                     </div>
                     <div class="box mdb-card" >
-                        <img src="https://i.ibb.co/C70Gr0h/20231222-155729.jpg" class="image" alt='...' />
+                        <img src="https://i.ibb.co/ssGXLXp/20231222-155729.webp" class="image" alt='...' />
                         <div class="overlay">
                             <h3 class="Ttext2">Bar en bar</h3>
                             <p class="Stext2">Te llevamos a los mejores bares locales para disfrutar de la vida nocturna mexicana.
@@ -215,7 +215,7 @@ export default function ImaeES() {
                         </div>
                     </div>
                     <div class="box mdb-card" >
-                        <img src="https://i.ibb.co/ykgXjmn/image00037.jpg" class="image" alt='...' />
+                        <img src="https://i.ibb.co/xYQmCVC/image00037.webp" class="image" alt='...' />
                         <div class="overlay">
                             <h3 class="Ttext2">Actividades deportivas</h3>
                             <p class="Stext2">Organizamos eventos deportivos para mantenerte activo y lleno de energía.

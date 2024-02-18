@@ -176,7 +176,7 @@ export default function Imae() {
 
                 <div class="section tabla-con-cartas2" data-aos="fade-up">
                     <div class="box mdb-card" >
-                        <img src="https://i.ibb.co/8YSMxtP/20231222-151621.jpg" class="image" alt='...' />
+                        <img src="https://i.ibb.co/5cnm7XS/20231222-151621.webp" class="image" alt='...' />
                         <div class="overlay">
                             <h3 class="Ttext">Language exchange parties</h3>
                             <p class="Stext">Where you can practice and perfect your language skills in a fun and social environment.
@@ -184,14 +184,14 @@ export default function Imae() {
                         </div>
                     </div>
                     <div class="box mdb-card" >
-                        <img src="https://i.ibb.co/cNVBQ9X/image00094.jpg" class="image" alt='...' />
+                        <img src="https://i.ibb.co/898k7VS/image00094.webp" class="image" alt='...' />
                         <div class="overlay">
                             <h3 class="Ttext">Cultural immersion</h3>
                             <p class="Stext">We immerse you in the rich and diverse Mexican culture through authentic activities and events.</p>
                         </div>
                     </div>
                     <div class="box mdb-card" >
-                        <img src="https://i.ibb.co/sHgtHgx/IMG-7385.jpg" class="image" alt='...' />
+                        <img src="https://i.ibb.co/HYKPrt9/IMG-7385.webp" class="image" alt='...' />
                         <div class="overlay">
                             <h3 class="Ttext">Wellness activities</h3>
                             <p class="Stext">We offer wellness activities to maintain a balance between body and mind during your journey.
@@ -199,7 +199,7 @@ export default function Imae() {
                         </div>
                     </div>
                     <div class="box mdb-card" >
-                        <img src="https://i.ibb.co/TbK8nZf/image00014-2.jpg" class="image" alt='...' />
+                        <img src="https://i.ibb.co/LQ7HTDW/image00014-2.webp" class="image" alt='...' />
                         <div class="overlay">
                             <h3 class="Ttext3">Coworking spaces</h3>
                             <p class="Stext3">We provide shared workspaces for those who need to stay productive during their stay.
@@ -207,7 +207,7 @@ export default function Imae() {
                         </div>
                     </div>
                     <div class="box mdb-card" >
-                        <img src="https://i.ibb.co/C70Gr0h/20231222-155729.jpg" class="image" alt='...' />
+                        <img src="https://i.ibb.co/ssGXLXp/20231222-155729.webp" class="image" alt='...' />
                         <div class="overlay">
                             <h3 class="Ttext2">Bar Hopping</h3>
                             <p class="Stext2">We take you to the best local bars to enjoy Mexican nightlife.
@@ -215,7 +215,7 @@ export default function Imae() {
                         </div>
                     </div>
                     <div class="box mdb-card" >
-                        <img src="https://i.ibb.co/ykgXjmn/image00037.jpg" class="image" alt='...' />
+                        <img src="https://i.ibb.co/xYQmCVC/image00037.webp" class="image" alt='...' />
                         <div class="overlay">
                             <h3 class="Ttext2">Sports activities</h3>
                             <p class="Stext2">We organize sports events to keep you active and full of energy.

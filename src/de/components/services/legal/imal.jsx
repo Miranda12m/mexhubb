@@ -107,7 +107,7 @@ export default function ImalDE() {
 
                 <div class="section tabla-con-cartas2" data-aos="fade-up">
                     <div class="box mdb-card" >
-                        <img src="https://i.ibb.co/QkTxQ49/image00097-2.jpg" class="image" alt='...' />
+                        <img src="https://i.ibb.co/QK0Nqb0/image00097-2.webp" class="image" alt='...' />
                         <div class="overlay">
                             <h3 class="Ttext">Visa und Aufenthaltsgenehmigung</h3>
                             <p class="Stext">Arbeits- und Besuchervisa,
@@ -118,14 +118,14 @@ export default function ImalDE() {
                         </div>
                     </div>
                     <div class="box mdb-card" >
-                        <img src="https://i.ibb.co/SQPQ2XZ/image00095-2.jpg" class="image" alt='...' />
+                        <img src="https://i.ibb.co/qJPJttM/image00095-2.webp" class="image" alt='...' />
                         <div class="overlay">
                             <h3 class="Ttext">Familie und persönliche Angelegenheiten</h3>
                             <p class="Stext"> Eheschließungen und Scheidungen</p>
                         </div>
                     </div>
                     <div class="box mdb-card" >
-                        <img src="https://i.ibb.co/SnZtMFs/image00056-4.jpg" class="image" alt='...' />
+                        <img src="https://i.ibb.co/RHzTQWH/image00056-4.webp" class="image" alt='...' />
                         <div class="overlay">
                             <h3 class="Ttext">Immobilien-Transaktionen</h3>
                             <p class="Stext"> Immobilienkauf &
@@ -134,7 +134,7 @@ export default function ImalDE() {
                         </div>
                     </div>
                     <div class="box mdb-card" >
-                        <img src="https://i.ibb.co/12VcFy7/image00070-4.jpg" class="image" alt='...' />
+                        <img src="https://i.ibb.co/WpBXHtH/image00070-4.webp" class="image" alt='...' />
                         <div class="overlay">
                             <h3 class="Ttext">Geschäfts- und Unternehmensdienstleistungen</h3>
                             <p class="Stext"> <br></br>Firmengründung &
@@ -143,7 +143,7 @@ export default function ImalDE() {
                         </div>
                     </div>
                     <div class="box mdb-card">
-                        <img src="https://i.ibb.co/9y2v1cd/image00090-4.jpg" class="image" alt='...' />
+                        <img src="https://i.ibb.co/hMcXFtx/image00090-4.webp" class="image" alt='...' />
                         <div class="overlay">
                             <h3 class="Ttext">Internationale Angelegenheiten</h3>
                             <p class="Stext"> Import- und Exportdienstleistungen,
@@ -154,7 +154,7 @@ export default function ImalDE() {
                         </div>
                     </div>
                     <div class="box mdb-card">
-                        <img src="https://i.ibb.co/dptgnbW/image00078-2.jpg" class="image" alt='...' />
+                        <img src="https://i.ibb.co/3CbzgbY/image00078-2.webp" class="image" alt='...' />
                         <div class="overlay">
                             <h3 class="Ttext">Rechtliche Vertretung</h3>
                             <p class="Stext">Rechtsstreitigkeiten,

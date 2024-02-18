@@ -103,7 +103,7 @@ export default function BodyBagt01() {
                         </div>
                         <div class="col-lg-6" data-aos="fade-up">
                             <div class="img_about mt-3">
-                                <img src="https://i.ibb.co/gM10SPQ/image00004-3.jpg" alt="" class="img-fluid mx-auto d-block imagenbb" style={{maxHeight:'400px'}} />
+                                <img src="https://i.ibb.co/n1BTCRk/image00004-3.webp" alt="" class="img-fluid mx-auto d-block imagenbb" style={{maxHeight:'400px'}} />
                             </div>
                         </div>
                     </div>

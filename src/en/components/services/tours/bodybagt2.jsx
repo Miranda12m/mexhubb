@@ -70,7 +70,7 @@ export default function BodyBagt02() {
 
                         <div class="row">
                             <div class="col-lg-6" data-aos='fade-right' style={{marginBottom:'20px'}}>
-                                <img src="https://i.ibb.co/y65QmKP/image00012-3.jpg" alt="about" class="img-fluid imagenbb" width="100%" style={{maxHeight:'390px'}}/>
+                                <img src="https://i.ibb.co/FJSWZTX/image00012-3.webp" alt="about" class="img-fluid imagenbb" width="100%" style={{maxHeight:'390px'}}/>
                             </div>
                             <div class="col-lg-6" data-aos='fade-up'>
                                 <div class="heading ">

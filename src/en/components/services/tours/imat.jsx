@@ -122,7 +122,7 @@ export default function Imat() {
 
                 <div class="section tabla-con-cartas3"  data-aos="fade-up">
                     <div class="box mdb-card">
-                        <img src="https://i.ibb.co/Wg7gX3v/image00011.jpg" class="image" alt='...' />
+                        <img src="https://i.ibb.co/hK23jQX/image00011.webp" class="image" alt='...' />
                         <div class="overlay">
                             <h3 class="Ttext">Time Travellers</h3>
                             <p class="Stext">Chapultepec Castle, Anthropology Museum, Revolution Monument,
@@ -137,7 +137,7 @@ export default function Imat() {
                         </div>
                     </div>
                     <div class="box mdb-card">
-                        <img src="https://i.ibb.co/Z1Q8jwM/image00097-3.jpg" class="image" alt='...' />
+                        <img src="https://i.ibb.co/mCnkqJb/image00097-3.webp" class="image" alt='...' />
                         <div class="overlay">
                             <h3 class="Ttext">Wanderlust </h3>
                             <p class="Stext"> Puebla and Cholula,
@@ -151,7 +151,7 @@ export default function Imat() {
                         </div>
                     </div>
                     <div class="box mdb-card">
-                        <img src="https://i.ibb.co/C70Gr0h/20231222-155729.jpg" class="image" alt='...' />
+                        <img src="https://i.ibb.co/ssGXLXp/20231222-155729.webp" class="image" alt='...' />
                         <div class="overlay">
                             <h3 class="Ttext">Foodie Lovers</h3>
                             <p class="Stext"> Tolantongo Grottoes,
@@ -167,7 +167,7 @@ export default function Imat() {
                         </div>
                     </div>
                     <div class="box mdb-card">
-                        <img src="https://i.ibb.co/jgwNRy6/image00041-4.jpg" class="image" alt='...' />
+                        <img src="https://i.ibb.co/XSxYLMr/image00041-4.webp" class="image" alt='...' />
                         <div class="overlay">
                             <h3 class="Ttext">Nature Seekers</h3>
                             <p class="Stext"> Tequila, Mezcal, and Pulque Tasting,

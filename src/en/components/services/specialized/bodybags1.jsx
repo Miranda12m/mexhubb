@@ -139,7 +139,7 @@ export default function BodyBags01() {
                         </div>
                         <div class="col-lg-6" data-aos="fade-up">
                             <div class="img_about mt-3">
-                                <img src="https://i.ibb.co/zngtDVY/IMG-7587.jpg" alt="" class="img-fluid mx-auto d-block imagenbb" style={{maxHeight:'370px'}} />
+                                <img src="https://i.ibb.co/8b7XfzR/IMG-7587.webp" alt="" class="img-fluid mx-auto d-block imagenbb" style={{maxHeight:'370px'}} />
                             </div>
                         </div>
                     </div>

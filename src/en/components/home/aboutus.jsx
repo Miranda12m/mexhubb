@@ -320,7 +320,7 @@ export default function AboutUs() {
 
                             <div class="image-column col-lg-6 col-md-12 col-sm-12" data-aos="fade-right">
                                 <div class="inner-column wow fadeInLeft">
-                                    <figure class="image-1"><img src="https://i.ibb.co/XXmggCx/image00058-3.jpg" alt="" style={{ maxHeight: '520px' }} /></figure>
+                                    <figure class="image-1"><img src="https://i.ibb.co/Kzz4bR4/image00058-3.webp" alt="" style={{ maxHeight: '520px' }} /></figure>
                                     <figure class="image-2"><img src="https://i.ibb.co/vd6Jh5C/20231222-151806.jpg" alt="" style={{ maxHeight: '220px' }} /></figure>
                                 </div>
                             </div>

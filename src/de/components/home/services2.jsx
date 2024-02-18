@@ -264,7 +264,7 @@ ul {
  }
 
  .we-offer-area.text-center .fondo {
-  background: url(https://i.ibb.co/s1WCdZx/IMG-7461.jpg) no-repeat;
+  background: url(https://i.ibb.co/ck5nvQs/IMG-7461.webp) no-repeat;
   border: medium none;
   background-size: cover; 
   padding: 67px 40px 64px;
@@ -281,7 +281,7 @@ ul {
 }
 
 .we-offer-area.text-center .fondo2 {
-  background: url(https://i.ibb.co/ssyyq5v/image00077.jpg) no-repeat;
+  background: url(https://i.ibb.co/bmHrQ4z/image00077.webp) no-repeat;
   border: medium none;
   background-size: cover; 
   padding: 67px 40px 64px;
@@ -298,7 +298,7 @@ ul {
 }
 
 .we-offer-area.text-center .fondo3 {
-  background: url(https://i.ibb.co/ThB35Bx/20231222-151802.jpg) no-repeat;
+  background: url(https://i.ibb.co/Jqt3bZY/20231222-151802.webp) no-repeat;
   border: medium none;
   background-size: cover; 
   padding: 67px 40px 64px;
@@ -315,7 +315,7 @@ ul {
 }
 
 .we-offer-area.text-center .fondo4 {
-  background: url(https://i.ibb.co/dWmwgfG/image00045-4.jpg) no-repeat;
+  background: url(https://i.ibb.co/DKCbB08/image00045-4.webp) no-repeat;
   border: medium none;
   background-size: cover; 
   padding: 67px 40px 64px;
@@ -332,7 +332,7 @@ ul {
 }
 
 .we-offer-area.text-center .fondo5 {
-  background: url(https://i.ibb.co/PQVvC6Y/IMG-7481.jpg) no-repeat;
+  background: url(https://i.ibb.co/7GP9XVr/IMG-7481.webp) no-repeat;
   border: medium none;
   background-size: cover; 
   padding: 67px 40px 64px;
@@ -349,7 +349,7 @@ ul {
 }
 
 .we-offer-area.text-center .fondo6 {
-  background: url(https://i.ibb.co/MGHqkKh/image00100-3.jpg) no-repeat;
+  background: url(https://i.ibb.co/zJ63JSW/image00100-3.webp) no-repeat;
   border: medium none;
   background-size: cover; 
   padding: 67px 40px 64px;

@@ -18,7 +18,7 @@ export default function BannerTours() {
         <MDBCarouselItem itemId={1}>
           <div className="overlay"></div>
           <img
-            src='https://i.ibb.co/ssyyq5v/image00077.jpg'
+            src='https://i.ibb.co/bmHrQ4z/image00077.webp'
             className='d-block vw-100'
             alt='...'
           />
@@ -26,7 +26,7 @@ export default function BannerTours() {
         <MDBCarouselItem itemId={2}>
           <div className="overlay"></div>
           <img
-            src='https://i.ibb.co/GQw4d86/image00070-3.jpg'
+            src='https://i.ibb.co/92vz97H/image00070-3.webp'
             className='d-block vw-100'
             alt='...'
           />
@@ -34,7 +34,7 @@ export default function BannerTours() {
         <MDBCarouselItem itemId={3}>
           <div className="overlay"></div>
           <img
-            src='https://i.ibb.co/Z1Q8jwM/image00097-3.jpg'
+            src='https://i.ibb.co/mCnkqJb/image00097-3.webp'
             className='d-block vw-100'
             alt='...'
           />

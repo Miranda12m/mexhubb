@@ -109,28 +109,28 @@ export default function ImahFR() {
 
                 <div class="section tabla-con-cartas2">
                     <div class="box mdb-card" data-aos="fade-up">
-                        <img src="https://i.ibb.co/P1Hs2kk/image00076-4.jpg" class="image" alt='...' />
+                        <img src="https://i.ibb.co/rvCLK0Z/image00076-4.webp" class="image" alt='...' />
                             <div class="overlay">
                                 <h3 class="Ttext">Processus transparent</h3>
                                 <p class="Stext"> Nous avons rationalisé notre service de logement pour garantir une expérience sans tracas.</p>
                             </div>
                     </div>
                     <div class="box mdb-card" data-aos="fade-up">
-                        <img src="https://i.ibb.co/LYr9gC8/image00037-4.jpg" class="image" alt='...' />
+                        <img src="https://i.ibb.co/fdv6nMb/image00037-4.webp" class="image" alt='...' />
                             <div class="overlay">
                                 <h3 class="Ttext">Diverse options</h3>
                                 <p class="Stext"> Explorez une gamme d'options de logement dans les quartiers les plus recherchés de Mexico.</p>
                             </div>
                     </div>
                     <div class="box mdb-card" data-aos="fade-up">
-                        <img src="https://i.ibb.co/dptgnbW/image00078-2.jpg" class="image" alt='...' />
+                        <img src="https://i.ibb.co/3CbzgbY/image00078-2.webp" class="image" alt='...' />
                             <div class="overlay">
                                 <h3 class="Ttext">Transactions transparentes</h3>
                                 <p class="Stext"> Nous nous occupons de tout, garantissant une transaction transparente et sécurisée.</p>
                             </div>
                     </div>
                     <div class="box mdb-card" data-aos="fade-up">
-                        <img src="https://i.ibb.co/dWmwgfG/image00045-4.jpg" class="image" alt='...' />
+                        <img src="https://i.ibb.co/DKCbB08/image00045-4.webp" class="image" alt='...' />
                             <div class="overlay">
                                 <h3 class="Ttext">Contrats sur mesure</h3>
                                 <p class="Stext"> Nos contrats de location s'adressent aux étrangers ou aux particuliers dans un esprit de flexibilité. </p>

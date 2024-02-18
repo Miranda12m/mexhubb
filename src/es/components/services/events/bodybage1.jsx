@@ -101,7 +101,7 @@ export default function BodyBage01ES() {
                         </div>
                         <div class="col-lg-6" data-aos="fade-up">
                             <div class="img_about mt-3">
-                                <img src="https://i.ibb.co/9cw8QYh/20231222-152528.jpg" alt="" class="img-fluid mx-auto d-block imagenbb" style={{maxHeight:'370px'}} />
+                                <img src="https://i.ibb.co/dJLR93z/20231222-152528.webp" alt="" class="img-fluid mx-auto d-block imagenbb" style={{maxHeight:'370px'}} />
                             </div>
                         </div>
                     </div>

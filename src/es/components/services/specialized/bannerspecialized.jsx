@@ -18,7 +18,7 @@ export default function BannerSpecializedES() {
         <MDBCarouselItem itemId={1}>
           <div className="overlay"></div>
           <img
-            src='https://i.ibb.co/zHkQW2y/image00062-2.jpg'
+            src='https://i.ibb.co/619vKjB/image00062-2.webp'
             className='d-block vw-100'
             alt='...'
           />
@@ -26,7 +26,7 @@ export default function BannerSpecializedES() {
         <MDBCarouselItem itemId={2}>
           <div className="overlay"></div>
           <img
-            src='https://i.ibb.co/SQPQ2XZ/image00095-2.jpg'
+            src='https://i.ibb.co/qJPJttM/image00095-2.webp'
             className='d-block vw-100'
             alt='...'
           />
@@ -34,7 +34,7 @@ export default function BannerSpecializedES() {
         <MDBCarouselItem itemId={3}>
           <div className="overlay"></div>
           <img
-            src='https://i.ibb.co/SnZtMFs/image00056-4.jpg'
+            src='https://i.ibb.co/RHzTQWH/image00056-4.webp'
             className='d-block vw-100'
             alt='...'
           />

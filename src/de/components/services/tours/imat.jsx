@@ -122,7 +122,7 @@ export default function ImatDE() {
 
                 <div class="section tabla-con-cartas3" data-aos="fade-up">
                     <div class="box mdb-card">
-                        <img src="https://i.ibb.co/Wg7gX3v/image00011.jpg" class="image" alt='...' />
+                        <img src="https://i.ibb.co/hK23jQX/image00011.webp" class="image" alt='...' />
                         <div class="overlay">
                             <h3 class="Ttext">Zeitreisende</h3>
                             <p class="Stext">Schloss Chapultepec, Anthropologiemuseum, Revolutionsdenkmal,
@@ -137,7 +137,7 @@ export default function ImatDE() {
                         </div>
                     </div>
                     <div class="box mdb-card">
-                        <img src="https://i.ibb.co/Z1Q8jwM/image00097-3.jpg" class="image" alt='...' />
+                        <img src="https://i.ibb.co/mCnkqJb/image00097-3.webp" class="image" alt='...' />
                         <div class="overlay">
                             <h3 class="Ttext">Fernweh </h3>
                             <p class="Stext"> Puebla und Cholula,
@@ -151,7 +151,7 @@ export default function ImatDE() {
                         </div>
                     </div>
                     <div class="box mdb-card">
-                        <img src="https://i.ibb.co/C70Gr0h/20231222-155729.jpg" class="image" alt='...' />
+                        <img src="https://i.ibb.co/ssGXLXp/20231222-155729.webp" class="image" alt='...' />
                         <div class="overlay">
                             <h3 class="Ttext">Foodie-Liebhaber</h3>
                             <p class="Stext"> Verkostung von Tequila, Mezcal und Pulque,
@@ -163,7 +163,7 @@ export default function ImatDE() {
                         </div>
                     </div>
                     <div class="box mdb-card" >
-                        <img src="https://i.ibb.co/jgwNRy6/image00041-4.jpg" class="image" alt='...' />
+                        <img src="https://i.ibb.co/XSxYLMr/image00041-4.webp" class="image" alt='...' />
                         <div class="overlay">
                             <h3 class="Ttext">Naturforscher</h3>
                             <p class="Stext"> Tolantongo-Grotten,

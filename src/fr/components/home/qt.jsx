@@ -7,7 +7,7 @@ function QtFR() {
             <style>
                 {`
                     .qt-background {
-                        background: url(https://i.ibb.co/gzw0HM0/IMG-7564.jpg) no-repeat ;
+                        background: url(https://i.ibb.co/8DVxv5b/IMG-7564.webp) no-repeat ;
                         background-size: cover;
                         padding: 100px 0;
                         background-attachment: fixed;

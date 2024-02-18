@@ -107,7 +107,7 @@ export default function ImalFR() {
 
                 <div class="section tabla-con-cartas2" data-aos="fade-up">
                     <div class="box mdb-card" >
-                        <img src="https://i.ibb.co/QkTxQ49/image00097-2.jpg" class="image" alt='...' />
+                        <img src="https://i.ibb.co/QK0Nqb0/image00097-2.webp" class="image" alt='...' />
                         <div class="overlay">
                             <h3 class="Ttext">Visas et résidence</h3>
                             <p class="Stext">Visas de travail et de visiteur,
@@ -118,14 +118,14 @@ export default function ImalFR() {
                         </div>
                     </div>
                     <div class="box mdb-card" >
-                        <img src="https://i.ibb.co/SQPQ2XZ/image00095-2.jpg" class="image" alt='...' />
+                        <img src="https://i.ibb.co/qJPJttM/image00095-2.webp" class="image" alt='...' />
                         <div class="overlay">
                             <h3 class="Ttext">Affaires familiales et personnelles</h3>
                             <p class="Stext"> Mariage et divorce</p>
                         </div>
                     </div>
                     <div class="box mdb-card" >
-                        <img src="https://i.ibb.co/SnZtMFs/image00056-4.jpg" class="image" alt='...' />
+                        <img src="https://i.ibb.co/RHzTQWH/image00056-4.webp" class="image" alt='...' />
                         <div class="overlay">
                             <h3 class="Ttext">Opérations immobilières</h3>
                             <p class="Stext"> Achat de propriété et enregistrement auprès des autorités fiscales
@@ -133,7 +133,7 @@ export default function ImalFR() {
                         </div>
                     </div>
                     <div class="box mdb-card" >
-                        <img src="https://i.ibb.co/12VcFy7/image00070-4.jpg" class="image" alt='...' />
+                        <img src="https://i.ibb.co/WpBXHtH/image00070-4.webp" class="image" alt='...' />
                         <div class="overlay">
                             <h3 class="Ttext">Services aux entreprises et aux entreprises</h3>
                             <p class="Stext"> <br></br>Formation d'entreprise &
@@ -142,7 +142,7 @@ export default function ImalFR() {
                         </div>
                     </div>
                     <div class="box mdb-card">
-                        <img src="https://i.ibb.co/9y2v1cd/image00090-4.jpg" class="image" alt='...' />
+                        <img src="https://i.ibb.co/hMcXFtx/image00090-4.webp" class="image" alt='...' />
                         <div class="overlay">
                             <h3 class="Ttext">Les affaires internationales</h3>
                             <p class="Stext">Services d'importation et d'exportation,
@@ -153,7 +153,7 @@ export default function ImalFR() {
                         </div>
                     </div>
                     <div class="box mdb-card">
-                        <img src="https://i.ibb.co/dptgnbW/image00078-2.jpg" class="image" alt='...' />
+                        <img src="https://i.ibb.co/3CbzgbY/image00078-2.webp" class="image" alt='...' />
                         <div class="overlay">
                             <h3 class="Ttext">Représentation légale</h3>
                             <p class="Stext"> Poursuites,

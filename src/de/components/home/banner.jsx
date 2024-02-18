@@ -25,7 +25,7 @@ export default function AppDE() {
         <MDBCarouselItem itemId={1}>
           <div className="overlay"></div>
           <img
-            src='https://i.ibb.co/1vnfhKv/image00072.jpg'
+            src='https://i.ibb.co/c6QsPkk/image00072.webp'
             className='d-block vw-100'
             alt='...'
           />
@@ -33,7 +33,7 @@ export default function AppDE() {
         <MDBCarouselItem itemId={2}>
           <div className="overlay"></div>
           <img
-            src='https://i.ibb.co/L0R79RJ/20231222-151406.jpg'
+            src='https://i.ibb.co/BNgh0Sz/20231222-151406.webp'
             className='d-block vw-100'
             alt='...'
           />
@@ -41,7 +41,7 @@ export default function AppDE() {
         <MDBCarouselItem itemId={3}>
           <div className="overlay"></div>
           <img
-            src='https://i.ibb.co/5j7znwL/image00025-4.jpg'
+            src='https://i.ibb.co/NNNTH1c/image00025-4.webp'
             className='d-block vw-100'
             alt='...'
           />

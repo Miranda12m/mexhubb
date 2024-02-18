@@ -18,7 +18,7 @@ export default function BannerLegal() {
         <MDBCarouselItem itemId={1}>
           <div className="overlay"></div>
           <img
-            src='https://i.ibb.co/PQVvC6Y/IMG-7481.jpg'
+            src='https://i.ibb.co/7GP9XVr/IMG-7481.webp'
             className='d-block vw-100'
             alt='...'
           />
@@ -26,7 +26,7 @@ export default function BannerLegal() {
         <MDBCarouselItem itemId={2}>
           <div className="overlay"></div>
           <img
-            src='https://i.ibb.co/zngtDVY/IMG-7587.jpg'
+            src='https://i.ibb.co/8b7XfzR/IMG-7587.webp'
             className='d-block vw-100'
             alt='...'
           />
@@ -34,7 +34,7 @@ export default function BannerLegal() {
         <MDBCarouselItem itemId={3}>
           <div className="overlay"></div>
           <img
-            src='https://i.ibb.co/QkTxQ49/image00097-2.jpg'
+            src='https://i.ibb.co/QK0Nqb0/image00097-2.webp'
             className='d-block vw-100'
             alt='...'
           />

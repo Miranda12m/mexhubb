@@ -122,7 +122,7 @@ export default function ImatES() {
 
                 <div class="section tabla-con-cartas3" data-aos="fade-up">
                     <div class="box mdb-card">
-                        <img src="https://i.ibb.co/Wg7gX3v/image00011.jpg" class="image" alt='...' />
+                        <img src="https://i.ibb.co/hK23jQX/image00011.webp" class="image" alt='...' />
                         <div class="overlay">
                             <h3 class="Ttext">Viajeros del Tiempo</h3>
                             <p class="Stext">Castillo de Chapultepec, Museo de Antropología, Monumento a la Revolución,
@@ -136,7 +136,7 @@ export default function ImatES() {
                         </div>
                     </div>
                     <div class="box mdb-card">
-                        <img src="https://i.ibb.co/Z1Q8jwM/image00097-3.jpg" class="image" alt='...' />
+                        <img src="https://i.ibb.co/mCnkqJb/image00097-3.webp" class="image" alt='...' />
                         <div class="overlay">
                             <h3 class="Ttext">Pasión de viajar</h3>
                             <p class="Stext"> Puebla y Cholula,
@@ -150,7 +150,7 @@ export default function ImatES() {
                         </div>
                     </div>
                     <div class="box mdb-card">
-                        <img src="https://i.ibb.co/C70Gr0h/20231222-155729.jpg" class="image" alt='...' />
+                        <img src="https://i.ibb.co/ssGXLXp/20231222-155729.webp" class="image" alt='...' />
                         <div class="overlay">
                             <h3 class="Ttext">Amantes de la comida</h3>
                             <p class="Stext"> Grutas de Tolantongo,
@@ -166,7 +166,7 @@ export default function ImatES() {
                         </div>
                     </div>
                     <div class="box mdb-card">
-                        <img src="https://i.ibb.co/jgwNRy6/image00041-4.jpg" class="image" alt='...' />
+                        <img src="https://i.ibb.co/XSxYLMr/image00041-4.webp" class="image" alt='...' />
                         <div class="overlay">
                             <h3 class="Ttext">Buscadores de la naturaleza</h3>
                             <p class="Stext"> Degustación de Tequila, Mezcal y Pulque,

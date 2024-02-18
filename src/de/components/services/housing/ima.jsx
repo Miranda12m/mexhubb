@@ -109,28 +109,28 @@ export default function ImahDE() {
 
                 <div class="section tabla-con-cartas2">
                     <div class="box mdb-card" data-aos="fade-up">
-                        <img src="https://i.ibb.co/P1Hs2kk/image00076-4.jpg" class="image" alt='...' />
+                        <img src="https://i.ibb.co/rvCLK0Z/image00076-4.webp" class="image" alt='...' />
                             <div class="overlay">
                                 <h3 class="Ttext">Nahtloser Prozess</h3>
                                 <p class="Stext">Wir haben unseren Wohnungsservice gestrafft, um einen reibungslosen Ablauf zu gewährleisten.</p>
                             </div>
                     </div>
                     <div class="box mdb-card" data-aos="fade-up">
-                        <img src="https://i.ibb.co/LYr9gC8/image00037-4.jpg" class="image" alt='...' />
+                        <img src="https://i.ibb.co/fdv6nMb/image00037-4.webp" class="image" alt='...' />
                             <div class="overlay">
                                 <h3 class="Ttext">Vielfältige Optionen</h3>
                                 <p class="Stext"> Entdecken Sie eine Reihe von Wohnmöglichkeiten in den begehrtesten Vierteln von Mexiko-Stadt.</p>
                             </div>
                     </div>
                     <div class="box mdb-card" data-aos="fade-up">
-                        <img src="https://i.ibb.co/dptgnbW/image00078-2.jpg" class="image" alt='...' />
+                        <img src="https://i.ibb.co/3CbzgbY/image00078-2.webp" class="image" alt='...' />
                             <div class="overlay">
                                 <h3 class="Ttext">Transparente Vorgänge</h3>
                                 <p class="Stext"> Wir kümmern uns um alles und gewährleisten eine transparente und sichere Transaktion.</p>
                             </div>
                     </div>
                     <div class="box mdb-card" data-aos="fade-up">
-                        <img src="https://i.ibb.co/dWmwgfG/image00045-4.jpg" class="image" alt='...' />
+                        <img src="https://i.ibb.co/DKCbB08/image00045-4.webp" class="image" alt='...' />
                             <div class="overlay">
                                 <h3 class="Ttext">Maßgeschneiderte Verträge</h3>
                                 <p class="Stext"> Unsere Mietverträge sind für Ausländer oder Privatpersonen gedacht, die flexibel sein wollen.</p>

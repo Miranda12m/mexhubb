@@ -115,7 +115,7 @@ export default function ImasFR() {
 
         <div class="section tabla-con-cartas2" data-aos="fade-up">
           <div class="box mdb-card" >
-            <img src="https://i.ibb.co/5BQHwJT/image00023.jpg" class="image" alt='...' />
+            <img src="https://i.ibb.co/FYb0SV3/image00023.webp" class="image" alt='...' />
             <div class="overlay">
               <h3 class="Ttext">Services du personnel</h3>
               <p class="Stext">Les femmes de ménage,
@@ -133,7 +133,7 @@ export default function ImasFR() {
             </div>
           </div>
           <div class="box mdb-card" >
-            <img src="https://i.ibb.co/gvXGrN5/image00004-2.jpg" class="image" alt='...' />
+            <img src="https://i.ibb.co/DbsT8gC/image00004-2.webp" class="image" alt='...' />
             <div class="overlay">
               <h3 class="Ttext">Services consultatifs en matière de santé</h3>
               <p class="Stext"> Médecins anglophones,
@@ -144,7 +144,7 @@ export default function ImasFR() {
             </div>
           </div>
           <div class="box mdb-card" >
-            <img src="https://i.ibb.co/6R65WZK/image00063-2.jpg" class="image" alt='...' />
+            <img src="https://i.ibb.co/TWfs908/image00063-2.webp" class="image" alt='...' />
             <div class="overlay">
               <h3 class="Ttext">Services quotidiens</h3>
               <p class="Stext">Gymnases,
@@ -161,7 +161,7 @@ export default function ImasFR() {
             </div>
           </div>
           <div class="box mdb-card" >
-            <img src="https://i.ibb.co/3N5BDX9/image00061-4.jpg" class="image" alt='...' />
+            <img src="https://i.ibb.co/NT6LrnL/image00061-4.webp" class="image" alt='...' />
             <div class="overlay">
               <h3 class="Ttext">Conseil d'achat</h3>
               <p class="Stext"> Propriétés et véhicules
