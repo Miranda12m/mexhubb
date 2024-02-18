@@ -53,18 +53,20 @@ export default function App() {
         <div className="row">
           <div className="col-md-12 text-white text-center" >
             <h1 className="m-b-20" >
-              <strong style={{textShadow: '2px 2px 4px rgba(0, 0, 0, 0.5)', fontSize: '2em', fontWeight:'bold', color: 'white'}}>
-Mexhubb              <br />
+              <strong style={{ textShadow: '2px 2px 4px rgba(0, 0, 0, 0.5)', fontSize: '2em', fontWeight: 'bold', color: 'white' }}>
+                Mexhubb              <br />
               </strong>
-              <strong style={{textShadow: '2px 2px 4px rgba(0, 0, 0, 0.5)',fontWeight:'bold', color: 'white'}}>From Ideas to Reality <br /></strong>
+              <strong style={{ textShadow: '2px 2px 4px rgba(0, 0, 0, 0.5)', fontWeight: 'bold', color: 'white' }}>From Ideas to Reality <br /></strong>
             </h1>
-            <p className="m-b-40" style={{textShadow: '2px 2px 4px rgba(0, 0, 0, 0.5)', fontSize: '1.3em', fontWeight:'bold'}}>
-              
+            <p className="m-b-40" style={{ textShadow: '2px 2px 4px rgba(0, 0, 0, 0.5)', fontSize: '1.3em', fontWeight: 'bold' }}>
+
             </p>
             <br></br>
             <p>
-              <Link to="/en/services">
-              <button type="button" className="btn btn-primary button-hover">Join Mexhubb!</button>
+              <Link to="/en/services" class="btn-box ">
+                <div class="btn-box ">
+                  <a href="/en/services" class="theme-btn btn-style-one button-hover">Join Mexhubb</a>
+                </div>
               </Link>
             </p>
           </div>

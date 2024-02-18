@@ -64,7 +64,9 @@ Mexhubb              <br />
             <br></br>
             <p>
               <Link to="/de/services">
-              <button type="button" className="btn btn-primary button-hover">Werden Sie Mitglied bei Mexhubb!</button>
+              <div class="btn-box ">
+                  <a href="/de/services" class="theme-btn btn-style-one button-hover">Werden Sie Mitglied bei Mexhubb</a>
+                </div>
               </Link>
             </p>
           </div>
