@@ -314,7 +314,7 @@ export default function Product() {
                         <ol class="custom-breadcrumb-list" >
                             <li class="custom-breadcrumb-item"><a href="/#/en/home">Home</a></li>
                             <li class="custom-breadcrumb-item"><a href="#/en/housing">Housing</a></li>
-                            <li class="custom-breadcrumb-item active">Paseo Reforma Department</li>
+                            <li class="custom-breadcrumb-item active">Paseo Reforma Department </li>
                         </ol>
                     </nav>
                 </div>
