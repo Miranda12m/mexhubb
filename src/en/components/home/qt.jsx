@@ -7,7 +7,7 @@ function Qt() {
             <style>
                 {`
                     .qt-background {
-                        background: url(https://i.ibb.co/8DVxv5b/IMG-7564.webp) no-repeat ;
+                        background: url(https://images.unsplash.com/photo-1575540203949-54ccd7a66d98?q=80&w=2139&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D) no-repeat ;
                         background-size: cover;
                         padding: 100px 0;
                         background-attachment: fixed;
