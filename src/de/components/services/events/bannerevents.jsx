@@ -26,7 +26,7 @@ export default function BannerEventsDE() {
         <MDBCarouselItem itemId={2}>
           <div className="overlay"></div>
           <img
-            src='https://i.ibb.co/CJq8xGw/20231222-152336.webp'
+            src='https://images.unsplash.com/photo-1620909868342-5659c05ab5e5?q=80&w=1931&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
             className='d-block vw-100'
             alt='...'
           />
@@ -34,7 +34,7 @@ export default function BannerEventsDE() {
         <MDBCarouselItem itemId={3}>
           <div className="overlay"></div>
           <img
-            src='https://i.ibb.co/VJXTGtk/image00019-2.webp'
+            src='https://images.unsplash.com/photo-1620909916981-10d715f5191a?q=80&w=2124&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
             className='d-block vw-100'
             alt='...'
           />

@@ -320,7 +320,7 @@ export default function ServicesOpES() {
         <Link to='/es/housing' style={{ color: 'black' }}>
           <div class="blog-card mdb-card" data-aos="fade-right">
             <div class="meta">
-              <div class="photo" style={{ backgroundImage: "url(https://i.ibb.co/ck5nvQs/IMG-7461.webp)" }}></div>
+              <div class="photo" style={{ backgroundImage: "url(https://images.unsplash.com/photo-1562659462-efa4838d012e?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)" }}></div>
 
               <ul class="details">
                 <br></br>
@@ -460,7 +460,7 @@ export default function ServicesOpES() {
         <Link to='/es/specialized' style={{ color: 'black' }} >
           <div class="blog-card mdb-card" data-aos="fade-right">
             <div class="meta">
-              <div class="photo" style={{ backgroundImage: "url(https://i.ibb.co/8b7XfzR/IMG-7587.webp)" }}></div>
+              <div class="photo" style={{ backgroundImage: "url(https://images.unsplash.com/photo-1562564055-71e051d33c19?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)" }}></div>
               <ul class="details">
               <br></br>
                 <li class="author">Explore nuestras categorías de servicios especializados:</li>

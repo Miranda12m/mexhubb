@@ -264,7 +264,7 @@ ul {
  }
 
  .we-offer-area.text-center .fondo {
-  background: url(https://i.ibb.co/ck5nvQs/IMG-7461.webp) no-repeat;
+  background: url(https://images.unsplash.com/photo-1564166820921-2b102dad13fd?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D) no-repeat;
   border: medium none;
   background-size: cover; 
   padding: 67px 40px 64px;
@@ -332,7 +332,7 @@ ul {
 }
 
 .we-offer-area.text-center .fondo5 {
-  background: url(https://i.ibb.co/7GP9XVr/IMG-7481.webp) no-repeat;
+  background: url(https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D) no-repeat;
   border: medium none;
   background-size: cover; 
   padding: 67px 40px 64px;
@@ -349,7 +349,7 @@ ul {
 }
 
 .we-offer-area.text-center .fondo6 {
-  background: url(https://i.ibb.co/zJ63JSW/image00100-3.webp) no-repeat;
+  background: url(https://images.unsplash.com/photo-1526045612212-70caf35c14df?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D) no-repeat;
   border: medium none;
   background-size: cover; 
   padding: 67px 40px 64px;
@@ -437,7 +437,7 @@ ul {
                       </svg></i>
                       <h4>Visites à Mexhubb</h4>
                       <p>
-                      Mexhubb Tours, où chaque voyage est une exploration et une expérience enrichissante qui plonge au plus profond de l'essence culturelle.
+                      Mexhubb Tours, où chaque voyage est une exploration et une expérience enrichissante qui plonge dans l'essence culturelle.
                       </p>
                     </div>
                   </Link>
